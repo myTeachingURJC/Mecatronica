@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="768.18994mm"
-   height="934.04968mm"
-   viewBox="0 0 768.18993 934.04967"
+   width="509.47644mm"
+   height="337.9397mm"
+   viewBox="0 0 509.47643 337.93969"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
@@ -29,8 +29,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.11858398"
-     inkscape:cx="2082.912"
-     inkscape:cy="2424.4422"
+     inkscape:cx="1130.0009"
+     inkscape:cy="1235.4114"
      inkscape:window-width="1858"
      inkscape:window-height="1016"
      inkscape:window-x="62"
@@ -239,14 +239,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="back"
-     transform="translate(44.81567,33.046497)">
+     transform="translate(-94.636505,-257.32651)">
     <rect
-       style="fill:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:#ffffff;stroke-width:1.0854;stroke-linecap:round;stroke-linejoin:round"
        id="rect1566"
-       width="768.18994"
-       height="934.04968"
-       x="-44.81567"
-       y="-33.046497"
+       width="509.47644"
+       height="337.9397"
+       x="94.636505"
+       y="257.32651"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -256,10 +256,10 @@
      id="layer4"
      inkscape:label="Entorno"
      style="display:inline"
-     transform="translate(44.81567,33.046497)">
+     transform="translate(-94.636505,-257.32651)">
     <path
-       style="display:inline;fill:#d5ffd5;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1.50644,872.73731 H 665.35438 V 312.10752 L 355.30397,2.0571 1.50644,312.10752 Z"
+       style="display:inline;fill:#d5ffd5;stroke:#000000;stroke-width:1.0854;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 236.18367,585.03962 H 476.36423 V 382.20344 L 364.18782,270.02703 236.18367,382.20344 Z"
        id="path27908"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
@@ -267,36 +267,36 @@
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:29.4306px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="473.78738"
-       y="372.70444"
+       style="font-style:normal;font-weight:normal;font-size:10.648px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0957262"
+       x="407.05518"
+       y="404.12747"
        id="text1036-9"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan1034-7"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
-         x="473.78738"
-         y="372.70444">Entorno</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.0957262"
+         x="407.05518"
+         y="404.12747">Entorno</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:29.4306px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="245.07056"
-       y="331.82687"
+       style="font-style:normal;font-weight:normal;font-size:10.648px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0957262"
+       x="324.3053"
+       y="389.33792"
        id="text1036-9-3"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan1034-7-6"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
-         x="245.07056"
-         y="331.82687">Robot </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.0957262"
+         x="324.3053"
+         y="389.33792">Robot </tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
-         x="245.07056"
-         y="368.61511"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.0957262"
+         x="324.3053"
+         y="402.64792"
          id="tspan28590">Físico</tspan></text>
   </g>
   <g
@@ -304,48 +304,48 @@
      id="layer2"
      inkscape:label="Body"
      style="display:inline;opacity:1"
-     transform="translate(356.48151,659.20651)">
+     transform="translate(217.02933,368.83351)">
     <path
-       style="fill:#e6e6e6;stroke:#000000;stroke-width:1.32292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 37.306527,-110.12995 v -54.73023 h 22.259046 v -10.54102 h 21.930933 v -35.71103 H 60.723368 v -9.81243 H 38.076647 v -22.8216 H -99.167835 v 20.89225 h -22.986755 v 12.36159 h -21.00077 v 35.23443 h 21.90467 v 9.35857 h 22.108793 v 55.69031 h -67.506733 v 15.220881 h -39.31284 V 86.864839 l -14.34614,24.843351 v 17.01254 h 15.47677 v -16.73094 l 8.1561,-8.1545 h 7.4261 l 4.41917,7.65275 v 16.93051 h 19.54846 V 110.5714 L -182.36599,88.461886 V -71.845371 h 13.39105 v 21.184043 h 28.35162 V 43.03939 h 90.219494 v 67.08179 h -52.093554 c 0,0 -34.46318,2.61157 -34.46318,40.99058 0,38.37899 34.73661,39.05584 34.73661,39.05584 l 143.680952,0.0613 c 0,0 35.371804,-2.57111 35.371804,-39.72395 0,-37.15285 -36.140768,-41.41689 -36.140768,-41.41689 l -51.800852,-0.0706 V 44.05715 h 91.352299 v -94.686074 h 25.486675 v -21.50708 h 15.84443 V 88.973277 L 107.77364,112.8656 v 17.10578 h 14.71559 v -14.35992 l 7.20254,-12.4727 h 8.04845 l 4.95433,8.5795 v 17.54653 h 17.78277 V 112.26773 L 145.34416,86.061514 V -97.419062 H 104.1551 V -109.6093 Z"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.478633;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 50.2312,-170.17728 v -19.80143 h 8.05333 v -3.81374 h 7.93463 v -12.92027 h -7.51574 v -3.55015 h -8.19359 v -8.25686 H 0.85469958 v 7.55882 H -7.4619204 v 4.47243 H -15.06001 v 12.74784 h 7.9251196 v 3.38594 h 7.99896998 v 20.14878 H -23.55989 v 5.50692 H -37.7833 v 65.794551 l -5.19044,8.98834 v 6.15514 h 5.5995 v -6.05326 l 2.95088,-2.95031 h 2.68677 l 1.59886,2.76877 v 6.12547 h 7.07264 v -6.45711 l -6.18135,-7.99923 V -156.3259 h 4.84489 v 7.6644 h 10.25763 v 33.90097 h 32.64146 v 24.270231 H -0.34993042 c 0,0 -12.46879958,0.94487 -12.46879958,14.83042 0,13.88554 12.56771958,14.13042 12.56771958,14.13042 l 51.98385042,0.0222 c 0,0 12.79754,-0.93023 12.79754,-14.37215 0,-13.44192 -13.07575,-14.98465 -13.07575,-14.98465 l -18.74158,-0.0255 v -23.502671 h 33.05132 v -34.25754 h 9.22109 v -7.78128 h 5.73252 v 58.289431 l -4.99174,8.64426 v 6.18887 h 5.32411 v -5.19542 l 2.60588,-4.51263 h 2.91194 l 1.79247,3.10407 v 6.34834 h 6.43382 v -6.14955 l -5.47519,-9.48142 V -165.57847 H 74.41705 v -4.41044 z"
        id="path8203"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccczcczcccc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <ellipse
-       style="fill:#ffffff;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.478633;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path17665"
-       cx="-60.687298"
-       cy="-194.02031"
-       rx="23.068304"
-       ry="23.063761"
+       cx="14.776975"
+       cy="-200.52887"
+       rx="8.3461256"
+       ry="8.3444815"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <ellipse
-       style="display:inline;fill:#000000;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.478633;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path17665-2"
-       cx="-66.494156"
-       cy="-189.7541"
-       rx="15.332611"
-       ry="15.329591"
+       cx="12.676053"
+       cy="-198.98534"
+       rx="5.5473471"
+       ry="5.5462546"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <ellipse
-       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.478633;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path17665-7"
-       cx="-1.260924"
-       cy="-194.02031"
-       rx="23.068304"
-       ry="23.063761"
+       cx="36.277462"
+       cy="-200.52887"
+       rx="8.3461256"
+       ry="8.3444815"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
-       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M -104.50244,122.57822 42.126151,122.2531 c 0,0 23.212534,4.39662 23.212534,28.18982 0,23.79319 -19.297205,27.14256 -19.297205,27.14256 l -148.76457,0.34605 c 0,0 -23.00882,-3.72463 -23.00882,-26.83642 0,-23.11181 21.22947,-28.51689 21.22947,-28.51689 z"
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.287179;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1.0753704,-85.983339 53.0503104,-0.11762 c 0,0 8.39831,1.5907 8.39831,10.19909 0,8.60839 -6.98174,9.82019 -6.98174,9.82019 l -53.82310042,0.1252 c 0,0 -8.32460998,-1.34757 -8.32460998,-9.70943 0,-8.36186 7.68083,-10.31743 7.68083,-10.31743 z"
        id="path18027"
        sodipodi:nodetypes="cczcczc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
@@ -353,32 +353,32 @@
        inkscape:export-ydpi="96" />
     <path
        id="path19039-5"
-       style="display:inline;opacity:1;fill:#000000;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -32.897354,130.98954 a 17.510579,17.50713 0 0 0 -17.510386,17.50694 17.510579,17.50713 0 0 0 17.510386,17.50692 17.510579,17.50713 0 0 0 17.510386,-17.50692 17.510579,17.50713 0 0 0 -17.510386,-17.50694 z m 0.244398,7.82903 a 9.1999823,9.1981702 0 0 1 9.200104,9.19827 9.1999823,9.1981702 0 0 1 -9.200104,9.19832 9.1999823,9.1981702 0 0 1 -9.200102,-9.19832 9.1999823,9.1981702 0 0 1 9.200102,-9.19827 z"
+       style="display:inline;opacity:1;fill:#000000;stroke:#000000;stroke-width:0.287179;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 24.83139,-82.940109 a 6.3353373,6.3340892 0 0 0 -6.33526,6.33402 6.3353373,6.3340892 0 0 0 6.33526,6.33401 6.3353373,6.3340892 0 0 0 6.33527,-6.33401 6.3353373,6.3340892 0 0 0 -6.33527,-6.33402 z m 0.0884,2.83254 a 3.3285587,3.3279031 0 0 1 3.3286,3.32794 3.3285587,3.3279031 0 0 1 -3.3286,3.32796 3.3285587,3.3279031 0 0 1 -3.32861,-3.32796 3.3285587,3.3279031 0 0 1 3.32861,-3.32794 z"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path19039-5-5"
-       style="display:inline;opacity:1;fill:#000000;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 22.508219,130.98954 A 17.510579,17.50713 0 0 0 4.9978332,148.49648 17.510579,17.50713 0 0 0 22.508219,166.0034 17.510579,17.50713 0 0 0 40.018605,148.49648 17.510579,17.50713 0 0 0 22.508219,130.98954 Z m 0.244398,7.82903 a 9.1999823,9.1981702 0 0 1 9.200104,9.19827 9.1999823,9.1981702 0 0 1 -9.200104,9.19832 9.1999823,9.1981702 0 0 1 -9.200102,-9.19832 9.1999823,9.1981702 0 0 1 9.200102,-9.19827 z"
+       style="display:inline;opacity:1;fill:#000000;stroke:#000000;stroke-width:0.287179;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 44.87716,-82.940109 a 6.3353373,6.3340892 0 0 0 -6.33527,6.33402 6.3353373,6.3340892 0 0 0 6.33527,6.33401 6.3353373,6.3340892 0 0 0 6.33527,-6.33401 6.3353373,6.3340892 0 0 0 -6.33527,-6.33402 z m 0.0884,2.83254 a 3.3285587,3.3279031 0 0 1 3.32861,3.32794 3.3285587,3.3279031 0 0 1 -3.32861,3.32796 3.3285587,3.3279031 0 0 1 -3.3286,-3.32796 3.3285587,3.3279031 0 0 1 3.3286,-3.32794 z"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        id="path19039-5-5-6"
-       style="display:inline;opacity:1;fill:#000000;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -83.050384,130.98954 a 17.510579,17.50713 0 0 0 -17.510386,17.50694 17.510579,17.50713 0 0 0 17.510386,17.50692 17.510579,17.50713 0 0 0 17.510386,-17.50692 17.510579,17.50713 0 0 0 -17.510386,-17.50694 z m 0.244398,7.82903 a 9.1999823,9.1981702 0 0 1 9.200104,9.19827 9.1999823,9.1981702 0 0 1 -9.200104,9.19832 9.1999823,9.1981702 0 0 1 -9.200102,-9.19832 9.1999823,9.1981702 0 0 1 9.200102,-9.19827 z"
+       style="display:inline;opacity:1;fill:#000000;stroke:#000000;stroke-width:0.287179;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 6.6859996,-82.940109 a 6.3353373,6.3340892 0 0 0 -6.33527002,6.33402 6.3353373,6.3340892 0 0 0 6.33527002,6.33401 6.3353373,6.3340892 0 0 0 6.3352704,-6.33401 6.3353373,6.3340892 0 0 0 -6.3352704,-6.33402 z m 0.0884,2.83254 a 3.3285587,3.3279031 0 0 1 3.3286004,3.32794 3.3285587,3.3279031 0 0 1 -3.3286004,3.32796 3.3285587,3.3279031 0 0 1 -3.3286,-3.32796 3.3285587,3.3279031 0 0 1 3.3286,-3.32794 z"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <ellipse
-       style="display:inline;fill:#000000;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.478633;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="path17665-2-9"
-       cx="-6.7267532"
-       cy="-189.7541"
-       rx="15.332611"
-       ry="15.329591"
+       cx="34.299923"
+       cy="-198.98534"
+       rx="5.5473471"
+       ry="5.5462546"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
