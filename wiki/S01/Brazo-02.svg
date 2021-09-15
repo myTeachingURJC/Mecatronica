@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.33540614"
-     inkscape:cx="412.93221"
-     inkscape:cy="451.69119"
+     inkscape:zoom="0.67081229"
+     inkscape:cx="637.28707"
+     inkscape:cy="433.05706"
      inkscape:window-width="1858"
      inkscape:window-height="1016"
      inkscape:window-x="62"
      inkscape:window-y="1107"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:snap-global="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -431,25 +431,13 @@
        id="rect3739-6" />
   </defs>
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(41.754068,-32.882554)">
-    <rect
-       style="fill:#afdde9;stroke:#000000;stroke-width:0.644626;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1723"
-       width="3.3729656"
-       height="26.381124"
-       x="-198.62666"
-       y="96.426682"
-       transform="scale(-1,1)"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-02.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+     id="layer3"
+     inkscape:label="back">
     <g
        id="layer2"
        inkscape:label="back"
-       transform="matrix(0.28222224,0,0,0.28222224,1.2418636,-225.13248)"
+       transform="matrix(0.28222224,0,0,0.28222224,42.995932,-258.01503)"
        style="display:inline;fill:#ffffff"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-02.png"
        inkscape:export-xdpi="90"
@@ -466,6 +454,23 @@
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
     </g>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(41.754068,-32.882554)">
+    <rect
+       style="fill:#afdde9;stroke:#000000;stroke-width:0.644626;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1723"
+       width="3.3729656"
+       height="26.381124"
+       x="-198.62666"
+       y="96.426682"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        id="path2581-9"
        style="fill:#ffccaa;stroke:#000000;stroke-width:0.593254;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -681,7 +686,7 @@
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-02.png"><tspan
          x="-609.50391"
          y="1469.1807"
-         id="tspan11594">Garra</tspan></text>
+         id="tspan11804">Garra</tspan></text>
     <text
        xml:space="preserve"
        id="text3737-2"
@@ -692,7 +697,7 @@
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-02.png"><tspan
          x="-609.50391"
          y="1469.1807"
-         id="tspan11596">Lápiz</tspan></text>
+         id="tspan11806">Lápiz</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.483469;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 195.25371,122.80779 1.7537,3.54418 1.61926,-3.54418 z"
