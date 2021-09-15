@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="363.40753mm"
+   height="318.74634mm"
+   viewBox="0 0 363.40752 318.74632"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="Brazo-03.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.33540615"
+     inkscape:cx="368.21031"
+     inkscape:cy="649.95828"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-object-midpoints="true" />
+  <defs
+     id="defs2">
+    <rect
+       x="-609.50415"
+       y="1436.002"
+       width="168.12379"
+       height="48.419319"
+       id="rect3739" />
+    <rect
+       x="78.010208"
+       y="1529.5286"
+       width="248.23975"
+       height="0"
+       id="rect3733" />
+    <marker
+       style="overflow:visible"
+       id="marker3481"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3479" />
+    </marker>
+    <rect
+       x="-363.99786"
+       y="808.17731"
+       width="340.7771"
+       height="102.76499"
+       id="rect2807" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2074" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path4361" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-6-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-2-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-6-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-2-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <rect
+       x="-363.99786"
+       y="808.17731"
+       width="499.52744"
+       height="106.37284"
+       id="rect2807-9" />
+    <rect
+       x="-363.99786"
+       y="808.17731"
+       width="631.01221"
+       height="103.45999"
+       id="rect2822" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path21016" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutL-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path4361-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-28"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-97" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-3-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-5-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-6-19"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-2-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-6-1-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-2-8-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-6-2-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-2-6-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path21016-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path21016-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path21016-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path21016-0-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3481-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3479-6" />
+    </marker>
+    <rect
+       x="-609.50415"
+       y="1436.002"
+       width="168.12379"
+       height="48.419319"
+       id="rect3739-6" />
+    <rect
+       x="-609.50415"
+       y="1436.002"
+       width="381.66068"
+       height="92.919434"
+       id="rect3739-61" />
+    <rect
+       x="78.010208"
+       y="1529.5286"
+       width="248.23975"
+       height="0"
+       id="rect3733-8" />
+    <marker
+       style="overflow:visible"
+       id="marker3481-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3479-9" />
+    </marker>
+    <rect
+       x="-363.99786"
+       y="808.17731"
+       width="340.7771"
+       height="102.76499"
+       id="rect2807-2" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2074-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutL-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path4361-7" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-92" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-3-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-5-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-7"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-6-12"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-2-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-6-1-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-2-8-1"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-6-2-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-2-6-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <rect
+       x="-363.99786"
+       y="808.17731"
+       width="499.52744"
+       height="106.37284"
+       id="rect2807-9-7" />
+    <rect
+       x="-363.99786"
+       y="808.17731"
+       width="631.01221"
+       height="103.45999"
+       id="rect2822-8" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-5-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path21016-5" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutL-9-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path4361-2-3" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-28-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-97-1" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-3-3-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-5-6-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-1-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-2-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-9-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-3-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-6-19-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-2-4-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-6-1-7-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-2-8-8-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-6-2-4-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-2-6-5-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-3-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path21016-6-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-8-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path21016-7-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path21016-0-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-3-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path21016-0-7-2" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="back"
+     style="display:inline"
+     transform="translate(89.410217,295.39766)">
+    <g
+       id="layer2"
+       inkscape:label="back"
+       transform="matrix(0.34113917,0,0,0.56776102,-37.438422,-814.4598)"
+       style="display:inline;fill:#ffffff;stroke-width:1.00387"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.00773;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5709"
+         width="1065.2765"
+         height="561.40936"
+         x="-152.34778"
+         y="914.22644"
+         ry="0"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.529164;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3355"
+       width="338.92297"
+       height="299.12204"
+       x="-78.040108"
+       y="-287.86713"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529166;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3355-1"
+       width="126.90739"
+       height="62.280685"
+       x="-52.753513"
+       y="-113.02258"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png" />
+    <text
+       xml:space="preserve"
+       id="text3731-0"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3733-8);fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.28222224,0,0,0.28222224,40.354805,-80.116224)" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(131.16428,262.5151)"
+     style="display:inline">
+    <circle
+       style="display:inline;fill:#ffb380;stroke:#000000;stroke-width:0.511097;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path12856"
+       cx="66.442329"
+       cy="-104.67397"
+       r="13.54356"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 126.34718,-104.67364 v 88.003008"
+       id="path18882-2"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path12856-9"
+       style="display:inline;fill:#cccccc;stroke:#000000;stroke-width:0.511101;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.0222, 1.0222;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 66.442033,-236.62905 A 131.95494,131.95494 0 0 0 -65.512893,-104.67412 H 6.7088736 a 59.733395,59.733395 0 0 1 59.7331594,-59.73316 59.733395,59.733395 0 0 1 59.733817,59.73316 h 72.2211 A 131.95494,131.95494 0 0 0 66.442033,-236.62905 Z"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path2581-9"
+       style="fill:#ffccaa;stroke:#000000;stroke-width:0.330836;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 126.34726,-100.94864 H 67.099333 c -0.0542,0.002 -0.10831,0.003 -0.16247,0.003 -2.06269,-4e-5 -3.7348,-1.66946 -3.73476,-3.72875 0,-2.05063 1.65863,-3.71641 3.71261,-3.7286 h -7.5e-4 c 0.008,-3e-5 0.0144,-3e-5 0.0222,0 h 67.154767 0.0116 v 3.72867 l -7.76104,-1e-5 z"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       sodipodi:nodetypes="ccccsscccccc" />
+    <path
+       id="path2581-9-8"
+       style="fill:#ff7f2a;stroke:#000000;stroke-width:0.330836;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 134.10245,-108.39931 h 59.24793 c 0.0542,-0.002 0.10831,-0.003 0.16247,-0.003 2.06269,3e-5 3.7348,1.66945 3.73476,3.72875 0,2.05063 -1.65862,3.7164 -3.71261,3.7286 h 7.5e-4 c -0.008,2e-5 -0.0144,2e-5 -0.0222,0 h -67.15477 -0.0116 v -3.72868 l 7.76104,1e-5 z"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       sodipodi:nodetypes="ccccsscccccc" />
+    <rect
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.511097;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15085-2-2"
+       width="1.5423689"
+       height="1.5044386"
+       x="179.68633"
+       y="-25.843634"
+       inkscape:transform-center-x="-41.067478"
+       inkscape:transform-center-y="-42.183148"
+       transform="rotate(-45.819191)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path2581-9-66-7"
+       style="display:inline;fill:#ffccaa;stroke:#000000;stroke-width:0.330836;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 87.584743,-120.88397 -17.94612,18.46676 c -0.0359,0.0407 -0.0728,0.0804 -0.11049,0.1192 -1.43757,1.47921 -3.80012,1.5149 -5.2769,0.0797 -1.4706,-1.42914 -1.50926,-3.77954 -0.0865,-5.26104 l -5.1e-4,5.4e-4 c 0.005,-0.006 0.0103,-0.0104 0.0154,-0.0159 l 23.45657,-24.1371 0.008,-0.008 2.674,2.59861 -5.40887,5.56578 z"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       sodipodi:nodetypes="ccccsscccccc"
+       inkscape:transform-center-x="-10.016626"
+       inkscape:transform-center-y="-11.684787" />
+    <path
+       id="path2581-9-8-4-2"
+       style="display:inline;fill:#ff7f2a;stroke:#000000;stroke-width:0.330836;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 87.629723,-131.62103 c 0,0 12.405887,-12.81165 14.904797,-15.37105 1.43757,-1.47922 3.3725,-1.33084 4.84929,0.10435 2.11782,2.0091 2.1394,3.28391 0.52855,5.02703 l -20.333807,20.98784 -0.008,0.008 -2.674,-2.59861 5.40887,-5.56577 z"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:transform-center-x="-30.271559"
+       inkscape:transform-center-y="-29.731987" />
+    <path
+       id="path2581-9-0"
+       style="fill:#ffccaa;stroke:#000000;stroke-width:0.276734;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 63.772803,-21.192832 c -0.80606,1.51514 -0.23573,3.39528 1.27669,4.20852 1.51904,0.81625 3.41361,0.24924 4.23218,-1.26744 0.0214,-0.04 0.0421,-0.0802 0.0614,-0.12114 l 28.01279,-51.663052 c 0.0223,-0.03843 0.0447,-0.07684 0.0659,-0.115954 0.81808,-1.51699 0.25093,-3.408321 -1.26792,-4.224975 -1.51904,-0.816252 -3.41363,-0.249117 -4.23215,1.267588 l -0.009,0.01636 -28.13175,51.883433 c -0.003,0.005 -0.005,0.0104 -0.009,0.0162 z"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       sodipodi:nodetypes="ssccccscccss"
+       inkscape:transform-center-x="-13.551764"
+       inkscape:transform-center-y="-25.496592" />
+    <path
+       id="path2581-9-0-2"
+       style="display:inline;fill:#ff6600;stroke:#000000;stroke-width:0.276734;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 126.68905,-20.814652 c 0.77488,1.53132 0.16618,3.3994 -1.36258,4.1815 -1.53542,0.78498 -3.41798,0.17931 -4.20533,-1.3538 -0.0206,-0.0404 -0.0404,-0.081 -0.0589,-0.12238 L 94.112873,-70.334984 c -0.0215,-0.03888 -0.043,-0.07775 -0.0635,-0.11728 -0.78684,-1.533418 -0.1811,-3.412743 1.35416,-4.198135 1.53543,-0.784985 3.41801,-0.179186 4.20531,1.353956 l 0.008,0.01652 27.063787,52.448411 c 0.003,0.005 0.005,0.0106 0.008,0.0164 z"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       sodipodi:nodetypes="ssccccscccss"
+       inkscape:transform-center-x="13.026988"
+       inkscape:transform-center-y="-25.768664" />
+    <ellipse
+       style="fill:#ff9955;stroke:#000000;stroke-width:0.400389;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2581-0"
+       cx="96.731148"
+       cy="-68.966194"
+       rx="6.8882742"
+       ry="6.8769259"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png" />
+    <path
+       style="fill:#ffb380;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2573"
+       sodipodi:type="arc"
+       sodipodi:cx="66.72654"
+       sodipodi:cy="15.636615"
+       sodipodi:rx="13.066156"
+       sodipodi:ry="13.045932"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       sodipodi:arc-type="slice"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       d="m 79.792696,15.636615 a 13.066156,13.045932 0 0 1 -6.533078,11.298108 13.066156,13.045932 0 0 1 -13.066157,0 13.066156,13.045932 0 0 1 -6.533078,-11.298108 H 66.72654 Z"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="67.407104"
+       y="-199.71719"
+       id="text4136-3-6-6-0-1-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"><tspan
+         sodipodi:role="line"
+         id="tspan4138-6-0-1-2-0-3"
+         x="67.407104"
+         y="-199.71719"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px">Espacio de </tspan><tspan
+         sodipodi:role="line"
+         x="67.407104"
+         y="-188.13063"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan2793">trabajo en plano xy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="124.83131"
+       y="31.71941"
+       id="text4136-3-6-6-0-1-6-2"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"><tspan
+         sodipodi:role="line"
+         x="124.83131"
+         y="31.71941"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan3705">Totalmente extendido</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-21.191378"
+       y="-60.31974"
+       id="text4136-3-6-6-0-1-6-2-93"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"><tspan
+         sodipodi:role="line"
+         x="-21.191378"
+         y="-60.31974"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan3705-6">Objetos alcanzables</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-39.356995"
+       y="-42.943623"
+       id="text4136-3-6-6-0-1-6-2-93-2"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"><tspan
+         sodipodi:role="line"
+         x="-39.356995"
+         y="-42.943623"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan3705-6-6">Objetos NO</tspan><tspan
+         sodipodi:role="line"
+         x="-39.356995"
+         y="-31.357059"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan23731">alcanzables</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="162.77164"
+       y="-30.943142"
+       id="text4136-3-6-6-0-1-6-2-9"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"><tspan
+         sodipodi:role="line"
+         x="162.77164"
+         y="-30.943142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan3705-1">Totalmente</tspan><tspan
+         sodipodi:role="line"
+         x="162.77164"
+         y="-19.356579"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan17573"> acortado</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text3731"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect3733);fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.28222224,0,0,0.28222224,-0.41709157,-212.28629)" />
+    <path
+       id="path2581-9-0-3"
+       style="display:inline;fill:#ffccaa;stroke:#000000;stroke-width:0.276734;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 69.950853,7.7406178 c -1.71614,0.0148 -3.09611,1.41337 -3.08889,3.1305502 0.008,1.72444 1.41024,3.11867 3.13369,3.11411 0.0453,-3.1e-4 0.0905,-10e-4 0.13576,-0.004 l 58.768927,-0.0416 c 0.0444,10e-4 0.0889,0.003 0.13337,0.003 1.72351,-0.005 3.11482,-1.40622 3.10754,-3.1307 -0.008,-1.7244402 -1.41035,-3.1186202 -3.13382,-3.1140002 l -0.0184,2.5e-4 -59.019357,0.0422 c -0.005,3.4e-4 -0.0116,6.8e-4 -0.0183,1.8e-4 z"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       sodipodi:nodetypes="ssccccscccss"
+       inkscape:transform-center-x="-28.873206"
+       inkscape:transform-center-y="-0.2601642" />
+    <path
+       id="path2581-9-0-2-6"
+       style="display:inline;fill:#ff6600;stroke:#000000;stroke-width:0.276734;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 135.91998,14.000808 c -1.71614,-0.0148 -3.09612,-1.41336 -3.08889,-3.13055 0.008,-1.7244402 1.41023,-3.1186602 3.1337,-3.1140902 0.0453,2.9e-4 0.0905,0.001 0.13575,0.004 l 58.76892,0.0416 c 0.0444,-0.001 0.0889,-0.003 0.13338,-0.003 1.7235,0.005 3.11483,1.40622 3.10754,3.1307002 -0.008,1.72444 -1.41035,3.11862 -3.13383,3.114 l -0.0184,-2.5e-4 -59.01934,-0.0422 c -0.005,-3.4e-4 -0.0116,-6.8e-4 -0.0183,-1.8e-4 z"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       sodipodi:nodetypes="ssccccscccss"
+       inkscape:transform-center-x="-28.873205"
+       inkscape:transform-center-y="0.26017869" />
+    <ellipse
+       style="display:inline;fill:#ff9955;stroke:#000000;stroke-width:0.400389;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2581-0-7"
+       cx="130.04965"
+       cy="10.158322"
+       rx="6.8882742"
+       ry="6.8769259"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png" />
+    <path
+       style="display:inline;fill:#ffb380;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path2573-5"
+       sodipodi:type="arc"
+       sodipodi:cx="66.442314"
+       sodipodi:cy="-15.649167"
+       sodipodi:rx="13.066156"
+       sodipodi:ry="13.045932"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       sodipodi:arc-type="slice"
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       d="m 79.508471,-15.649167 a 13.066156,13.045932 0 0 1 -6.533079,11.2981084 13.066156,13.045932 0 0 1 -13.066156,-3e-7 13.066156,13.045932 0 0 1 -6.533078,-11.2981081 h 13.066156 z" />
+    <rect
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.511097;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15085"
+       width="1.5423689"
+       height="1.5044386"
+       x="197.49132"
+       y="-105.42619"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.511097;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15085-6"
+       width="1.5423689"
+       height="1.5044386"
+       x="198.25655"
+       y="9.8264894"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.511097;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect15085-6-2"
+       width="1.5423689"
+       height="1.5044386"
+       x="114.32902"
+       y="53.655651"
+       transform="rotate(-32.740962)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529167, 2.11667;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 199.0337,-103.92176 V 11.164654"
+       id="path18882"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#0000ff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect21115"
+       width="8.0876789"
+       height="8.2214003"
+       x="-21.56551"
+       y="-183.57297"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#0000ff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect21115-0"
+       width="8.0876789"
+       height="8.2214003"
+       x="-83.984398"
+       y="-67.132782"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#0000ff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect21115-7"
+       width="8.0876789"
+       height="8.2214003"
+       x="140.48721"
+       y="-140.69301"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path21268"
+       cx="38.855511"
+       cy="-127.6966"
+       r="5.1577315"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path21268-6"
+       cx="-79.625961"
+       cy="-39.454727"
+       r="5.1577315"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path21268-0"
+       cx="119.88213"
+       cy="-235.94948"
+       r="5.1577315"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Brazo-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 2"
+     transform="translate(89.410217,295.39766)" />
+</svg>
