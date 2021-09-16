@@ -114,7 +114,7 @@
      inkscape:cx="613.16259"
      inkscape:cy="613.16259"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1858"
      inkscape:window-height="1016"
@@ -622,15 +622,43 @@
          y="100.96806"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.8438px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.999999px"
          id="tspan54072">trabajo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="257.4386"
+       y="692.24902"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-5"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/GDL-llave-01.png"><tspan
+         sodipodi:role="line"
+         x="257.4386"
+         y="692.24902"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.8438px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ff0000;stroke-width:0.999999px"
+         id="tspan54072-3">Eje X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="20.602125"
+       y="451.30179"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-5-9"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/GDL-llave-01.png"><tspan
+         sodipodi:role="line"
+         x="20.602125"
+         y="451.30179"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.8438px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.999999px"
+         id="tspan54072-3-4">Eje Y</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:2.8125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       style="fill:none;stroke:#008000;stroke-width:2.8125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
        d="M 39.570768,642.90929 V 470.16595"
        id="path19612"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/GDL-llave-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2.8125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker20011)"
+       style="fill:none;stroke:#ff0000;stroke-width:2.8125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker20011)"
        d="M 39.570768,642.90929 H 235.34194"
        id="path20007"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/GDL-llave-01.png"
