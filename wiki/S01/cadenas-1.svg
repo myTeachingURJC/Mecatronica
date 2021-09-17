@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="521.67352mm"
+   height="290.56763mm"
+   viewBox="0 0 521.67353 290.56762"
+   version="1.1"
+   id="svg80298"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="cadenas-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview80300"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.25"
+     inkscape:cx="970"
+     inkscape:cy="660"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-object-midpoints="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="false" />
+  <defs
+     id="defs80295">
+    <marker
+       style="overflow:visible"
+       id="marker93197"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path93195" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path19641" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker93197-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path93195-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path19641-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker93197-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path93195-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-8-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path19641-8-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker93197-6-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path93195-2-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-8-1-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path19641-8-2-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker93197-6-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path93195-2-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-8-1-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path19641-8-2-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-8-1-9-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path19641-8-2-3-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-8-1-9-7-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path19641-8-2-3-5-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-8-1-9-7-2-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path19641-8-2-3-5-9-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-8-1-9-7-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path19641-8-2-3-5-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-8-1-9-7-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path19641-8-2-3-5-92" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker93197-6-5-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path93195-2-6-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker93197-6-5-6-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path93195-2-6-1-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker93197-6-5-6-1-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path93195-2-6-1-9-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker93197-6-5-6-10"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path93195-2-6-1-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker93197-6-5-6-10-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path93195-2-6-1-6-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-8-1-9-7-2-0-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path19641-8-2-3-5-9-9-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker93197-6-5-6-1-4-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path93195-2-6-1-9-5-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-8-1-9-7-7-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path19641-8-2-3-5-92-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker93197-6-5-6-10-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path93195-2-6-1-6-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker93197-6-5-6-10-3-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path93195-2-6-1-6-0-8" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="back"
+     transform="translate(20.703026,-1.0987451)"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect94038"
+       width="521.67352"
+       height="290.56763"
+       x="-20.703026"
+       y="1.0987451"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(20.703026,-1.0987451)"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect64312-4-3-3"
+       width="243.09167"
+       height="274.07861"
+       x="-7.0134215"
+       y="3.4844806"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect64312-4-3-3-3"
+       width="243.09167"
+       height="273.99084"
+       x="244.84045"
+       y="3.5722158"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="32.728539"
+       y="158.90631"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-3-2"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="32.728539"
+         y="158.90631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan54072-9-2-5-9">Eslabón 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="387.80164"
+       y="225.10345"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-3-2-7"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="387.80164"
+         y="225.10345"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan54072-9-2-5-9-3">Eslabón 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="276.48441"
+       y="152.86504"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-3-2-7-9"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="276.48441"
+         y="152.86504"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan54072-9-2-5-9-3-3">Eslabón 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="278.00919"
+       y="77.46817"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-3-2-7-9-7"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="278.00919"
+         y="77.46817"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan54072-9-2-5-9-3-3-8">Eslabón 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="400.03891"
+       y="57.211082"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-3-2-7-9-7-3"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="400.03891"
+         y="57.211082"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan54072-9-2-5-9-3-3-8-6">Eslabón 4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="433.46448"
+       y="135.15527"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-3-2-7-9-7-3-2"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="433.46448"
+         y="135.15527"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan54072-9-2-5-9-3-3-8-6-0">Eslabón 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="103.09961"
+       y="249.59581"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-3-2-5"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="103.09961"
+         y="249.59581"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan54072-9-2-5-9-9">Cadena cinemática abierta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="360.75909"
+       y="249.59581"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-3-2-5-2"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="360.75909"
+         y="249.59581"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan54072-9-2-5-9-9-2">Cadena cinemática cerrada</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="130.53696"
+       y="200.53557"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-3-2-2"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="130.53696"
+         y="200.53557"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.282222px"
+         id="tspan54072-9-2-5-9-7">Art. 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="292.12119"
+       y="230.66144"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-3-2-2-5"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="292.12119"
+         y="230.66144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.282222px"
+         id="tspan54072-9-2-5-9-7-4">Art. 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="26.948706"
+       y="81.98513"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-3-2-2-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="26.948706"
+         y="81.98513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.282222px"
+         id="tspan54072-9-2-5-9-7-0">Art. 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="280.56491"
+       y="108.87973"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-3-2-2-6-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="280.56491"
+         y="108.87973"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.282222px"
+         id="tspan54072-9-2-5-9-7-0-9">Art. 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="167.03712"
+       y="55.30687"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-3-2-2-6-1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="167.03712"
+         y="55.30687"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.282222px"
+         id="tspan54072-9-2-5-9-7-0-8">Art. 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="336.03979"
+       y="26.11484"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-3-2-2-6-1-5"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="336.03979"
+         y="26.11484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.282222px"
+         id="tspan54072-9-2-5-9-7-0-8-2">Art. 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="435.21375"
+       y="92.419899"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-3-2-2-6-1-5-4"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="435.21375"
+         y="92.419899"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.282222px"
+         id="tspan54072-9-2-5-9-7-0-8-2-4">Art. 4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="435.80322"
+       y="196.35626"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-3-2-2-6-1-5-4-8"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="435.80322"
+         y="196.35626"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.282222px"
+         id="tspan54072-9-2-5-9-7-0-8-2-4-6">Art. 5</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker93197-6-5)"
+       d="m 38.398062,162.85876 21.01835,20.41684"
+       id="path93065-9-1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker93197-6-5-6)"
+       d="m 362.15254,221.31447 -17.43659,-16.1558"
+       id="path93065-9-1-2"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker93197-6-5-6-10)"
+       d="m 387.08581,58.37038 -17.43659,16.1558"
+       id="path93065-9-1-2-3"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker93197-6-5-6-10-3)"
+       d="m 418.99688,91.524186 -21.53954,7.854631"
+       id="path93065-9-1-2-3-7"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker93197-6-5-6-10-3-8)"
+       d="m 420.13999,193.20836 -25.68783,-9.10141"
+       id="path93065-9-1-2-3-7-4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker93197-6-5-6-10-6)"
+       d="m 415.06605,137.72166 -17.43659,16.1558"
+       id="path93065-9-1-2-3-5"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker93197-6-5-6-1)"
+       d="m 285.54779,156.80171 19.67905,19.41871"
+       id="path93065-9-1-2-4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker93197-6-5-6-1-4)"
+       d="M 290.95431,79.846497 310.1362,94.384124"
+       id="path93065-9-1-2-4-0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker93197-6-5-6-1-4-3)"
+       d="m 287.93728,114.93859 19.18189,14.53763"
+       id="path93065-9-1-2-4-0-4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="95.766663"
+       y="263.70413"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-6-3-7-3-6-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="95.766663"
+         y="263.70413"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan3705-0-15-7-0-7-6-6-6-0-7">(3 GDL)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="354.31406"
+       y="264.60995"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-6-3-7-3-6-6-8"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="354.31406"
+         y="264.60995"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan3705-0-15-7-0-7-6-6-6-0-7-9">(2 GDL)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="35.520615"
+       y="135.76923"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-1-3-7-27"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="35.520615"
+         y="135.76923"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan54072-9-2-7-1-0-0">Eslabón 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="86.218933"
+       y="62.747398"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-1-3-7-27-3"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="86.218933"
+         y="62.747398"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan54072-9-2-7-1-0-0-6">Eslabón 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.38667px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282222px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="195.67719"
+       y="81.033936"
+       id="text4136-3-6-6-0-1-6-2-3-06-2-1-5-4-7-6-1-3-7-27-3-5"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"><tspan
+         sodipodi:role="line"
+         x="195.67719"
+         y="81.033936"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.26925px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.282222px"
+         id="tspan54072-9-2-7-1-0-0-6-6">Eslabón 4</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-8-1-9)"
+       d="m 61.142932,132.86185 22.05314,0.49756"
+       id="path93067-8-9-6"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-8-1-9-7)"
+       d="M 98.810484,65.02375 110.66234,84.857084"
+       id="path93067-8-9-6-3"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-8-1-9-7-7)"
+       d="m 160.45998,59.920083 -4.45832,14.007126"
+       id="path93067-8-9-6-3-0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-8-1-9-7-7-5)"
+       d="m 331.57984,31.04458 -4.45832,14.007126"
+       id="path93067-8-9-6-3-0-7"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-8-1-9-7-6)"
+       d="M 43.986353,80.440892 71.780872,99.087084"
+       id="path93067-8-9-6-3-6"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-8-1-9-7-2)"
+       d="M 186.60525,82.611674 170.04948,104.02937"
+       id="path93067-8-9-6-3-1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-8-1-9-7-2-0)"
+       d="m 125.98226,191.53686 -0.24572,-14.06875"
+       id="path93067-8-9-6-3-1-3"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-8-1-9-7-2-0-7)"
+       d="m 293.07361,221.95556 12.61725,-9.15213"
+       id="path93067-8-9-6-3-1-3-5"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 0.264583, 0.132291, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 38.832335,204.66652 142.45718,159.61809"
+       id="path12405"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 0.264583, 0.132291, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 66.586542,110.48246 168.18643,79.826016"
+       id="path12405-3"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 0.264583, 0.132291, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 149.78338,72.459576 175.88532,172.757"
+       id="path12405-3-7"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 0.264583, 0.132291, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 72.150332,92.893014 131.75956,178.68832"
+       id="path12405-2"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path5384-2"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 51.765843,189.08936 c 0,0 -7.3689,3.06846 -4.29829,10.43387 3.07061,7.36542 10.460179,4.34652 10.460179,4.34652 l 68.673418,-28.59671 c 0,0 7.36738,-3.06807 4.27615,-10.48296 -3.07061,-7.36541 -10.43804,-4.29743 -10.43804,-4.29743 z m 71.645737,-22.49427 c 0.61392,-0.25553 1.31889,0.0346 1.57476,0.64808 0.25587,0.61361 -0.0344,1.31834 -0.64834,1.57411 -0.61406,0.25576 -1.3193,-0.0345 -1.57512,-0.64822 -0.25573,-0.61367 0.0347,-1.31834 0.6487,-1.57397 z"
+       inkscape:transform-center-x="-34.58182"
+       inkscape:transform-center-y="-13.95662"
+       sodipodi:nodetypes="csccsccccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path5384-2-7"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 311.62727,199.6568 c 0,0 -7.3689,3.06846 -4.29829,10.43387 3.07061,7.36542 10.46018,4.34652 10.46018,4.34652 l 68.67342,-28.59671 c 0,0 7.36738,-3.06807 4.27615,-10.48296 -3.07061,-7.36541 -10.43804,-4.29743 -10.43804,-4.29743 z m 2.60743,6.25439 a 1.204421,1.2037273 0 0 1 1.57502,0.64797 1.204421,1.2037273 0 0 1 -0.6486,1.57422 1.204421,1.2037273 0 0 1 -1.57488,-0.64833 1.204421,1.2037273 0 0 1 0.64846,-1.57386 z m 69.0383,-28.74866 a 1.204421,1.2037273 0 0 1 1.57477,0.64808 1.204421,1.2037273 0 0 1 -0.64834,1.57411 1.204421,1.2037273 0 0 1 -1.57513,-0.64822 1.204421,1.2037273 0 0 1 0.6487,-1.57397 z"
+       inkscape:transform-center-x="-34.581822"
+       inkscape:transform-center-y="-13.956622"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path5384-2-7-9"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 306.88222,206.22189 c 0,0 -0.39615,7.96849 7.57778,8.36439 7.97393,0.39591 8.42375,-7.56993 8.42375,-7.56993 l 3.69131,-74.26148 c 0,0 0.39585,-7.96695 -7.63164,-8.36552 -7.97393,-0.39591 -8.36989,7.57104 -8.36989,7.57104 z m 6.77111,0.33618 a 1.204421,1.2037273 0 0 1 1.26253,-1.14262 1.204421,1.2037273 0 0 1 1.14326,1.26206 1.204421,1.2037273 0 0 1 -1.26278,1.14235 1.204421,1.2037273 0 0 1 -1.14301,-1.26179 z m 3.71093,-74.65607 a 1.204421,1.2037273 0 0 1 1.26251,-1.14234 1.204421,1.2037273 0 0 1 1.14327,1.26179 1.204421,1.2037273 0 0 1 -1.26279,1.1426 1.204421,1.2037273 0 0 1 -1.14299,-1.26205 z"
+       inkscape:transform-center-x="-2.272047"
+       inkscape:transform-center-y="-37.20692"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path5384-2-7-9-0"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 382.23525,109.88439 c 0,0 6.33581,4.85359 11.19265,-1.47927 4.85687,-6.33287 -1.44626,-11.229091 -1.44626,-11.229091 l -59.04621,-45.23206 c 0,0 -6.3347,-4.85248 -11.22419,1.52293 -4.85685,6.33286 1.4778,11.18542 1.4778,11.18542 z m 4.12422,-5.37759 a 1.204421,1.2037273 0 0 1 -0.2234,-1.68756 1.204421,1.2037273 0 0 1 1.68875,-0.2231 1.204421,1.2037273 0 0 1 0.22305,1.68761 1.204421,1.2037273 0 0 1 -1.68837,0.22305 z M 326.99954,59.034389 a 1.204421,1.2037273 0 0 1 -0.22318,-1.68738 1.204421,1.2037273 0 0 1 1.68852,-0.22328 1.204421,1.2037273 0 0 1 0.22322,1.68777 1.204421,1.2037273 0 0 1 -1.68857,0.22288 z"
+       inkscape:transform-center-x="29.355865"
+       inkscape:transform-center-y="-23.004616"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path5384-2-7-9-0-2"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 310.41817,131.13525 c 0,0 -1.01594,7.91345 6.90292,8.92885 7.91886,1.0154 8.98808,-6.89122 8.98808,-6.89122 l 9.46734,-73.748561 c 0,0 1.01552,-7.91194 -6.95653,-8.93417 -7.91885,-1.0154 -8.93447,6.89654 -8.93447,6.89654 z m 6.72434,0.86224 a 1.204421,1.2037273 0 0 1 1.34773,-1.04087 1.204421,1.2037273 0 0 1 1.04144,1.34721 1.204421,1.2037273 0 0 1 -1.34796,1.04058 1.204421,1.2037273 0 0 1 -1.04121,-1.34692 z m 9.51765,-74.140431 a 1.204421,1.2037273 0 0 1 1.3477,-1.04059 1.204421,1.2037273 0 0 1 1.04146,1.34694 1.204421,1.2037273 0 0 1 -1.34799,1.04084 1.204421,1.2037273 0 0 1 -1.04117,-1.34719 z"
+       inkscape:transform-center-x="-5.1644335"
+       inkscape:transform-center-y="-36.919109"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path5384-2-7-9-2"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 375.72527,177.95128 c 0,0 -0.39615,7.96849 7.57778,8.36439 7.97393,0.39591 8.42375,-7.56992 8.42375,-7.56992 l 3.69131,-74.26149 c 0,0 0.39585,-7.966951 -7.63164,-8.365521 -7.97393,-0.39591 -8.36989,7.571041 -8.36989,7.571041 z m 6.77111,0.33618 a 1.204421,1.2037273 0 0 1 1.26253,-1.14261 1.204421,1.2037273 0 0 1 1.14326,1.26206 1.204421,1.2037273 0 0 1 -1.26278,1.14234 1.204421,1.2037273 0 0 1 -1.14301,-1.26179 z m 3.71093,-74.65607 a 1.204421,1.2037273 0 0 1 1.26251,-1.14234 1.204421,1.2037273 0 0 1 1.14327,1.26179 1.204421,1.2037273 0 0 1 -1.26279,1.1426 1.204421,1.2037273 0 0 1 -1.14299,-1.26205 z"
+       inkscape:transform-center-x="-2.2720468"
+       inkscape:transform-center-y="-37.206921"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path5384-2-6"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 74.854562,110.37388 c 0,0 -4.50951,-6.58342 2.07843,-11.090756 6.58794,-4.50734 11.14178,2.045736 11.14178,2.045736 l 42.025398,61.35373 c 0,0 4.50845,6.58225 -2.12373,11.11987 -6.58794,4.50734 -11.09648,-2.07486 -11.09648,-2.07486 z m 5.59419,-3.82744 a 1.204421,1.2037273 0 0 0 1.67412,0.31348 1.204421,1.2037273 0 0 0 0.3135,-1.67337 1.204421,1.2037273 0 0 0 -1.67419,-0.31311 1.204421,1.2037273 0 0 0 -0.31343,1.673 z m 42.248688,61.67971 a 1.204421,1.2037273 0 0 0 1.67396,0.31326 1.204421,1.2037273 0 0 0 0.31366,-1.67315 1.204421,1.2037273 0 0 0 -1.67433,-0.31333 1.204421,1.2037273 0 0 0 -0.31329,1.67322 z"
+       inkscape:transform-center-x="21.628794"
+       inkscape:transform-center-y="-30.845379"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path5384-2-6-1"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 150.75972,76.861787 c 0,0 7.64986,-2.28047 9.93184,5.365807 2.28197,7.64629 -5.35253,9.97822 -5.35253,9.97822 L 84.046812,113.45792 c 0,0 -7.64844,2.27982 -9.94575,-5.41782 -2.28197,-7.64629 5.36644,-9.926206 5.36644,-9.926206 z m 1.93775,6.492887 a 1.204421,1.2037273 0 0 0 -0.81006,1.49743 1.204421,1.2037273 0 0 0 1.49855,0.80951 1.204421,1.2037273 0 0 0 0.80972,-1.4976 1.204421,1.2037273 0 0 0 -1.49821,-0.80934 z M 81.026462,104.7197 a 1.204421,1.2037273 0 0 0 -0.8098,1.49734 1.204421,1.2037273 0 0 0 1.49828,0.80959 1.204421,1.2037273 0 0 0 0.80998,-1.49767 1.204421,1.2037273 0 0 0 -1.49846,-0.80926 z"
+       inkscape:transform-center-x="-35.998461"
+       inkscape:transform-center-y="-11.154236"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path5384-2-6-1-8"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.529168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 179.09308,154.97565 c 0,0 1.9572,7.73481 -5.78291,9.69104 -7.74011,1.95623 -9.7494,-5.76542 -9.7494,-5.76542 l -18.2394,-72.083886 c 0,0 -1.95661,-7.733367 5.83548,-9.702737 7.74011,-1.95622 9.69682,5.777117 9.69682,5.777117 z M 154.1842,84.169914 c -0.16314,-0.64435 -0.81796,-1.03461 -1.46273,-0.87175 -0.64485,0.16293 -1.03548,0.81744 -0.87251,1.46194 0.16305,0.6446 0.81812,1.035 1.46306,0.87195 0.64482,-0.16308 1.0353,-0.81768 0.87218,-1.46214 z"
+       inkscape:transform-center-x="-9.6322151"
+       inkscape:transform-center-y="36.416971"
+       sodipodi:nodetypes="csccsccccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/cadenas-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
