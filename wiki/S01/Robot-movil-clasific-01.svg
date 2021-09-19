@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="364.10751mm"
+   height="231.72353mm"
+   viewBox="0 0 1290.1447 821.0676"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
+   sodipodi:docname="Robot-movil-clasific-01.svg">
+  <defs
+     id="defs4">
+    <rect
+       x="-363.99786"
+       y="808.17731"
+       width="631.01221"
+       height="103.45999"
+       id="rect2807" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2074" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path4361" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-6-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-2-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-6-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-2-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2074-2" />
+    </marker>
+    <rect
+       x="-363.99786"
+       y="808.17731"
+       width="206.35188"
+       height="51.663952"
+       id="rect2807-9" />
+    <rect
+       x="-363.99786"
+       y="808.17731"
+       width="631.01221"
+       height="103.45999"
+       id="rect2822" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path21016" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutL-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path4361-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-28"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-97" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-3-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-5-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-6-19"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-2-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-6-1-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-2-8-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend-2-3-6-2-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4228-9-6-2-6-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path21016-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path21016-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path21016-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path21016-0-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2074-3" />
+    </marker>
+    <rect
+       x="-363.99786"
+       y="808.17731"
+       width="206.35188"
+       height="51.663952"
+       id="rect2807-9-2" />
+    <rect
+       x="-363.99786"
+       y="808.17731"
+       width="206.35188"
+       height="51.663952"
+       id="rect2822-0" />
+    <rect
+       x="-363.99786"
+       y="808.17731"
+       width="235.88417"
+       height="45.285423"
+       id="rect2807-9-2-3" />
+    <rect
+       x="-363.99786"
+       y="808.17731"
+       width="206.35188"
+       height="51.663952"
+       id="rect2858" />
+    <rect
+       x="-363.99786"
+       y="808.17731"
+       width="206.35188"
+       height="51.663952"
+       id="rect2807-9-2-5" />
+    <rect
+       x="-363.99786"
+       y="808.17731"
+       width="206.35188"
+       height="51.663952"
+       id="rect2895" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="424.57634"
+     inkscape:cy="353.42082"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1860"
+     inkscape:window-height="1016"
+     inkscape:window-x="60"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0"
+     inkscape:snap-global="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:object-paths="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(192.26578,-2.9419069)"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.78864;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5709"
+       width="1290.1447"
+       height="821.06757"
+       x="-192.26578"
+       y="2.9419069"
+       ry="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(192.26578,-2.9419069)"
+     style="display:inline">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.24307;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3355-6-2"
+       width="354.86786"
+       height="447.41269"
+       x="180.82158"
+       y="316.64386"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.43435;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3355-6"
+       width="472.59204"
+       height="447.31665"
+       x="568.66321"
+       y="316.64386"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.03609;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3355"
+       width="270.23239"
+       height="447.31665"
+       x="-123.61123"
+       y="316.64386"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4140-2"
+       width="175.37315"
+       height="65.369064"
+       x="-77.29097"
+       y="286.54395"
+       ry="8.8214207"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4140"
+       width="337.92691"
+       height="79.887161"
+       x="206.84857"
+       y="78.088379"
+       ry="9.2974014"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-52.129501"
+       y="327.27179"
+       id="text4136-3-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png"><tspan
+         sodipodi:role="line"
+         id="tspan4138-6-0"
+         x="-52.129501"
+         y="327.27179"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.8438px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Aéreos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="371.87869"
+       y="128.98198"
+       id="text4136-3-9"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png"><tspan
+         sodipodi:role="line"
+         x="371.87869"
+         y="128.98198"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.8438px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+         id="tspan1971">Robots móviles</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.13544;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 364.03216,205.10634 H 18.231076 v 75.76189"
+       id="path2045"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.71757;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-1)"
+       d="M 362.21199,205.80939 H 823.757 v 75.27588"
+       id="path2045-7"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       id="text2805-2"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2807-9);fill:#0000ff;fill-opacity:1;stroke:none;"
+       transform="translate(264.65514,-437.85309)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         x="-363.99805"
+         y="841.35645"><tspan>Ej. Drones</tspan></tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 607.14792,634.50601 68.2003,4.9929"
+       id="path2934"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 608.96542,665.00881 58.6849,-1.6938"
+       id="path2936"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 611.22512,692.55591 61.3666,-4.8756"
+       id="path2938"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#e6e6e6;stroke:#000000;stroke-width:1.69594;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 850.17072,612.80091 66.4072,0.09 c 0,0 46.3313,5.4664 46.3313,53.0953 0,47.6288 -45.3456,50.9249 -45.3456,50.9249 l -184.1947,-0.079 c 0,0 -44.5313,-0.8676 -44.5313,-50.0684 0,-49.2007 44.1808,-52.5487 44.1808,-52.5487 h 66.7824 v -70.6188 h -69.1252 v -79.5911 h 184.1193 v 81.5325 h -69.1567 z"
+       id="path8203"
+       sodipodi:nodetypes="cczcczcc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.69594;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path17665"
+       cx="-868.34778"
+       cy="502.94678"
+       rx="29.572886"
+       ry="29.56706"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(-1,1)" />
+    <ellipse
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:1.69594;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path17665-2"
+       cx="-875.79211"
+       cy="508.41602"
+       rx="19.655954"
+       ry="19.652082"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(-1,1)" />
+    <ellipse
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.69594;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path17665-7"
+       cx="-792.16492"
+       cy="502.94678"
+       rx="29.572886"
+       ry="29.56706"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(-1,1)" />
+    <path
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.01756;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 730.44792,630.18451 187.9736,-0.4167 c 0,0 29.7578,5.6363 29.7578,36.1385 0,30.5021 -24.7385,34.7959 -24.7385,34.7959 l -190.7118,0.4436 c 0,0 -29.4966,-4.7748 -29.4966,-34.4034 0,-29.6287 27.2155,-36.5579 27.2155,-36.5579 z"
+       id="path18027"
+       sodipodi:nodetypes="cczcczc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path19039-5"
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:1.01756;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 822.24352,640.96761 a 22.448045,22.443623 0 0 0 -22.4477,22.4434 22.448045,22.443623 0 0 0 22.4477,22.4434 22.448045,22.443623 0 0 0 22.4478,-22.4434 22.448045,22.443623 0 0 0 -22.4478,-22.4434 z m 0.3133,10.0366 a 11.794105,11.791782 0 0 1 11.7942,11.7919 11.794105,11.791782 0 0 1 -11.7942,11.792 11.794105,11.791782 0 0 1 -11.7943,-11.792 11.794105,11.791782 0 0 1 11.7943,-11.7919 z"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path19039-5-5"
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:1.01756;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 893.27192,640.96761 a 22.448045,22.443623 0 0 0 -22.4479,22.4434 22.448045,22.443623 0 0 0 22.4479,22.4434 22.448045,22.443623 0 0 0 22.4478,-22.4434 22.448045,22.443623 0 0 0 -22.4478,-22.4434 z m 0.3132,10.0366 a 11.794105,11.791782 0 0 1 11.7943,11.7919 11.794105,11.791782 0 0 1 -11.7943,11.792 11.794105,11.791782 0 0 1 -11.7943,-11.792 11.794105,11.791782 0 0 1 11.7943,-11.7919 z"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path19039-5-5-6"
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:1.01756;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 757.94882,640.96761 a 22.448045,22.443623 0 0 0 -22.4478,22.4434 22.448045,22.443623 0 0 0 22.4478,22.4434 22.448045,22.443623 0 0 0 22.4479,-22.4434 22.448045,22.443623 0 0 0 -22.4479,-22.4434 z m 0.3133,10.0366 a 11.794105,11.791782 0 0 1 11.7942,11.7919 11.794105,11.791782 0 0 1 -11.7942,11.792 11.794105,11.791782 0 0 1 -11.7943,-11.792 11.794105,11.791782 0 0 1 11.7943,-11.7919 z"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:1.69594;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path17665-2-9"
+       cx="-799.172"
+       cy="508.41602"
+       rx="19.655954"
+       ry="19.652082"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S01/Intro-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(-1,1)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.8125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 363.35101,158.10076 v 45.45895"
+       id="path2444"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:2.8125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2452"
+       cx="363.35101"
+       cy="203.55971"
+       r="7.5556526"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.8125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-9)"
+       d="m 363.58219,204.72032 v 77.89751"
+       id="path2045-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.99999;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4140-2-0"
+       width="222.79382"
+       height="65.369064"
+       x="260.74655"
+       y="286.54395"
+       ry="8.8214207"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="285.90802"
+       y="327.27179"
+       id="text4136-3-6-62"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png"><tspan
+         sodipodi:role="line"
+         id="tspan4138-6-0-61"
+         x="285.90802"
+         y="327.27179"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.8438px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Acuáticos</tspan></text>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1.99999;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4140-2-0-8"
+       width="233.49454"
+       height="65.369064"
+       x="707.37134"
+       y="286.54395"
+       ry="8.8214207"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="732.53278"
+       y="327.27179"
+       id="text4136-3-6-62-7"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png"><tspan
+         sodipodi:role="line"
+         id="tspan4138-6-0-61-9"
+         x="732.53278"
+         y="327.27179"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.8438px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Terrestres</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2805-2-2"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2807-9-2);fill:#0000ff;fill-opacity:1;stroke:none;"
+       transform="translate(622.54906,-441.01553)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         x="-363.99805"
+         y="841.35645"><tspan>Barcos</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2805-2-2-7"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2807-9-2-3);fill:#0000ff;fill-opacity:1;stroke:none;"
+       transform="translate(622.13862,-397.57098)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         x="-363.99805"
+         y="841.35645"><tspan>Submarinos</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2805-2-2-9"
+       style="font-style:normal;font-weight:normal;font-size:37.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2807-9-2-5);fill:#0000ff;fill-opacity:1;stroke:none;"
+       transform="translate(1079.8499,-441.01553)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         x="-363.99805"
+         y="841.35645"><tspan>Vehículos</tspan></tspan></text>
+    <g
+       id="g2978"
+       transform="matrix(0.56900013,0,0,0.56900013,230.89131,467.33436)"
+       style="fill:#000000;stroke-width:1.64763"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         d="m 421.223,268.863 h -8.711 c 6.714,-7.861 13.898,-24.06 3.402,-33.552 -11.418,-10.324 -13.867,4.764 -11.576,16.02 1.371,6.744 -0.166,13.332 -0.433,17.532 h -5.187 c -0.457,-6.206 -2.32,-12.25 -5.452,-18.073 l 24.573,-63.927 H 391.7 l -34.744,30.125 c -27.324,-15.776 -66.153,-27.337 -110.836,-32.149 -3.049,-9.807 -13.155,-17.933 -26.701,-22.031 v -47.793 c 0,-24.229 -17.43,-44.451 -40.406,-48.818 -1.464,-3.706 -5.07,-6.333 -9.297,-6.333 -5.522,0 -10,4.477 -10,10 v 40.5 c 0,5.522 4.478,10 10,10 4.485,0 8.281,-2.953 9.549,-7.022 0.095,0.545 0.154,1.102 0.154,1.673 v 47.793 C 166.45,166.732 156.64,174.35 153.153,183.599 28.989,190.672 0,227.493 0,271.863 c 0,49.43 35.951,89.498 199.42,89.498 64.056,0 121.051,-13.557 157.537,-34.623 l 34.744,30.125 h 26.139 l -24.573,-63.927 c 3.132,-5.823 4.995,-11.867 5.452,-18.073 h 5.187 c 0.267,4.2 1.804,10.788 0.433,17.533 -2.291,11.255 0.158,26.344 11.576,16.02 10.496,-9.493 3.311,-25.691 -3.404,-33.553 h 8.713 v -6 z M 99.42,293.529 c -11.967,0 -21.666,-9.699 -21.666,-21.666 0,-11.967 9.699,-21.666 21.666,-21.666 11.967,0 21.666,9.699 21.666,21.666 0,11.967 -9.699,21.666 -21.666,21.666 z m 100,0 c -11.967,0 -21.666,-9.699 -21.666,-21.666 0,-11.967 9.699,-21.666 21.666,-21.666 11.967,0 21.666,9.699 21.666,21.666 0,11.967 -9.699,21.666 -21.666,21.666 z m 100,0 c -11.967,0 -21.666,-9.699 -21.666,-21.666 0,-11.967 9.699,-21.666 21.666,-21.666 11.967,0 21.666,9.699 21.666,21.666 0,11.967 -9.699,21.666 -21.666,21.666 z"
+         id="path2923" />
+      <g
+         id="g2925"
+         style="fill:#000000;stroke-width:1.64763">
+</g>
+      <g
+         id="g2927"
+         style="fill:#000000;stroke-width:1.64763">
+</g>
+      <g
+         id="g2929"
+         style="fill:#000000;stroke-width:1.64763">
+</g>
+      <g
+         id="g2931"
+         style="fill:#000000;stroke-width:1.64763">
+</g>
+      <g
+         id="g2933"
+         style="fill:#000000;stroke-width:1.64763">
+</g>
+      <g
+         id="g2935"
+         style="fill:#000000;stroke-width:1.64763">
+</g>
+      <g
+         id="g2937"
+         style="fill:#000000;stroke-width:1.64763">
+</g>
+      <g
+         id="g2939"
+         style="fill:#000000;stroke-width:1.64763">
+</g>
+      <g
+         id="g2941"
+         style="fill:#000000;stroke-width:1.64763">
+</g>
+      <g
+         id="g2943"
+         style="fill:#000000;stroke-width:1.64763">
+</g>
+      <g
+         id="g2945"
+         style="fill:#000000;stroke-width:1.64763">
+</g>
+      <g
+         id="g2947"
+         style="fill:#000000;stroke-width:1.64763">
+</g>
+      <g
+         id="g2949"
+         style="fill:#000000;stroke-width:1.64763">
+</g>
+      <g
+         id="g2951"
+         style="fill:#000000;stroke-width:1.64763">
+</g>
+      <g
+         id="g2953"
+         style="fill:#000000;stroke-width:1.64763">
+</g>
+    </g>
+    <path
+       style="fill:#4d4d4d;stroke-width:0.259677"
+       d="m -45.149414,675.05972 c -3.30517,-0.5529 -7.93897,-2.5144 -10.97104,-4.6441 -6.110171,-4.2916 -10.487641,-10.6767 -12.170191,-17.7518 -0.59909,-2.5191 -0.58577,-9.9683 0.0228,-12.7607 0.85626,-3.9289 2.55115,-7.6766 4.86003,-10.7465 1.43534,-1.9084 5.759561,-6.0822 7.572861,-7.3094 3.39195,-2.2957 7.61431,-3.9399 11.46224,-4.4635 1.39302,-0.1896 3.73521,-0.2569 6.329619,-0.1819 4.45769,0.1288 4.84778,0.2093 9.41729,1.9432 l 2.62102,0.9946 0.62728,-0.5865 c 0.78767,-0.7365 4.09449,-5.2189 5.28171,-7.1595 0.52564,-0.8592 1.00043,-2.0384 1.15294,-2.8635 0.16759,-0.9065 0.23324,-5.5613 0.18556,-13.1569 l -0.0738,-11.754 -0.68648,-1.3226 c -0.84782,-1.6335 -3.92272,-6.0322 -5.34125,-7.6408 l -1.05338,-1.1944 -2.54561,0.9896 c -4.62552,1.7984 -4.77586,1.8272 -10.153309,1.9476 -6.51712,0.1459 -9.06432,-0.3366 -13.69391,-2.5938 -6.142751,-2.9949 -11.822131,-8.9291 -14.344441,-14.98785 -1.46159,-3.5109 -1.96202,-5.7782 -2.11938,-9.6019 -0.25365,-6.1638 0.47609,-9.9318 2.83405,-14.6338 2.87193,-5.7269 8.415141,-11.1974 13.920001,-13.7373 4.10072,-1.8921 7.28391,-2.5688 12.08062,-2.5684 5.581219,0 9.869629,1.0081 14.104299,3.3138 5.71609,3.1123 11.14853,9.2113 13.45326,15.1039 1.61192,4.1212 1.79099,5.1851 1.79658,10.6739 0.006,5.5079 -0.12335,6.2527 -1.87586,10.8333 -0.58907,1.5399 -1.02769,2.9092 -0.97467,3.0431 0.31338,0.7913 8.06751,6.17315 9.69319,6.72775 1.43393,0.4892 24.63334,0.485 26.04881,0 1.68426,-0.5826 7.88025,-4.8446 9.28983,-6.39005 l 0.52574,-0.5764 -0.97568,-2.4345 c -1.43487,-3.5802 -1.9093,-5.6748 -2.0677,-9.1292 -0.32418,-7.0697 1.12764,-12.7675 4.58776,-18.0052 1.26501,-1.9149 5.35282,-6.2032 7.3296,-7.6892 4.90322,-3.6858 10.50673,-5.464 17.21885,-5.464 6.68678,0 12.25456,1.748 17.08124,5.3627 1.9716,1.4765 6.12175,5.7655 7.29565,7.5397 2.07557,3.1369 3.76178,7.1661 4.37994,10.4657 0.40247,2.1483 0.39754,9.164 -0.008,11.442 -0.68423,3.8428 -2.7056,8.4402 -5.05378,11.49415 -1.75783,2.2863 -5.61688,5.9611 -7.75161,7.3815 -5.01505,3.3369 -9.22919,4.4973 -16.30855,4.4906 -4.78942,0 -6.19695,-0.2439 -10.00157,-1.7015 -1.46172,-0.56 -2.83871,-1.0725 -3.06001,-1.1389 -0.8903,-0.2673 -6.71947,7.8787 -7.27299,10.1636 -0.43992,1.8159 -0.45171,23.4358 -0.0138,25.0598 0.16251,0.6025 0.69376,1.7528 1.18052,2.5562 1.2787,2.1104 4.27267,6.2148 5.12023,7.0192 l 0.72657,0.6896 2.30699,-0.8641 c 4.92254,-1.8437 8.81221,-2.5116 12.96153,-2.2256 7.834,0.5399 13.82947,3.3076 19.37627,8.9445 4.54582,4.6198 7.4395,10.5442 8.04912,16.4794 0.34472,3.3562 0.1087,8.3802 -0.50676,10.7866 -2.57555,10.0703 -10.37164,18.1292 -20.59036,21.2845 -2.11961,0.6544 -2.36885,0.6764 -7.78895,0.6856 -5.43573,0.01 -5.66685,-0.01 -7.91204,-0.6728 -10.00622,-2.9526 -18.03013,-11.1519 -20.61427,-21.0649 -0.75984,-2.9148 -1.03367,-8.3754 -0.57747,-11.5156 0.29406,-2.0241 1.56362,-6.3337 2.44719,-8.3073 l 0.46189,-1.0316 -0.6574,-0.6935 c -0.75862,-0.8003 -4.91926,-3.8689 -6.81973,-5.0298 -2.6587,-1.6241 -2.77135,-1.6354 -15.74788,-1.5855 -13.09726,0.05 -12.51211,-0.022 -15.55666,1.9257 -1.9515,1.2484 -5.74875,4.1095 -6.38459,4.8106 l -0.51793,0.5711 1.07595,2.7996 c 1.45073,3.7749 1.76359,5.189 1.9389,8.7641 0.44038,8.9806 -1.89821,15.654 -7.57827,21.6253 -1.33898,1.4076 -3.21288,3.1795 -4.16422,3.9376 -3.24887,2.5888 -8.18401,4.7072 -12.43681,5.3384 -2.03302,0.3018 -8.632699,0.2986 -10.447709,0 z m 9.135059,-4.7343 c 3.92563,-0.6367 6.84702,-1.795 10.12339,-4.0139 5.35756,-3.6285 9.26448,-9.7404 10.3621,-16.2105 0.42883,-2.5278 0.17173,-7.7633 -0.49483,-10.0762 -0.55995,-1.943 -1.67926,-4.6273 -1.92764,-4.6228 -0.27183,0 -12.54832,9.0381 -13.42119,9.8755 -0.68449,0.6566 -0.91351,1.1235 -1.14271,2.3296 -0.17147,0.9022 -0.20068,1.6689 -0.0727,1.9081 0.11766,0.2198 1.05704,1.324 2.08751,2.4538 3.51138,3.8496 5.99268,7.6478 5.62394,8.6088 -0.0855,0.2228 -0.43311,0.3834 -0.8298,0.3834 -1.31702,0 -4.38586,-2.1709 -9.50661,-6.7251 l -1.28818,-1.1456 -1.58574,0.2922 c -2.424929,0.4468 -4.387269,-0.104 -6.347009,-1.7815 -1.98044,-1.6952 -3.02494,-5.0342 -2.28042,-7.2901 0.36008,-1.0911 0.31446,-1.1715 -2.29304,-4.0428 -3.34743,-3.6862 -5.64371,-7.1603 -5.44068,-8.2315 0.10821,-0.571 1.21203,-0.6474 2.18771,-0.1515 1.32688,0.6744 3.84844,2.5408 5.89135,4.3606 1.05556,0.9403 2.34275,2.0534 2.86044,2.4736 l 0.94124,0.7641 1.52161,-0.361 c 1.9359,-0.4592 2.41955,-0.9607 7.047209,-7.3082 5.05076,-6.9278 5.15493,-7.0894 4.82551,-7.4863 -0.45132,-0.5439 -4.08311,-1.7446 -6.55971,-2.1688 -2.807709,-0.4809 -4.854039,-0.4956 -7.564819,-0.054 -12.07211,1.965 -20.665491,11.9662 -20.687711,24.0771 -0.009,4.7462 1.15193,8.9196 3.5373,12.719 1.75382,2.7935 3.225681,4.4704 5.570831,6.3467 5.41896,4.3357 12.19307,6.1592 18.862649,5.0776 z m 97.70375,0.013 c 5.40384,-0.8146 9.85527,-3.0434 13.71783,-6.8685 7.98379,-7.9065 9.49913,-20.4883 3.60626,-29.9431 -3.2164,-5.1604 -7.46708,-8.4864 -13.56042,-10.6101 -2.24124,-0.7812 -2.24526,-0.7816 -7.23316,-0.7835 h -4.99065 l -2.31276,0.8053 c -2.64,0.9192 -3.50023,1.4035 -3.32123,1.87 0.2954,0.7698 9.29151,12.897 10.04452,13.5405 0.48222,0.4121 2.35047,0.9472 3.30683,0.9472 0.36407,0 1.33829,-0.7028 2.7527,-1.9857 2.4869,-2.2559 5.60315,-4.6375 7.00107,-5.3507 1.09614,-0.5592 2.208,-0.5215 2.32176,0.079 0.20305,1.0712 -2.09325,4.5454 -5.44066,8.2315 -2.56049,2.8196 -2.65655,2.9817 -2.32689,3.9273 0.742,2.1285 0.0713,4.7014 -1.74321,6.6867 -2.11163,2.3105 -4.23286,3.0038 -7.4825,2.4458 l -1.0955,-0.1882 -2.43447,2.2261 c -2.52769,2.3114 -5.16948,4.3176 -6.77416,5.1442 -1.08817,0.5606 -2.19349,0.5178 -2.30863,-0.089 -0.19805,-1.0446 2.34478,-4.8686 5.50125,-8.2728 2.53183,-2.7306 2.53333,-2.7337 2.17189,-4.5056 -0.16723,-0.82 -0.52104,-1.7366 -0.78617,-2.0369 -0.65714,-0.7445 -13.48826,-10.2062 -13.84056,-10.2062 -0.22018,0 -1.43181,3.0778 -1.88523,4.7889 -0.64228,2.4239 -0.87521,7.1793 -0.47804,9.7597 1.60226,10.4101 9.86143,18.6854 20.34723,20.387 2.63411,0.4274 4.4246,0.4283 7.2429,0 z m -97.56169,-97.8692 c 3.20116,-0.5294 6.93824,-1.8064 6.93824,-2.3709 0,-0.2968 -7.44039,-10.61495 -9.16641,-12.71175 -1.031149,-1.2527 -1.421079,-1.5519 -2.191029,-1.6817 -0.51515,-0.087 -1.28123,-0.223 -1.70241,-0.3026 -0.68576,-0.1296 -0.95289,0.023 -2.55619,1.4619 -4.79816,4.3054 -8.51512,6.73655 -9.49646,6.2114 -0.62082,-0.3322 -0.56629,-0.7886 0.28443,-2.3803 0.96479,-1.8051 2.68378,-4.0753 4.94322,-6.5283 2.28952,-2.4856 2.47121,-2.8083 2.13103,-3.7841 -0.71014,-2.0371 -0.0607,-4.6603 1.61518,-6.5243 2.08196,-2.3157 4.36236,-3.1723 6.890349,-2.5882 1.70404,0.3936 1.64432,0.4219 4.30209,-2.0401 3.40842,-3.1574 7.02714,-5.5917 8.31254,-5.5917 0.88355,0 0.86259,0.8524 -0.0643,2.6163 -0.84408,1.6063 -2.54949,3.8164 -5.69787,7.384 -1.29282,1.465 -1.52012,1.853 -1.39818,2.3867 0.0801,0.3506 0.21368,1.0209 0.29687,1.4895 0.0832,0.4686 0.49326,1.2174 0.91128,1.664 0.41801,0.4466 3.2797,2.6433 6.35931,4.8816 7.23672,5.2597 7.14035,5.1941 7.40049,5.0333 0.38165,-0.2358 1.68164,-4.1261 2.07929,-6.2222 2.32553,-12.2593 -5.2716,-24.4831 -17.40819,-28.0098 -1.42977,-0.4155 -2.67792,-0.5499 -5.948069,-0.6405 -3.86251,-0.107 -4.301,-0.073 -6.57306,0.5125 -9.19953,2.3698 -16.093961,9.6865 -18.013331,19.1166 -0.579,2.8446 -0.41018,8.0964 0.3484,10.8389 3.34556,12.09505 15.213651,19.79545 27.4028,17.77975 z m 99.93493,-0.3613 c 1.13811,-0.2821 3.1648,-1.0379 4.50378,-1.6796 7.18525,-3.4437 12.03544,-9.68905 13.6352,-17.55745 0.5689,-2.7982 0.39876,-7.8082 -0.35947,-10.5842 -1.95316,-7.1509 -6.87502,-13.0266 -13.46062,-16.0693 -3.24082,-1.4974 -4.97699,-1.8658 -9.45652,-2.0066 -3.80185,-0.1195 -4.1904,-0.089 -6.53598,0.5154 -7.35412,1.8945 -12.88103,6.4383 -16.18739,13.3081 -0.6086,1.2645 -1.33996,3.1755 -1.62521,4.2467 -0.65379,2.4549 -0.88461,7.4326 -0.46526,10.0322 0.50629,3.1384 1.97949,7.0235 2.57643,6.7944 0.35132,-0.1348 8.26766,-5.8223 11.0641,-7.949 2.61956,-1.9921 3.0755,-2.5118 3.25016,-3.7045 0.0833,-0.569 0.21748,-1.2693 0.29811,-1.5562 0.11459,-0.4078 -0.24353,-0.96 -1.63996,-2.5286 -2.96795,-3.3339 -4.53946,-5.3852 -5.45256,-7.1173 -0.92824,-1.7608 -0.94961,-2.6134 -0.0656,-2.6134 1.2854,0 4.90413,2.4343 8.31254,5.5917 2.64143,2.4469 2.61133,2.4323 4.22657,2.0568 2.55657,-0.5943 4.89605,0.2693 6.96588,2.5715 1.6759,1.864 2.32533,4.4872 1.61519,6.5243 -0.3402,0.9758 -0.1585,1.2985 2.13101,3.7841 2.25945,2.453 3.97843,4.7232 4.94323,6.5283 0.85478,1.5993 0.9057,2.0479 0.27103,2.3875 -0.9954,0.53265 -4.13473,-1.5353 -9.53117,-6.2787 -1.55827,-1.3697 -1.84277,-1.5281 -2.51541,-1.4007 -0.41715,0.079 -1.17564,0.2141 -1.68551,0.3002 -0.71105,0.1201 -1.15572,0.4278 -1.90839,1.3204 -1.54178,1.8285 -9.45088,12.73555 -9.45496,13.03895 -0.007,0.5454 3.99899,1.9366 7.54319,2.6194 1.44822,0.279 6.98974,-0.074 9.00754,-0.5744 z"
+       id="path2994"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
