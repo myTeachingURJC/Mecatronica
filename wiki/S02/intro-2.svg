@@ -703,6 +703,20 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path2074-7-6" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-1-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2074-2-3" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -711,11 +725,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="575.78695"
-     inkscape:cy="816.20326"
+     inkscape:zoom="0.35"
+     inkscape:cx="161.42857"
+     inkscape:cy="488.57143"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
@@ -870,11 +884,19 @@
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S02/intro-2.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:3.71757;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-1)"
-       d="M 364.17218,205.80939 H 613.21789 V 470.69585"
+       d="M 306.3822,205.4931 H 620.642 v 73.89225"
        id="path2045-7"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S02/intro-2.png" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.71758;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-1-9)"
+       d="M 623.29535,352.19711 V 503.25664"
+       id="path2045-7-1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S02/intro-2.png" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2.8125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -980,7 +1002,7 @@
        width="278.68268"
        height="65.369064"
        x="476.68628"
-       y="475.02057"
+       y="286.54395"
        ry="8.8214207"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
@@ -989,7 +1011,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="501.84778"
-       y="515.74841"
+       y="327.27179"
        id="text4136-3-6-62-7"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
@@ -997,7 +1019,7 @@
          sodipodi:role="line"
          id="tspan4138-6-0-61-9"
          x="501.84778"
-         y="515.74841"
+         y="327.27179"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.8438px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">De Rotación</tspan></text>
     <image
        width="274.89151"
