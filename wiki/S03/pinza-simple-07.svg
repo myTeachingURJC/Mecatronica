@@ -29,15 +29,15 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:snap-page="true"
-     inkscape:zoom="0.64052329"
-     inkscape:cx="298.9743"
-     inkscape:cy="294.29063"
+     inkscape:zoom="0.45291836"
+     inkscape:cx="409.56609"
+     inkscape:cy="473.59528"
      inkscape:window-width="1860"
      inkscape:window-height="1016"
      inkscape:window-x="60"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer1"
      inkscape:snap-global="false"
      inkscape:snap-center="true"
      inkscape:object-nodes="true"
@@ -240,16 +240,6 @@
        inkscape:transform-center-x="47.023048"
        inkscape:transform-center-y="34.447606" />
     <path
-       id="path7141-3-1"
-       style="display:inline;fill:#d5e5ff;stroke:#000000;stroke-width:0.529167"
-       d="m 101.021,38.697081 c -2e-5,-3.7121 -3.009261,-6.72137 -6.784579,-6.71453 l -38.721812,2.20711 -11.916325,15.97049 -1.597055,10.6119 c -0.09139,0.34052 -0.138148,0.69144 -0.139093,1.04401 -3.3e-5,2.24756 1.821982,4.06956 4.069541,4.06952 1.342875,-9e-5 2.599239,-0.66268 3.357757,-1.7708 l 0.0093,0.005 0.04327,-0.0871 c 0.169111,-0.26044 0.30786,-0.5394 0.413528,-0.83143 l 5.277521,-10.61166 7.276604,-7.66193 32.277686,0.39722 c 3.710973,0.004 6.433597,-2.91495 6.433547,-6.62711 z"
-       sodipodi:nodetypes="ccccccccccccccc"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/pinza-simple-08.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       inkscape:transform-center-x="22.85806"
-       inkscape:transform-center-y="10.236977" />
-    <path
        id="path7141-2"
        style="display:inline;fill:#aaccff;stroke:#000000;stroke-width:0.529167"
        d="m 94.299639,31.975711 a 6.7213979,6.721397 0 0 0 -6.721369,6.72137 h -0.05349 v 26.95987 H 47.877522 v 0.0535 a 6.7213979,6.721397 0 0 0 -6.721479,6.72136 6.7213979,6.721397 0 0 0 6.721479,6.72137 v 0.0535 h 46.422123 v -0.0535 a 6.7213979,6.721397 0 0 0 6.721355,-6.72137 h 0.0535 v -33.7347 h -0.0535 a 6.7213979,6.721397 0 0 0 -6.721355,-6.72137 z"
@@ -258,15 +248,6 @@
        inkscape:export-ydpi="90"
        inkscape:transform-center-x="23.184356"
        inkscape:transform-center-y="16.894112" />
-    <circle
-       style="display:inline;fill:#b3b3b3;stroke:#000000;stroke-width:0.529167"
-       id="path6921-9"
-       cx="94.299644"
-       cy="38.697086"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/pinza-simple-08.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       r="2.0576198" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 0.529166;stroke-dashoffset:0;stroke-opacity:1"
        d="m 41.006455,71.45479 v 28.67727"
@@ -302,5 +283,24 @@
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/pinza-simple-08.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <path
+       id="path7141-3-1"
+       style="display:inline;fill:#d5e5ff;stroke:#000000;stroke-width:0.529167"
+       d="m 101.021,38.697081 c -2e-5,-3.7121 -3.009261,-6.72137 -6.784579,-6.71453 l -38.721812,2.20711 -11.916325,15.97049 -1.597055,10.6119 c -0.09139,0.34052 -0.138148,0.69144 -0.139093,1.04401 -3.3e-5,2.24756 1.821982,4.06956 4.069541,4.06952 1.342875,-9e-5 2.599239,-0.66268 3.357757,-1.7708 l 0.0093,0.005 0.04327,-0.0871 c 0.169111,-0.26044 0.30786,-0.5394 0.413528,-0.83143 l 5.277521,-10.61166 7.276604,-7.66193 32.277686,0.39722 c 3.710973,0.004 6.433597,-2.91495 6.433547,-6.62711 z"
+       sodipodi:nodetypes="ccccccccccccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/pinza-simple-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:transform-center-x="22.85806"
+       inkscape:transform-center-y="10.236977" />
+    <circle
+       style="display:inline;fill:#b3b3b3;stroke:#000000;stroke-width:0.529167"
+       id="path6921-9"
+       cx="94.299644"
+       cy="38.697086"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/pinza-simple-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       r="2.0576198" />
   </g>
 </svg>
