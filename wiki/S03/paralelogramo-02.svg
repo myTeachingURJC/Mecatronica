@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="299.17093mm"
+   height="190.57031mm"
+   viewBox="0 0 299.17093 190.5703"
+   version="1.1"
+   id="svg20386"
+   sodipodi:docname="paralelogramo-02.svg"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview20388"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-page="true"
+     inkscape:zoom="0.75102376"
+     inkscape:cx="561.23391"
+     inkscape:cy="385.47382"
+     inkscape:window-width="1858"
+     inkscape:window-height="1016"
+     inkscape:window-x="62"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer8"
+     inkscape:snap-global="false"
+     inkscape:snap-center="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-others="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:object-paths="true" />
+  <defs
+     id="defs20383">
+    <marker
+       style="overflow:visible"
+       id="marker3608"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3374" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path13472" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path13475" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path13472-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path13475-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path13475-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3608-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path3374-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path13475-6-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path13475-6-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path13475-6-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-6-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path13475-6-1-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path13475-6-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-6-7-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path13475-6-1-9-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-6-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path13475-6-1-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-0-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path13475-6-6-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-0-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path13475-6-6-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-0-0-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path13475-6-6-9-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend-2-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path13475-6-4" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="back"
+     transform="translate(33.460548,-115.08452)"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect25048-4"
+       width="299.17093"
+       height="190.57031"
+       x="-33.460548"
+       y="115.08452"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(33.460548,-115.08452)"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.793751;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect25048"
+       width="173.75874"
+       height="179.38576"
+       x="-28.254477"
+       y="121.069"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.793751;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect25048-2"
+       width="112.02551"
+       height="179.38576"
+       x="148.74962"
+       y="121.069"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <image
+       width="166.15834"
+       height="173.56667"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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
+wGD/HzD/Bie5eJmQAAAAAElFTkSuQmCC
+"
+       id="image1612"
+       x="-24.891989"
+       y="123.64719"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="top"
+     style="display:inline;opacity:1"
+     transform="translate(-52.625496,-12.511428)">
+    <path
+       style="opacity:0.475805;fill:#d5e5ff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 80.024176,150.39536 h 38.567494 l 39.20442,23.89845 v 12.03058 H 80.241796 Z"
+       id="path1810"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#d5e5ff;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 239.06631,156.34105 h 38.56749 l 39.20442,23.89845 v 12.03058 h -77.55429 z"
+       id="path1810-2"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path2064-7"
+       style="opacity:0.433936;fill:#aaffcc;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       d="m 176.35966,62.658054 c -3.02496,-2.17085 -7.55941,-1.710001 -9.73044,1.314828 v 0 l -62.56236,87.514748 v 0 c -2.17085,3.02496 -1.15614,7.46838 1.86869,9.63941 3.02496,2.17119 7.5597,1.71044 9.73084,-1.31454 v 0 l 62.56236,-87.51475 v 0 c 2.17096,-3.025117 1.15607,-7.468779 -1.86909,-9.639696 z"
+       sodipodi:nodetypes="sccccsccccs"
+       inkscape:transform-center-x="15.712904"
+       inkscape:transform-center-y="21.894139"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path2064-7-5"
+       style="opacity:0.433936;fill:#aaffcc;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       d="m 213.55438,83.471999 c -3.02496,-2.17085 -7.55941,-1.710001 -9.73044,1.314828 v 0 l -62.56236,87.514743 v 0 c -2.17085,3.02496 -1.15614,7.46838 1.86869,9.63941 3.02496,2.17119 7.5597,1.71044 9.73084,-1.31454 v 0 l 62.56236,-87.514745 v 0 c 2.17096,-3.025117 1.15607,-7.468779 -1.86909,-9.639696 z"
+       sodipodi:nodetypes="sccccsccccs"
+       inkscape:transform-center-x="15.712904"
+       inkscape:transform-center-y="21.894139"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path2064"
+       style="opacity:0.57816;fill:#d5e5ff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       d="m 173.02471,24.533684 c -3.7233,1.08e-4 -7.13849,3.018409 -7.13859,6.741707 V 63.63875 c -1.04035,3.126354 0.12871,6.845972 3.08094,8.403103 l 38.86845,21.500174 c 3.2934,1.736823 7.55647,0.123968 9.29349,-3.169317 1.73718,-3.293435 0.66056,-7.722261 -2.63292,-9.45937 L 180.1638,61.805785 V 31.275391 c -1.1e-4,-3.723494 -3.41561,-6.741877 -7.13909,-6.741707 z"
+       sodipodi:nodetypes="sccccscccs"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path2064-9"
+       style="display:inline;opacity:1;fill:#d5e5ff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       d="m 296.05898,101.96708 c -3.7233,1.1e-4 -7.13849,3.01841 -7.13859,6.74171 v 32.15755 c -0.0771,3.12025 -0.48735,4.95145 2.88741,8.43008 l 39.06198,21.67901 c 3.2934,1.73682 7.55647,0.12396 9.29349,-3.16932 1.73718,-3.29344 0.66056,-7.72226 -2.63292,-9.45937 l -34.33228,-19.10756 v -30.53039 c -1.1e-4,-3.72349 -3.41561,-6.74188 -7.13909,-6.74171 z"
+       sodipodi:nodetypes="sccccscccs"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.82052px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="94.02961"
+       y="175.3237"
+       id="text22614-2-1-3"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan22612-9-2-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="94.02961"
+         y="175.3237">Base</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.82052px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="255.53435"
+       y="175.75667"
+       id="text22614-2-1-3-1"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan22612-9-2-6-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="255.53435"
+         y="175.75667">Base</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.82052px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="300.91953"
+       y="30.323561"
+       id="text22614-2-1-3-36"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan22612-9-2-6-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.264583"
+         x="300.91953"
+         y="30.323561">Piezas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.82052px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="112.1869"
+       y="106.80276"
+       id="text22614-2-1-3-3"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan22612-9-2-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="112.1869"
+         y="106.80276">Barra</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.82052px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="286.74399"
+       y="67.593269"
+       id="text22614-2-1-3-3-7"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan22612-9-2-6-5-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="286.74399"
+         y="67.593269">Barras</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.82052px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="188.8297"
+       y="141.05978"
+       id="text22614-2-1-3-3-6"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan22612-9-2-6-5-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="188.8297"
+         y="141.05978">Barra</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.82052px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="148.41899"
+       y="40.492279"
+       id="text22614-2-1-3-3-6-9"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan22612-9-2-6-5-2-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="148.41899"
+         y="40.492279">Extremo</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="148.41899"
+         y="47.767929"
+         id="tspan10149">final</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.82052px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="323.73819"
+       y="129.31339"
+       id="text22614-2-1-3-3-6-9-6"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan22612-9-2-6-5-2-1-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="323.73819"
+         y="129.31339">Extremo</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="323.73819"
+         y="136.58904"
+         id="tspan10149-6">final</tspan></text>
+    <path
+       id="path2064-7-5-7"
+       style="display:inline;opacity:1;fill:#aaffcc;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       d="m 251.77322,27.255073 c -3.72326,-0.01552 -7.15109,2.988416 -7.16683,6.711683 v 0 l -0.25161,107.577014 v 0 c -0.0155,3.72327 3.38697,6.75587 7.11024,6.77161 3.72346,0.0158 7.15158,-2.98823 7.16733,-6.71168 v 0 l 0.25161,-107.577014 v 0 c 0.0155,-3.723461 -3.38726,-6.756155 -7.11074,-6.771613 z"
+       sodipodi:nodetypes="sccccsccccs"
+       inkscape:transform-center-x="0.11287447"
+       inkscape:transform-center-y="26.948763"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path2064-7-5-7-0"
+       style="display:inline;fill:#aaffcc;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       d="m 275.09547,27.255073 c -3.72326,-0.01552 -7.15109,2.988416 -7.16683,6.711683 v 0 l -0.25161,107.577014 v 0 c -0.0155,3.72327 3.38697,6.75587 7.11024,6.77161 3.72346,0.0158 7.15158,-2.98823 7.16733,-6.71168 v 0 l 0.25161,-107.577014 v 0 c 0.0155,-3.723461 -3.38726,-6.756155 -7.11074,-6.771613 z"
+       sodipodi:nodetypes="sccccsccccs"
+       inkscape:transform-center-x="0.11287447"
+       inkscape:transform-center-y="26.948763"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       id="path18194"
+       cx="108.95252"
+       cy="155.97046"
+       r="1.845361"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       id="path18194-2"
+       cx="146.95747"
+       cy="177.69812"
+       r="1.845361"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       id="path18194-5"
+       cx="269.39432"
+       cy="163.23477"
+       r="1.845361"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       id="path18194-2-9"
+       cx="307.39926"
+       cy="184.96243"
+       r="1.845361"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       id="path18194-2-9-8"
+       cx="251.1873"
+       cy="139.84738"
+       r="1.845361"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       id="path18194-2-9-8-9"
+       cx="275.32834"
+       cy="139.84738"
+       r="1.845361"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       id="path18194-2-9-8-7"
+       cx="251.1873"
+       cy="35.102512"
+       r="1.845361"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       id="path18194-2-9-8-9-3"
+       cx="275.32834"
+       cy="35.102512"
+       r="1.845361"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       id="path18194-5-2"
+       cx="295.92215"
+       cy="143.06487"
+       r="1.845361"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       id="path18194-2-9-2"
+       cx="333.92709"
+       cy="164.79253"
+       r="1.845361"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       id="path18194-3"
+       cx="172.84605"
+       cy="64.703644"
+       r="1.845361"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round"
+       id="path18194-2-7"
+       cx="210.851"
+       cy="86.431305"
+       r="1.845361"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S03/paralelogramo-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
