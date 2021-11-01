@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="527.86877mm"
+   width="587.93011mm"
    height="241.27609mm"
-   viewBox="0 0 527.86878 241.27609"
+   viewBox="0 0 587.93012 241.27609"
    version="1.1"
    id="svg42342"
    inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.24094753"
-     inkscape:cx="1276.2115"
-     inkscape:cy="715.92351"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1214.8094"
+     inkscape:cy="403.05086"
      inkscape:window-width="1858"
      inkscape:window-height="1016"
      inkscape:window-x="62"
@@ -47,13 +47,16 @@
      inkscape:label="back"
      transform="translate(37.837757,55.112282)">
     <rect
-       style="fill:#f9f9f9;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.05833, 1.05833;stroke-dashoffset:0"
+       style="fill:#f9f9f9;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.05833, 1.05833;stroke-dashoffset:0"
        id="rect70911"
-       width="527.86877"
+       width="587.93011"
        height="241.27609"
        x="-37.837757"
        y="-55.112282"
-       ry="4.0861325" />
+       ry="4.0861325"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -65,7 +68,10 @@
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="7.4326797"
        y="-12.688212"
-       id="text44474"><tspan
+       id="text44474"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan44472"
          style="fill:#0000ff;stroke-width:0.264583"
@@ -76,7 +82,10 @@
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-14.9605"
        y="37.589943"
-       id="text44474-0"><tspan
+       id="text44474-0"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan44472-2"
          style="stroke-width:0.264583"
@@ -85,20 +94,45 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="383.52081"
-       y="-13.010673"
-       id="text44474-0-9"><tspan
+       x="384.70688"
+       y="-24.019272"
+       id="text44474-0-9"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan44472-2-9"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000;stroke-width:0.264583"
-         x="383.52081"
-         y="-13.010673">Ciclo de trabajo</tspan></text>
+         x="384.70688"
+         y="-24.019272">Ciclo de</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000;stroke-width:0.264583"
+         x="384.70688"
+         y="-10.790148"
+         id="tspan102555"> trabajo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="454.86444"
+       y="-11.432871"
+       id="text44474-0-9-5"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;stroke-width:0.264583"
+         x="454.86444"
+         y="-11.432871"
+         id="tspan102555-6">Frec.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="387.59131"
        y="21.39959"
-       id="text44474-0-9-1"><tspan
+       id="text44474-0-9-1"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan44472-2-9-3"
          style="fill:#008000;stroke-width:0.264583"
@@ -109,7 +143,10 @@
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="387.59131"
        y="63.527767"
-       id="text44474-0-9-1-3"><tspan
+       id="text44474-0-9-1-3"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan44472-2-9-3-8"
          style="fill:#008000;stroke-width:0.264583"
@@ -120,7 +157,10 @@
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="387.59131"
        y="105.93587"
-       id="text44474-0-9-1-3-9"><tspan
+       id="text44474-0-9-1-3-9"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan44472-2-9-3-8-5"
          style="fill:#008000;stroke-width:0.264583"
@@ -131,7 +171,10 @@
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="387.59131"
        y="141.80251"
-       id="text44474-0-9-1-4-8-7"><tspan
+       id="text44474-0-9-1-4-8-7"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan44472-2-9-3-5-5-3"
          style="fill:#008000;stroke-width:0.264583"
@@ -140,9 +183,68 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="460.09729"
+       y="104.99857"
+       id="text44474-0-9-1-4-8-7-0"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan44472-2-9-3-5-5-3-3"
+         style="fill:#000000;stroke-width:0.264583"
+         x="460.09729"
+         y="104.99857">F/2 = 6Mhz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="460.09729"
+       y="62.431744"
+       id="text44474-0-9-1-4-8-7-0-3"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan44472-2-9-3-5-5-3-3-6"
+         style="fill:#000000;stroke-width:0.264583"
+         x="460.09729"
+         y="62.431744">F/4 = 3Mhz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="459.42227"
+       y="20.878895"
+       id="text44474-0-9-1-4-8-7-0-3-1"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan44472-2-9-3-5-5-3-3-6-8"
+         style="fill:#000000;stroke-width:0.264583"
+         x="459.42227"
+         y="20.878895">F/8 = 1.5Mhz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="459.42227"
+       y="143.83223"
+       id="text44474-0-9-1-4-8-7-0-3-1-7"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan44472-2-9-3-5-5-3-3-6-8-0"
+         style="fill:#000000;stroke-width:0.264583"
+         x="459.42227"
+         y="143.83223">F/8 = 1.5Mhz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-15.384289"
        y="71.811134"
-       id="text44474-0-5"><tspan
+       id="text44474-0-5"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan44472-2-1"
          style="stroke-width:0.264583"
@@ -153,7 +255,10 @@
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-15.640493"
        y="108.28803"
-       id="text44474-0-5-9"><tspan
+       id="text44474-0-5-9"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan44472-2-1-7"
          style="stroke-width:0.264583"
@@ -164,7 +269,10 @@
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="-21.173731"
        y="142.9527"
-       id="text44474-0-5-9-1"><tspan
+       id="text44474-0-5-9-1"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan44472-2-1-7-3"
          style="stroke-width:0.264583"
@@ -173,13 +281,19 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 3.0980528,-6.0977157 H 49.568846"
-       id="path49567" />
+       id="path49567"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="53.903473"
        y="-12.688212"
-       id="text44474-1"><tspan
+       id="text44474-1"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan44472-20"
          style="fill:#0000ff;stroke-width:0.264583"
@@ -188,13 +302,19 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 49.568846,-6.0977157 H 96.039639"
-       id="path49567-6" />
+       id="path49567-6"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="100.37426"
        y="-12.688212"
-       id="text44474-8"><tspan
+       id="text44474-8"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan44472-7"
          style="fill:#0000ff;stroke-width:0.264583"
@@ -203,13 +323,19 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 96.039637,-6.0977157 H 142.51043"
-       id="path49567-4" />
+       id="path49567-4"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="146.84506"
        y="-12.688212"
-       id="text44474-1-9"><tspan
+       id="text44474-1-9"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan44472-20-2"
          style="fill:#0000ff;stroke-width:0.264583"
@@ -218,13 +344,19 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 142.51043,-6.0977157 h 46.47079"
-       id="path49567-6-4" />
+       id="path49567-6-4"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="193.31584"
        y="-12.688212"
-       id="text44474-4"><tspan
+       id="text44474-4"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan44472-5"
          style="fill:#0000ff;stroke-width:0.264583"
@@ -233,13 +365,19 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 188.98122,-6.0977157 h 46.47079"
-       id="path49567-9" />
+       id="path49567-9"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="239.78664"
        y="-12.688212"
-       id="text44474-1-1"><tspan
+       id="text44474-1-1"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan44472-20-28"
          style="fill:#0000ff;stroke-width:0.264583"
@@ -248,13 +386,19 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 235.45201,-6.0977157 h 46.4708"
-       id="path49567-6-9" />
+       id="path49567-6-9"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="286.25742"
        y="-12.688212"
-       id="text44474-8-6"><tspan
+       id="text44474-8-6"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan44472-7-0"
          style="fill:#0000ff;stroke-width:0.264583"
@@ -263,13 +407,19 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 281.9228,-6.0977157 h 46.4708"
-       id="path49567-4-6" />
+       id="path49567-4-6"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="332.72824"
        y="-12.688212"
-       id="text44474-1-9-4"><tspan
+       id="text44474-1-9-4"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan44472-20-2-0"
          style="fill:#0000ff;stroke-width:0.264583"
@@ -278,76 +428,130 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 328.3936,-6.0977157 h 46.47079"
-       id="path49567-6-4-9" />
+       id="path49567-6-4-9"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.793751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 3.0980529,-30.318837 V 164.56476"
        id="path57257"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.793749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 374.86439,-30.318836 V 165.93296"
        id="path57257-3"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 3.0980528,111.38223 H 49.568846 V 96.07174 h 46.470789 v 15.31049"
-       id="path58898" />
+       id="path58898"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 96.039636,111.38223 H 142.51043 V 96.07174 h 46.47079 v 15.31049"
-       id="path58898-4" />
+       id="path58898-4"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 188.98121,111.38223 h 46.4708 V 96.07174 h 46.47078 v 15.31049"
-       id="path58898-5" />
+       id="path58898-5"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 281.9228,111.38223 h 46.47079 V 96.07174 h 46.47079 v 15.31049"
-       id="path58898-4-4" />
+       id="path58898-4-4"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 3.0980528,76.59998 H 96.039635 V 51.553599 H 188.98122 V 76.59998"
-       id="path69207" />
+       id="path69207"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 188.98121,76.59998 h 92.94158 V 51.553599 h 92.94159 V 76.59998"
-       id="path69207-6" />
+       id="path69207-6"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 3.0980528,41.817731 H 188.98122 v -25.04639 h 185.88317 v 25.04639"
-       id="path69694" />
+       id="path69694"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 3.0980528,146.97442 H 328.39358 V 131.6639 h 46.47081 v 15.31052"
-       id="path69874" />
+       id="path69874"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
        d="M 49.568846,-24.221311 V 146.97442"
-       id="path70290" />
+       id="path70290"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
        d="M 96.039637,-24.221311 V 146.97442"
-       id="path70290-6" />
+       id="path70290-6"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
        d="M 142.51043,-24.221311 V 146.97442"
-       id="path70290-6-3" />
+       id="path70290-6-3"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
        d="M 188.98122,-24.221311 V 146.97442"
-       id="path70290-6-3-9" />
+       id="path70290-6-3-9"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
        d="M 235.452,-24.221314 V 146.97442"
-       id="path70290-6-3-9-9" />
+       id="path70290-6-3-9-9"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
        d="M 281.92279,-24.221311 V 146.97442"
-       id="path70290-6-3-9-9-5" />
+       id="path70290-6-3-9-9-5"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.05833, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
        d="M 328.39358,-24.221311 V 146.97442"
-       id="path70290-6-3-9-9-5-2" />
+       id="path70290-6-3-9-9-5-2"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/syscounter-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
