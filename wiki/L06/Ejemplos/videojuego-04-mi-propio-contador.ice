@@ -222,12 +222,12 @@
           "id": "3d612fe0-8a4b-4639-9def-8d6b699c3569",
           "type": "basic.info",
           "data": {
-            "info": "## Videojuego 3: Pixel autónomo\n\nMovimiento rectilineo uniforme",
+            "info": "## Videojuego 4: Pixel autónomo\n\nControl de velocidad...",
             "readonly": true
           },
           "position": {
-            "x": 240,
-            "y": -72
+            "x": 80,
+            "y": -112
           },
           "size": {
             "width": 488,
@@ -250,7 +250,7 @@
           "id": "9dbfd76c-011c-4d3f-9c53-0d8e961a5136",
           "type": "febcfed8636b8ee9a98750b96ed9e53a165dd4a8",
           "position": {
-            "x": 888,
+            "x": 848,
             "y": 64
           },
           "size": {
@@ -334,16 +334,6 @@
             "port": "in"
           },
           "size": 8
-        },
-        {
-          "source": {
-            "block": "9dbfd76c-011c-4d3f-9c53-0d8e961a5136",
-            "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
-          },
-          "target": {
-            "block": "b4f1df49-d4a0-4416-ad82-54d417e4ba20",
-            "port": "9b0ef1de-08bf-4069-8e44-abbf45d6e31b"
-          }
         },
         {
           "source": {
@@ -440,6 +430,16 @@
             "port": "13ca63af-0f5f-4f0a-bd70-9d393b476d7d"
           },
           "size": 3
+        },
+        {
+          "source": {
+            "block": "9dbfd76c-011c-4d3f-9c53-0d8e961a5136",
+            "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
+          },
+          "target": {
+            "block": "b4f1df49-d4a0-4416-ad82-54d417e4ba20",
+            "port": "9b0ef1de-08bf-4069-8e44-abbf45d6e31b"
+          }
         }
       ]
     }
