@@ -5,8 +5,8 @@
    version="1.1"
    id="svg870"
    width="1822.0532"
-   height="1391.9446"
-   viewBox="0 0 1822.053 1391.9447"
+   height="1574.1127"
+   viewBox="0 0 1822.053 1574.1128"
    sodipodi:docname="config-4-ruedas-01.svg"
    inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -15,6 +15,34 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs874">
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path3425" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3295" />
+    </marker>
     <marker
        style="overflow:visible"
        id="TriangleInM"
@@ -1063,12 +1091,12 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="0.25"
-     inkscape:cx="978"
-     inkscape:cy="1094"
-     inkscape:window-width="1860"
+     inkscape:zoom="0.24299404"
+     inkscape:cx="936.23695"
+     inkscape:cy="1030.8895"
+     inkscape:window-width="1858"
      inkscape:window-height="1016"
-     inkscape:window-x="60"
+     inkscape:window-x="62"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="g876"
@@ -1084,567 +1112,925 @@
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-center="false"
-     inkscape:snap-others="false" />
+     inkscape:snap-others="true"
+     inkscape:snap-midpoints="true" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g876"
-     transform="translate(332.06824,4794.0884)">
+     transform="translate(129.00851,6532.0019)">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.19031;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect96949"
-       width="1819.0532"
-       height="1388.9446"
-       x="-330.56824"
-       y="-4792.5884"
+       width="1818.8629"
+       height="1570.9224"
+       x="-127.41335"
+       y="-6530.4067"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <g
+       id="path25827"
+       transform="scale(1,-1)">
+      <path
+         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+         d="m 1377.1582,5331.918 a 4.99999,4.99999 0 0 0 -2.8848,2.5136 c -99.6183,200.4311 -304.506,326.7699 -528.32613,325.7754 a 4.99999,4.99999 0 0 0 -5.02149,4.9766 4.99999,4.99999 0 0 0 4.97656,5.0234 c 227.61066,1.0113 436.02076,-127.4987 537.32616,-331.3242 a 4.99999,4.99999 0 0 0 -2.2519,-6.7031 4.99999,4.99999 0 0 0 -3.8184,-0.2617 z"
+         id="path44372" />
+      <g
+         id="g44362">
+        <g
+           id="path44364">
+          <path
+             style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-width:3.99999pt;-inkscape-stroke:none"
+             d="m 1389.0238,5315.9899 2.5101,39.8855 -35.8196,-17.8031 z"
+             id="path44368" />
+          <path
+             style="color:#000000;fill:#000000;fill-rule:evenodd;-inkscape-stroke:none"
+             d="m 1391.3945,5311.2187 -3.8437,2.5489 -37.1621,24.6367 44.0976,21.916 z m -4.7422,9.543 1.9297,30.6699 -27.5429,-13.6914 z"
+             id="path44370" />
+        </g>
+      </g>
+    </g>
+    <circle
+       style="fill:#f9f9f9;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="path2495"
+       cx="135.51375"
+       cy="-6019.7339"
+       r="24.601013" />
     <rect
-       style="fill:#ffe6d5;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect111291"
-       width="543.06738"
-       height="320.07324"
-       x="159.65286"
-       y="-3830.0225"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:3.73141;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect17077-3"
-       width="1777.35"
-       height="433.77344"
-       x="-311.2106"
-       y="-4771.9575"
+       width="1775.6185"
+       height="1511.3611"
+       x="-102.10114"
+       y="-6501.4624"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:36.8702px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999996"
-       x="938.9248"
-       y="-4711.3027"
+       x="244.18579"
+       y="-6355.6846"
        id="text67709"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.999996"
-         x="938.9248"
-         y="-4711.3027"
-         id="tspan78112">Ruedas de</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.999996"
-         x="938.9248"
-         y="-4665.2148"
-         id="tspan99731">dirección </tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.999996"
-         x="938.9248"
-         y="-4619.1274"
-         id="tspan78114">(unidas y pasivas)</tspan></text>
+         x="244.18579"
+         y="-6355.6846"
+         id="tspan78114">Línea Recta</tspan></text>
+    <path
+       id="path2323"
+       style="fill:#808080;stroke:#000000;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 160.98183,-6171.2394 a 16.921484,25.023403 0 0 0 -16.92188,25.024 16.921484,25.023403 0 0 0 16.92188,25.0239 h 148.46484 v -0.2108 a 16.921484,25.023403 0 0 0 2,0.2108 16.921484,25.023403 0 0 0 16.92187,-25.0239 16.921484,25.023403 0 0 0 -16.92187,-25.024 16.921484,25.023403 0 0 0 -2,0.2108 v -0.2108 z"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       style="fill:#ffe6d5;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect72990"
-       width="543.06738"
-       height="320.07324"
-       x="159.65286"
-       y="-4711.9214"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="rect2347"
+       width="193.5835"
+       height="175.79193"
+       x="138.1225"
+       y="-6107.6294" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="rect2703"
+       width="13.189606"
+       height="12.495026"
+       x="228.31944"
+       y="-6120.1245" />
     <path
-       id="path72992"
+       id="path2807"
        style="fill:#808080;stroke:#000000;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 236.62172,-4650.7591 a 16.921484,25.023403 0 0 0 -16.92188,25.024 16.921484,25.023403 0 0 0 16.92188,25.0239 h 148.46484 v -0.2108 a 16.921484,25.023403 0 0 0 2,0.2108 16.921484,25.023403 0 0 0 16.92187,-25.0239 16.921484,25.023403 0 0 0 -16.92187,-25.024 16.921484,25.023403 0 0 0 -2,0.2108 v -0.2108 z"
+       d="m 160.98183,-5868.2276 a 16.921484,25.023403 0 0 1 -16.92188,-25.024 16.921484,25.023403 0 0 1 16.92188,-25.0239 h 148.46484 v 0.2108 a 16.921484,25.023403 0 0 1 2,-0.2108 16.921484,25.023403 0 0 1 16.92187,25.0239 16.921484,25.023403 0 0 1 -16.92187,25.024 16.921484,25.023403 0 0 1 -2,-0.2108 v 0.2108 z"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="rect2809"
+       width="13.189606"
+       height="12.495026"
+       x="228.31944"
+       y="5919.3423"
+       transform="scale(1,-1)" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="path2851"
+       cx="235.21425"
+       cy="-6019.7339"
+       r="22.873453" />
     <path
-       id="path72996"
+       style="fill:#000000;stroke:#000000;stroke-width:0.999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 235.21425,-6019.7337 h -23.17637 c 1.68084,14.2407 9.14846,22.2441 23.17637,23.1764 z"
+       id="path2970"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 235.21425,-6019.7337 h 23.17637 c -1.68084,-14.2408 -9.14847,-22.2441 -23.17637,-23.1764 z"
+       id="path3208"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 356.31848,-6019.7337 h 99.86359"
+       id="path3245" />
+    <g
+       id="g14486">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="361.19244"
+         y="-5882.2021"
+         id="text6714"><tspan
+           sodipodi:role="line"
+           id="tspan6712"
+           x="361.19244"
+           y="-5882.2021">W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="398.83237"
+         y="-5869.002"
+         id="text10996"><tspan
+           sodipodi:role="line"
+           id="tspan10994"
+           x="398.83237"
+           y="-5869.002"
+           style="stroke-width:1">1</tspan></text>
+    </g>
+    <g
+       id="g14480">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="361.19244"
+         y="-6140.7388"
+         id="text4584"><tspan
+           sodipodi:role="line"
+           id="tspan4582"
+           x="361.19244"
+           y="-6140.7388">W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="394.38242"
+         y="-6125.0903"
+         id="text13166"><tspan
+           sodipodi:role="line"
+           id="tspan13164"
+           x="394.38242"
+           y="-6125.0903"
+           style="stroke-width:1">2</tspan></text>
+    </g>
+    <g
+       id="g14496"
+       transform="translate(-195.26514,-402.08606)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="361.19244"
+         y="-5882.2021"
+         id="text14490"><tspan
+           sodipodi:role="line"
+           id="tspan14488"
+           x="361.19244"
+           y="-5882.2021">W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="398.83237"
+         y="-5869.002"
+         id="text14494"><tspan
+           sodipodi:role="line"
+           id="tspan14492"
+           x="398.83237"
+           y="-5869.002"
+           style="stroke-width:1">1</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="224.77045"
+       y="-6286.2085"
+       id="text14500"><tspan
+         sodipodi:role="line"
+         id="tspan14498"
+         x="224.77045"
+         y="-6286.2085">=</tspan></text>
+    <g
+       id="g16458"
+       transform="translate(-95.466919,-143.61179)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="361.19244"
+         y="-6140.7388"
+         id="text16452"><tspan
+           sodipodi:role="line"
+           id="tspan16450"
+           x="361.19244"
+           y="-6140.7388">W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="394.38242"
+         y="-6125.0903"
+         id="text16456"><tspan
+           sodipodi:role="line"
+           id="tspan16454"
+           x="394.38242"
+           y="-6125.0903"
+           style="stroke-width:1">2</tspan></text>
+    </g>
+    <circle
+       style="fill:#f9f9f9;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="circle18604"
+       cx="4062.2666"
+       cy="-4550.25"
+       r="24.601013"
+       inkscape:transform-center-x="-115.37768"
+       inkscape:transform-center-y="364.60284"
+       transform="rotate(-32.683584)" />
+    <path
+       id="path18606"
        style="fill:#808080;stroke:#000000;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 236.62172,-4500.2554 a 16.921484,25.023403 0 0 0 -16.92188,25.024 16.921484,25.023403 0 0 0 16.92188,25.0239 h 148.46484 v -0.2108 a 16.921484,25.023403 0 0 0 2,0.2108 16.921484,25.023403 0 0 0 16.92187,-25.0239 16.921484,25.023403 0 0 0 -16.92187,-25.024 16.921484,25.023403 0 0 0 -2,0.2108 v -0.2108 z"
+       d="m 901.56134,-6164.6788 a 25.023403,16.921484 57.316416 0 0 -0.72961,30.1997 25.023403,16.921484 57.316416 0 0 27.75545,11.924 l 124.95772,-80.1709 -0.1138,-0.1774 a 25.023403,16.921484 57.316416 0 0 1.7971,-0.9026 25.023403,16.921484 57.316416 0 0 0.7297,-30.1995 25.023403,16.921484 57.316416 0 0 -27.7555,-11.9241 25.023403,16.921484 57.316416 0 0 -1.5695,1.2574 l -0.1139,-0.1774 z"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:transform-center-x="-131.83399"
+       inkscape:transform-center-y="203.76966" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="rect18608"
+       width="193.5835"
+       height="175.79193"
+       x="4064.8755"
+       y="-4638.1455"
+       inkscape:transform-center-x="-199.04003"
+       inkscape:transform-center-y="310.92697"
+       transform="rotate(-32.683584)" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="rect18610"
+       width="13.189606"
+       height="12.495026"
+       x="4155.0723"
+       y="-4650.6406"
+       inkscape:transform-center-x="-148.20243"
+       inkscape:transform-center-y="231.68965"
+       transform="rotate(-32.683584)" />
+    <path
+       id="path18612"
+       style="fill:#808080;stroke:#000000;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1065.1875,-5909.6441 a 25.023403,16.921484 57.316416 0 1 -27.7555,-11.9241 25.023403,16.921484 57.316416 0 1 0.7296,-30.1996 l 124.9578,-80.1708 0.1138,0.1774 a 25.023403,16.921484 57.316416 0 1 1.5695,-1.2575 25.023403,16.921484 57.316416 0 1 27.7555,11.9241 25.023403,16.921484 57.316416 0 1 -0.7297,30.1996 25.023403,16.921484 57.316416 0 1 -1.7971,0.9026 l 0.1136,0.1774 z"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:transform-center-x="-268.43435"
+       inkscape:transform-center-y="416.68061" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="rect18614"
+       width="13.189606"
+       height="12.495026"
+       x="4155.0723"
+       y="4449.8584"
+       transform="matrix(0.84166553,-0.53999919,-0.53999919,-0.84166553,0,0)"
+       inkscape:transform-center-x="-249.87738"
+       inkscape:transform-center-y="390.16454" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="circle18616"
+       cx="4161.9668"
+       cy="-4550.25"
+       r="22.873453"
+       inkscape:transform-center-x="-199.29211"
+       inkscape:transform-center-y="310.76468"
+       transform="rotate(-32.683584)" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1045.8532,-6077.247 -19.5068,12.5152 c 9.1047,11.0782 19.7118,13.7819 32.022,6.9915 z"
+       id="path18618"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="-195.79666"
+       inkscape:transform-center-y="322.36606" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1045.8532,-6077.247 19.5067,-12.5153 c -9.1047,-11.0783 -19.7117,-13.7818 -32.0219,-6.9915 z"
+       id="path18620"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="-202.78818"
+       inkscape:transform-center-y="299.16393" />
+    <g
+       id="g18632"
+       transform="rotate(-32.683584,678.81348,-6905.4432)"
+       inkscape:transform-center-x="-399.3254"
+       inkscape:transform-center-y="335.53691">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="361.19244"
+         y="-5882.2021"
+         id="text18626"><tspan
+           sodipodi:role="line"
+           id="tspan18624"
+           x="361.19244"
+           y="-5882.2021">W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="398.83237"
+         y="-5869.002"
+         id="text18630"><tspan
+           sodipodi:role="line"
+           id="tspan18628"
+           x="398.83237"
+           y="-5869.002"
+           style="stroke-width:1">1</tspan></text>
+    </g>
+    <g
+       id="g18642"
+       transform="rotate(-32.683584,670.67616,-6924.987)"
+       inkscape:transform-center-x="-258.39436"
+       inkscape:transform-center-y="117.93553">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="361.19244"
+         y="-6140.7388"
+         id="text18636"><tspan
+           sodipodi:role="line"
+           id="tspan18634"
+           x="361.19244"
+           y="-6140.7388">W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="394.38242"
+         y="-6125.0903"
+         id="text18640"><tspan
+           sodipodi:role="line"
+           id="tspan18638"
+           x="394.38242"
+           y="-6125.0903"
+           style="stroke-width:1">2</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1045.8531,-6077.247 847.71144,-6386.0789"
+       id="path18964"
+       inkscape:transform-center-x="-100.22148"
+       inkscape:transform-center-y="156.34905" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9.99998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#TriangleInM)"
+       id="path19390"
+       sodipodi:type="arc"
+       sodipodi:cx="846.48541"
+       sodipodi:cy="-6385.7642"
+       sodipodi:rx="592.07233"
+       sodipodi:ry="592.07233"
+       sodipodi:start="0.46126093"
+       sodipodi:end="1.5752393"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 1376.6814,-6122.246 a 592.07233,592.07233 0 0 1 -532.82654,328.5483" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:36.8702px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999996"
-       x="-88.625244"
-       y="-4563.6216"
-       id="text73004"
+       x="1483.54"
+       y="-6345.5093"
+       id="text19595"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.999996"
-         x="-88.625252"
-         y="-4563.6216"
-         id="tspan73000">Ruedas estándares</tspan><tspan
+         x="1483.54"
+         y="-6345.5093"
+         id="tspan19593">Arco izquierda</tspan></text>
+    <g
+       id="g19605"
+       transform="translate(1044.089,-391.91077)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="361.19244"
+         y="-5882.2021"
+         id="text19599"><tspan
+           sodipodi:role="line"
+           id="tspan19597"
+           x="361.19244"
+           y="-5882.2021">W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="398.83237"
+         y="-5869.002"
+         id="text19603"><tspan
+           sodipodi:role="line"
+           id="tspan19601"
+           x="398.83237"
+           y="-5869.002"
+           style="stroke-width:1">1</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="1464.1246"
+       y="-6276.0332"
+       id="text19609"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.999996"
-         x="-88.625244"
-         y="-4517.5337"
-         id="tspan73002">motrices</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.999996"
-         x="-88.625244"
-         y="-4471.4463"
-         id="tspan102651">(Unidas)</tspan></text>
+         id="tspan19607"
+         x="1464.1246"
+         y="-6276.0332">&gt;</tspan></text>
+    <g
+       id="g19619"
+       transform="translate(1143.8872,-133.4365)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="361.19244"
+         y="-6140.7388"
+         id="text19613"><tspan
+           sodipodi:role="line"
+           id="tspan19611"
+           x="361.19244"
+           y="-6140.7388">W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="394.38242"
+         y="-6125.0903"
+         id="text19617"><tspan
+           sodipodi:role="line"
+           id="tspan19615"
+           x="394.38242"
+           y="-6125.0903"
+           style="stroke-width:1">2</tspan></text>
+    </g>
+    <circle
+       style="fill:#f9f9f9;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="circle25337"
+       cx="-2020.0292"
+       cy="-5138.0176"
+       r="24.601013"
+       transform="rotate(31.435757)" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5)"
-       d="m 129.38654,-4580.9518 82.60495,-31.8786"
-       id="path74966"
+       id="path25343"
+       style="fill:#808080;stroke:#000000;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1056.8992,-5553.4032 a 16.921484,25.023403 31.435757 0 0 -27.4893,12.5256 16.921484,25.023403 31.435757 0 0 1.3872,30.1765 l 126.6739,77.4307 0.1097,-0.18 a 16.921484,25.023403 31.435757 0 0 1.5965,1.223 16.921484,25.023403 31.435757 0 0 27.4892,-12.5255 16.921484,25.023403 31.435757 0 0 -1.3871,-30.1766 16.921484,25.023403 31.435757 0 0 -1.8164,-0.8633 l 0.1097,-0.1799 z"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       sodipodi:nodetypes="cc" />
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="rect25345"
+       width="193.5835"
+       height="175.79193"
+       x="-2017.4203"
+       y="-5225.9131"
+       transform="rotate(31.435757)" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="rect25347"
+       width="13.189606"
+       height="12.495026"
+       x="-1927.2234"
+       y="-5238.4082"
+       transform="rotate(31.435757)" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5)"
-       d="m 120.33472,-4548.3871 88.44338,56.9946"
-       id="path75067"
+       id="path25349"
+       style="fill:#808080;stroke:#000000;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 898.86572,-5294.8658 a 16.921484,25.023403 31.435757 0 1 -1.3872,-30.1767 16.921484,25.023403 31.435757 0 1 27.4892,-12.5254 l 126.67408,77.4306 -0.1096,0.1799 a 16.921484,25.023403 31.435757 0 1 1.8163,0.8632 16.921484,25.023403 31.435757 0 1 1.3873,30.1765 16.921484,25.023403 31.435757 0 1 -27.4894,12.5257 16.921484,25.023403 31.435757 0 1 -1.5965,-1.2229 l -0.1097,0.1798 z"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       sodipodi:nodetypes="cc" />
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="rect25351"
+       width="13.189606"
+       height="12.495026"
+       x="-1927.2234"
+       y="5037.626"
+       transform="matrix(0.85322548,0.52154221,0.52154221,-0.85322548,0,0)" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="circle25353"
+       cx="-1920.3286"
+       cy="-5138.0176"
+       r="22.873453"
+       transform="rotate(31.435757)" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1041.2196,-5385.4194 -19.7747,-12.0874 c -5.993,13.0271 -3.7956,23.7505 7.6872,31.8621 z"
+       id="path25355"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1041.2196,-5385.4194 19.7747,12.0875 c 5.9929,-13.0272 3.7955,-23.7505 -7.6873,-31.8621 z"
+       id="path25357"
+       sodipodi:nodetypes="cccc" />
+    <g
+       id="g25369"
+       transform="rotate(31.435757,-488.75559,-4270.5646)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="361.19244"
+         y="-5882.2021"
+         id="text25363"><tspan
+           sodipodi:role="line"
+           id="tspan25361"
+           x="361.19244"
+           y="-5882.2021">W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="398.83237"
+         y="-5869.002"
+         id="text25367"><tspan
+           sodipodi:role="line"
+           id="tspan25365"
+           x="398.83237"
+           y="-5869.002"
+           style="stroke-width:1">1</tspan></text>
+    </g>
+    <g
+       id="g25379"
+       transform="rotate(31.435757,-488.75559,-4270.5646)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="361.19244"
+         y="-6140.7388"
+         id="text25373"><tspan
+           sodipodi:role="line"
+           id="tspan25371"
+           x="361.19244"
+           y="-6140.7388">W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="394.38242"
+         y="-6125.0903"
+         id="text25377"><tspan
+           sodipodi:role="line"
+           id="tspan25375"
+           x="394.38242"
+           y="-6125.0903"
+           style="stroke-width:1">2</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1040.9635,-5385.5759 -192.40808,312.4363"
+       id="path25743"
+       inkscape:transform-center-x="-97.31878"
+       inkscape:transform-center-y="-158.17218" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:36.8702px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999996"
-       x="1039.5161"
-       y="-4074.1846"
-       id="text75287"
+       x="1501.8547"
+       y="-5546.5991"
+       id="text25831"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.999996"
-         x="1039.5161"
-         y="-4074.1846"
-         id="tspan75285">Tracción Diferencial</tspan></text>
+         x="1501.8547"
+         y="-5546.5991"
+         id="tspan25829">Arco derecha</tspan></text>
+    <g
+       id="g25841"
+       transform="translate(1062.4039,406.99941)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="361.19244"
+         y="-5882.2021"
+         id="text25835"><tspan
+           sodipodi:role="line"
+           id="tspan25833"
+           x="361.19244"
+           y="-5882.2021">W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="398.83237"
+         y="-5869.002"
+         id="text25839"><tspan
+           sodipodi:role="line"
+           id="tspan25837"
+           x="398.83237"
+           y="-5869.002"
+           style="stroke-width:1">1</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="1482.4395"
+       y="-5477.123"
+       id="text25845"><tspan
+         sodipodi:role="line"
+         id="tspan25843"
+         x="1482.4395"
+         y="-5477.123">&lt;</tspan></text>
+    <g
+       id="g25855"
+       transform="translate(1162.2021,665.47368)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="361.19244"
+         y="-6140.7388"
+         id="text25849"><tspan
+           sodipodi:role="line"
+           id="tspan25847"
+           x="361.19244"
+           y="-6140.7388">W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="394.38242"
+         y="-6125.0903"
+         id="text25853"><tspan
+           sodipodi:role="line"
+           id="tspan25851"
+           x="394.38242"
+           y="-6125.0903"
+           style="stroke-width:1">2</tspan></text>
+    </g>
+    <circle
+       style="fill:#f9f9f9;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="circle29237"
+       cx="4665.3696"
+       cy="-2496.2534"
+       r="24.601013"
+       inkscape:transform-center-x="48.178298"
+       inkscape:transform-center-y="86.444942"
+       transform="rotate(-60.824646)" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5)"
-       d="m 765.21374,-4710.5821 -98.95818,110.9307"
-       id="path50367"
+       id="path29239"
+       style="fill:#808080;stroke:#000000;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -25.133819,-5386.4602 a 25.023403,16.921484 29.175354 0 0 13.600115,26.9739 25.023403,16.921484 29.175354 0 0 30.098289,-2.5764 l 72.37426,-129.6293 -0.18405,-0.1028 a 25.023403,16.921484 29.175354 0 0 1.15902,-1.6435 25.023403,16.921484 29.175354 0 0 -13.60003,-26.9738 25.023403,16.921484 29.175354 0 0 -30.09839,2.5762 25.023403,16.921484 29.175354 0 0 -0.79091,1.8491 l -0.18406,-0.1028 z"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
-       sodipodi:nodetypes="cc" />
+       inkscape:transform-center-x="109.52356"
+       inkscape:transform-center-y="-63.137528" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="rect29241"
+       width="193.5835"
+       height="175.79193"
+       x="4667.9785"
+       y="-2584.1489"
+       inkscape:transform-center-x="-0.27833704"
+       inkscape:transform-center-y="-0.34470269"
+       transform="rotate(-60.824646)" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="rect29243"
+       width="13.189606"
+       height="12.495026"
+       x="4758.1753"
+       y="-2596.644"
+       inkscape:transform-center-x="81.921501"
+       inkscape:transform-center-y="-46.238055"
+       transform="rotate(-60.824646)" />
+    <path
+       id="path29245"
+       style="fill:#808080;stroke:#000000;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 239.43543,-5238.7468 a 25.023403,16.921484 29.175354 0 1 -30.0984,2.5763 25.023403,16.921484 29.175354 0 1 -13.60001,-26.9738 l 72.37424,-129.6294 0.18406,0.1028 a 25.023403,16.921484 29.175354 0 1 0.79091,-1.8491 25.023403,16.921484 29.175354 0 1 30.09832,-2.5762 25.023403,16.921484 29.175354 0 1 13.60009,26.9738 25.023403,16.921484 29.175354 0 1 -1.15902,1.6435 l 0.18405,0.1027 z"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:transform-center-x="-111.34729"
+       inkscape:transform-center-y="60.178382" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="rect29247"
+       width="13.189606"
+       height="12.495026"
+       x="4758.1753"
+       y="2395.8618"
+       transform="matrix(0.48748412,-0.87313185,-0.87313185,-0.48748412,0,0)"
+       inkscape:transform-center-x="-82.478053"
+       inkscape:transform-center-y="45.548986" />
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round"
+       id="circle29249"
+       cx="4765.0698"
+       cy="-2496.2534"
+       r="22.873453"
+       inkscape:transform-center-x="-0.42396837"
+       inkscape:transform-center-y="-0.60648173"
+       transform="rotate(-60.824646)" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 143.33776,-5377.4182 -11.29812,20.2359 c 13.25339,5.4746 23.88177,2.8559 31.53418,-8.9378 z"
+       id="path29251"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="-4.8931911"
+       inkscape:transform-center-y="10.879931" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 143.33776,-5377.4182 11.29811,-20.2361 c -13.25349,-5.4746 -23.88179,-2.8559 -31.53416,8.9379 z"
+       id="path29253"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="4.0447496"
+       inkscape:transform-center-y="-12.092989" />
+    <g
+       id="g29265"
+       transform="rotate(-60.824646,880.42856,-5369.1643)"
+       inkscape:transform-center-x="-188.8782"
+       inkscape:transform-center-y="-71.216913">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="361.19244"
+         y="-5882.2021"
+         id="text29259"><tspan
+           sodipodi:role="line"
+           id="tspan29257"
+           x="361.19244"
+           y="-5882.2021">W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="398.83237"
+         y="-5869.002"
+         id="text29263"><tspan
+           sodipodi:role="line"
+           id="tspan29261"
+           x="398.83237"
+           y="-5869.002"
+           style="stroke-width:1">1</tspan></text>
+    </g>
+    <g
+       id="g29275"
+       transform="rotate(-60.824646,874.9135,-5368.3558)"
+       inkscape:transform-center-x="36.937794"
+       inkscape:transform-center-y="-194.7034">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="361.19244"
+         y="-6140.7388"
+         id="text29269"><tspan
+           sodipodi:role="line"
+           id="tspan29267"
+           x="361.19244"
+           y="-6140.7388">W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="394.38242"
+         y="-6125.0903"
+         id="text29273"><tspan
+           sodipodi:role="line"
+           id="tspan29271"
+           x="394.38242"
+           y="-6125.0903"
+           style="stroke-width:1">2</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker-start:url(#TriangleInM);marker-end:url(#TriangleOutM)"
+       id="path29381"
+       sodipodi:type="arc"
+       sodipodi:cx="137.56708"
+       sodipodi:cy="-5377.2412"
+       sodipodi:rx="64.250229"
+       sodipodi:ry="64.250229"
+       sodipodi:start="0.24890869"
+       sodipodi:end="5.2930788"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 199.83723,-5361.4134 a 64.250229,64.250229 0 0 1 -58.36325,48.3035 64.250229,64.250229 0 0 1 -63.795222,-40.8616 64.250229,64.250229 0 0 1 19.470605,-73.2147 64.250229,64.250229 0 0 1 75.665447,-3.7736" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:36.8702px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999996"
+       x="382.01025"
+       y="-5589.106"
+       id="text30743"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.999996"
+         x="382.01025"
+         y="-5589.106"
+         id="tspan30741">Giros alrededor </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.999996"
+         x="382.01025"
+         y="-5543.0181"
+         id="tspan32883">del centro</tspan></text>
+    <g
+       id="g33625"
+       transform="translate(-1.971934,413.08372)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="361.19244"
+         y="-5882.2021"
+         id="text33619"><tspan
+           sodipodi:role="line"
+           id="tspan33617"
+           x="361.19244"
+           y="-5882.2021">W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="398.83237"
+         y="-5869.002"
+         id="text33623"><tspan
+           sodipodi:role="line"
+           id="tspan33621"
+           x="398.83237"
+           y="-5869.002"
+           style="stroke-width:1">1</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="436.73718"
+       y="-5471.0391"
+       id="text33629"><tspan
+         sodipodi:role="line"
+         id="tspan33627"
+         x="436.73718"
+         y="-5471.0391">=</tspan></text>
+    <g
+       id="g33639"
+       transform="translate(131.26892,671.55799)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="361.19244"
+         y="-6140.7388"
+         id="text33633"><tspan
+           sodipodi:role="line"
+           id="tspan33631"
+           x="361.19244"
+           y="-6140.7388">W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:33.396px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="394.38242"
+         y="-6125.0903"
+         id="text33637"><tspan
+           sodipodi:role="line"
+           id="tspan33635"
+           x="394.38242"
+           y="-6125.0903"
+           style="stroke-width:1">2</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 345.03657,-5518.9651 v 76.1299"
+       id="path33674" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 427.58893,-5518.9651 v 76.1299"
+       id="path33756" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 477.82499,-5518.9651 v 76.1299"
+       id="path33758" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 560.37735,-5518.9651 v 76.1299"
+       id="path33760" />
+    <g
+       id="g36511"
+       transform="translate(53.635572,571.39105)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         x="443.53763"
+         y="-5940.3716"
+         id="text36505"><tspan
+           sodipodi:role="line"
+           id="tspan36503"
+           x="443.53763"
+           y="-5940.3716">Signos </tspan><tspan
+           sodipodi:role="line"
+           x="443.53763"
+           y="-5890.3716"
+           id="tspan41399">diferentes</tspan></text>
+    </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 306.08751,-4600.9219 v 100.6663"
-       id="path81189"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:36.8702px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999996"
-       x="-90.696014"
-       y="-4128.9673"
-       id="text84803"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.999996"
-         x="-90.696022"
-         y="-4128.9673"
-         id="tspan84797">Ruedas estándares</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.999996"
-         x="-90.696014"
-         y="-4082.8796"
-         id="tspan84801">motrices</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:36.8702px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999996"
-       x="1016.3672"
-       y="-4430.4595"
-       id="text92412"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.999996"
-         x="1016.3672"
-         y="-4430.4595"
-         id="tspan92410">Configuración de los coches</tspan></text>
-    <g
-       id="g94320"
-       transform="matrix(0.78796242,0,0,0.78796242,-59.667517,-1856.5632)"
-       style="stroke-width:1.2691"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         id="path94308"
-         style="fill:#ffffff;stroke:#000000;stroke-width:5.07637;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 385.23574,-2417.5438 c -9.34579,-3e-4 -16.9221,11.2035 -16.92188,25.024 -1.9e-4,13.8205 7.57612,25.0242 16.92188,25.0239 h 157.42647 v -0.2108 c 0.66327,0.1287 1.33111,0.1991 2,0.2108 9.34576,3e-4 16.92206,-11.2034 16.92187,-25.0239 2.3e-4,-13.8205 -7.57608,-25.0243 -16.92187,-25.024 -0.66889,0.012 -1.33673,0.082 -2,0.2108 v -0.2108 z"
-         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-2-ruedas-01.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"
-         sodipodi:nodetypes="ccccccccccc" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect94310"
-         width="27.950447"
-         height="12.743009"
-         x="389.92966"
-         y="-2408.3914" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect94312"
-         width="27.950447"
-         height="12.743009"
-         x="416.87939"
-         y="-2389.6501" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect94314"
-         width="27.950447"
-         height="12.743009"
-         x="450.32181"
-         y="-2408.9124" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect94316"
-         width="27.950447"
-         height="12.743009"
-         x="481.53076"
-         y="-2390.4009" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect94318"
-         width="27.950447"
-         height="12.743009"
-         x="513.45575"
-         y="-2409.8574" />
-    </g>
+       d="M -102.10114,-5745.782 H 1673.5174"
+       id="path39424" />
     <path
-       id="path98067"
-       style="fill:#ffffff;stroke:#000000;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 473.60195,-4633.3787 a 25.023403,16.921484 78.275165 0 0 -11.48364,27.9406 25.023403,16.921484 78.275165 0 0 21.65396,21.0631 l 145.36708,-30.1699 -0.0428,-0.2064 a 25.023403,16.921484 78.275165 0 0 2.00112,-0.2 25.023403,16.921484 78.275165 0 0 11.48364,-27.9405 25.023403,16.921484 78.275165 0 0 -21.65397,-21.0631 25.023403,16.921484 78.275165 0 0 -1.91544,0.6128 l -0.0428,-0.2064 z"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       id="path98069"
-       style="fill:#ffffff;stroke:#000000;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 504.18604,-4486.0153 a 25.023403,16.921484 78.275165 0 0 -11.48363,27.9406 25.023403,16.921484 78.275165 0 0 21.65396,21.063 l 145.3671,-30.1698 -0.0428,-0.2064 a 25.023403,16.921484 78.275165 0 0 2.00109,-0.2 25.023403,16.921484 78.275165 0 0 11.48365,-27.9405 25.023403,16.921484 78.275165 0 0 -21.65397,-21.0632 25.023403,16.921484 78.275165 0 0 -1.91542,0.6129 l -0.0428,-0.2064 z"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 551.74582,-4598.6977 20.45658,98.5659"
-       id="path98071"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:36.8702px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999996"
-       x="1001.4787"
-       y="-4545.0396"
-       id="text105389"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.999996"
-         x="1001.4787"
-         y="-4545.0396"
-         id="tspan105387">(Necesario un diferencial para</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.999996"
-         x="1001.4787"
-         y="-4498.9517"
-         id="tspan105557">que las ruedas no derrapen)</tspan></text>
-    <rect
-       style="fill:#ffe6d5;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect108479"
-       width="543.06738"
-       height="320.07324"
-       x="159.65286"
-       y="-4266.3901"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       id="path108481"
-       style="fill:#808080;stroke:#000000;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 236.62172,-4205.2277 a 16.921484,25.023403 0 0 0 -16.92188,25.024 16.921484,25.023403 0 0 0 16.92188,25.0239 h 148.46484 v -0.2108 a 16.921484,25.023403 0 0 0 2,0.2108 16.921484,25.023403 0 0 0 16.92187,-25.0239 16.921484,25.023403 0 0 0 -16.92187,-25.024 16.921484,25.023403 0 0 0 -2,0.2108 v -0.2108 z"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       id="path108483"
-       style="fill:#808080;stroke:#000000;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 236.62172,-4054.724 a 16.921484,25.023403 0 0 0 -16.92188,25.024 16.921484,25.023403 0 0 0 16.92188,25.0239 h 148.46484 v -0.2108 a 16.921484,25.023403 0 0 0 2,0.2108 16.921484,25.023403 0 0 0 16.92187,-25.0239 16.921484,25.023403 0 0 0 -16.92187,-25.024 16.921484,25.023403 0 0 0 -2,0.2108 v -0.2108 z"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5)"
-       d="m 129.38654,-4135.4204 82.60495,-31.8786"
-       id="path108485"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5)"
-       d="m 120.33472,-4102.8557 88.44338,56.9946"
-       id="path108487"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       sodipodi:nodetypes="cc" />
-    <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path77835"
-       cx="578.50452"
-       cy="-4169.8828"
-       r="40.262596"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="circle108817"
-       cx="578.50452"
-       cy="-4030.9951"
-       r="40.262596"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:36.8702px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999996"
-       x="1022.493"
-       y="-4225.771"
-       id="text109493"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.999996"
-         x="1022.493"
-         y="-4225.771"
-         id="tspan109489">Ruedas esféricas/</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.999996"
-         x="1022.493"
-         y="-4179.6831"
-         id="tspan109491">locas, pasivas</tspan></text>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect110509"
-       width="1777.35"
-       height="405.9808"
-       x="-311.2106"
-       y="-4310.6055"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <g
-       id="g111305"
-       transform="matrix(0.78796242,0,0,0.78796242,-59.667517,-1732.708)"
-       style="stroke-width:1.2691"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         id="path111293"
-         style="fill:#ffffff;stroke:#000000;stroke-width:5.07637;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 385.23574,-2417.5438 c -9.34579,-3e-4 -16.9221,11.2035 -16.92188,25.024 -1.9e-4,13.8205 7.57612,25.0242 16.92188,25.0239 h 157.42647 v -0.2108 c 0.66327,0.1287 1.33111,0.1991 2,0.2108 9.34576,3e-4 16.92206,-11.2034 16.92187,-25.0239 2.3e-4,-13.8205 -7.57608,-25.0243 -16.92187,-25.024 -0.66889,0.012 -1.33673,0.082 -2,0.2108 v -0.2108 z"
-         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-2-ruedas-01.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"
-         sodipodi:nodetypes="ccccccccccc" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect111295"
-         width="27.950447"
-         height="12.743009"
-         x="389.92966"
-         y="-2408.3914" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect111297"
-         width="27.950447"
-         height="12.743009"
-         x="416.87939"
-         y="-2389.6501" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect111299"
-         width="27.950447"
-         height="12.743009"
-         x="450.32181"
-         y="-2408.9124" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect111301"
-         width="27.950447"
-         height="12.743009"
-         x="481.53076"
-         y="-2390.4009" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect111303"
-         width="27.950447"
-         height="12.743009"
-         x="513.45575"
-         y="-2409.8574" />
-    </g>
-    <g
-       id="g111319"
-       transform="matrix(0.78796242,0,0,0.78796242,213.98151,-1856.5632)"
-       style="stroke-width:1.2691"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         id="path111307"
-         style="fill:#ffffff;stroke:#000000;stroke-width:5.07637;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 385.23574,-2417.5438 c -9.34579,-3e-4 -16.9221,11.2035 -16.92188,25.024 -1.9e-4,13.8205 7.57612,25.0242 16.92188,25.0239 h 157.42647 v -0.2108 c 0.66327,0.1287 1.33111,0.1991 2,0.2108 9.34576,3e-4 16.92206,-11.2034 16.92187,-25.0239 2.3e-4,-13.8205 -7.57608,-25.0243 -16.92187,-25.024 -0.66889,0.012 -1.33673,0.082 -2,0.2108 v -0.2108 z"
-         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-2-ruedas-01.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"
-         sodipodi:nodetypes="ccccccccccc" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect111309"
-         width="27.950447"
-         height="12.743009"
-         x="389.92966"
-         y="-2408.3914" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect111311"
-         width="27.950447"
-         height="12.743009"
-         x="416.87939"
-         y="-2389.6501" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect111313"
-         width="27.950447"
-         height="12.743009"
-         x="450.32181"
-         y="-2408.9124" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect111315"
-         width="27.950447"
-         height="12.743009"
-         x="481.53076"
-         y="-2390.4009" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect111317"
-         width="27.950447"
-         height="12.743009"
-         x="513.45575"
-         y="-2409.8574" />
-    </g>
-    <g
-       id="g111333"
-       transform="matrix(0.78796242,0,0,0.78796242,213.98151,-1732.708)"
-       style="stroke-width:1.2691"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         id="path111321"
-         style="fill:#ffffff;stroke:#000000;stroke-width:5.07637;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 385.23574,-2417.5438 c -9.34579,-3e-4 -16.9221,11.2035 -16.92188,25.024 -1.9e-4,13.8205 7.57612,25.0242 16.92188,25.0239 h 157.42647 v -0.2108 c 0.66327,0.1287 1.33111,0.1991 2,0.2108 9.34576,3e-4 16.92206,-11.2034 16.92187,-25.0239 2.3e-4,-13.8205 -7.57608,-25.0243 -16.92187,-25.024 -0.66889,0.012 -1.33673,0.082 -2,0.2108 v -0.2108 z"
-         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-2-ruedas-01.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"
-         sodipodi:nodetypes="ccccccccccc" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect111323"
-         width="27.950447"
-         height="12.743009"
-         x="389.92966"
-         y="-2408.3914" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect111325"
-         width="27.950447"
-         height="12.743009"
-         x="416.87939"
-         y="-2389.6501" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect111327"
-         width="27.950447"
-         height="12.743009"
-         x="450.32181"
-         y="-2408.9124" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect111329"
-         width="27.950447"
-         height="12.743009"
-         x="481.53076"
-         y="-2390.4009" />
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.80729;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="rect111331"
-         width="27.950447"
-         height="12.743009"
-         x="513.45575"
-         y="-2409.8574" />
-    </g>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect111335"
-       width="1777.35"
-       height="455.79037"
-       x="-311.2106"
-       y="-3885.3762"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:36.8702px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.999996"
-       x="-69.038277"
-       y="-3690.5317"
-       id="text111624"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.999996"
-         x="-69.038277"
-         y="-3690.5317"
-         id="tspan111622">4 Ruedas </tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.999996"
-         x="-69.038277"
-         y="-3644.4441"
-         id="tspan111686">omnidireccionales</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5)"
-       d="m 808.28891,-4224.4534 -161.04651,43.7398"
-       id="path112362"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5)"
-       d="m 823.83369,-4195.8974 -175.12805,160.7901"
-       id="path112539"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S04/config-4-ruedas-01.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"
-       sodipodi:nodetypes="cc" />
+       style="fill:none;stroke:#000000;stroke-width:3.98972;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 723.40065,-6501.4627 v 1511.361"
+       id="path39426" />
   </g>
 </svg>
