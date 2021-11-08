@@ -26,8 +26,27 @@
             "virtual": false
           },
           "position": {
-            "x": 832,
-            "y": 128
+            "x": 776,
+            "y": 56
+          }
+        },
+        {
+          "id": "f4680c50-9efe-4eaf-81e6-4ba2f80354da",
+          "type": "basic.output",
+          "data": {
+            "name": "LED0",
+            "pins": [
+              {
+                "index": "0",
+                "name": "LED0",
+                "value": "45"
+              }
+            ],
+            "virtual": false
+          },
+          "position": {
+            "x": 776,
+            "y": 176
           }
         },
         {
@@ -39,20 +58,20 @@
             "local": false
           },
           "position": {
-            "x": 416,
-            "y": 16
+            "x": 360,
+            "y": -56
           }
         },
         {
           "id": "58d302dc-d006-404a-8a55-63639709ed0c",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 9: Generador de señal de 50Hz\n\n* M = 12Mhz/3Mhz = 240000\n* Max = M-1 = 239999\n* Número de bits: N=18",
+            "info": "# Ejemplo 9: Generador de señal de 50Hz\n\n* M = 12000000/50 = 240000\n* Max = M-1 = 239999\n* Número de bits: N=18 (Necesitamos un contador de **18 bits o más**)",
             "readonly": true
           },
           "position": {
-            "x": 304,
-            "y": -232
+            "x": 296,
+            "y": -264
           },
           "size": {
             "width": 760,
@@ -63,16 +82,16 @@
           "id": "a775556b-7787-47fc-9eda-507ef74ce90a",
           "type": "basic.info",
           "data": {
-            "info": "Contador del sistema  \nMódulo 4 (2 bits)",
+            "info": "Contador del sistema  \nMódulo 240000  \n(20 bits)",
             "readonly": true
           },
           "position": {
-            "x": 608,
-            "y": 192
+            "x": 552,
+            "y": 120
           },
           "size": {
-            "width": 176,
-            "height": 48
+            "width": 184,
+            "height": 88
           }
         },
         {
@@ -83,8 +102,8 @@
             "readonly": true
           },
           "position": {
-            "x": 816,
-            "y": 64
+            "x": 760,
+            "y": -8
           },
           "size": {
             "width": 216,
@@ -95,8 +114,8 @@
           "id": "a82c3617-0cf9-46c4-afc1-6ced503cdddd",
           "type": "82aaa0e59178bfa3d00887ed1b393d6fdb324fa5",
           "position": {
-            "x": 624,
-            "y": 112
+            "x": 568,
+            "y": 40
           },
           "size": {
             "width": 96,
@@ -107,11 +126,27 @@
           "id": "451ba3ae-abe4-428f-9cf0-0dc343ec25d5",
           "type": "95d0aeb748ac78b1801cd0f424b4cf9296c0b999",
           "position": {
-            "x": 416,
-            "y": 128
+            "x": 360,
+            "y": 56
           },
           "size": {
             "width": 96,
+            "height": 64
+          }
+        },
+        {
+          "id": "b8c8d032-3562-4fe3-8303-48c895f7c1b9",
+          "type": "basic.info",
+          "data": {
+            "info": "Sacar señal por el LED0 para  \nver qué pasa...",
+            "readonly": true
+          },
+          "position": {
+            "x": 888,
+            "y": 184
+          },
+          "size": {
+            "width": 240,
             "height": 64
           }
         }
@@ -147,6 +182,16 @@
             "port": "fe4a60f4-9e59-44c3-8243-f2bd62c8841b"
           },
           "size": 20
+        },
+        {
+          "source": {
+            "block": "a82c3617-0cf9-46c4-afc1-6ced503cdddd",
+            "port": "88e0e872-0460-4ecc-bf26-8a7a5598a024"
+          },
+          "target": {
+            "block": "f4680c50-9efe-4eaf-81e6-4ba2f80354da",
+            "port": "in"
+          }
         }
       ]
     }
