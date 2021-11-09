@@ -12,6 +12,25 @@
     "graph": {
       "blocks": [
         {
+          "id": "61c99c3a-e1b4-43d5-8269-b8c8866b2b7d",
+          "type": "basic.output",
+          "data": {
+            "name": "LED",
+            "pins": [
+              {
+                "index": "0",
+                "name": "LED0",
+                "value": "45"
+              }
+            ],
+            "virtual": false
+          },
+          "position": {
+            "x": 1024,
+            "y": -8
+          }
+        },
+        {
           "id": "54b12a4e-6667-40f3-9749-5617a4cc1e97",
           "type": "basic.output",
           "data": {
@@ -38,8 +57,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED0",
-                "value": "45"
+                "name": "D13",
+                "value": "64"
               }
             ],
             "virtual": false
@@ -70,11 +89,24 @@
           }
         },
         {
+          "id": "1d4930e0-c675-4943-95c1-4b0e5cc593d2",
+          "type": "basic.constant",
+          "data": {
+            "name": "derecha(0.5)",
+            "value": "6000",
+            "local": false
+          },
+          "position": {
+            "x": 0,
+            "y": 240
+          }
+        },
+        {
           "id": "faa2437c-7bba-4912-8235-8cefd6f461ab",
           "type": "basic.constant",
           "data": {
-            "name": "Ancho (10%)",
-            "value": "24000",
+            "name": "Izquierda(2.5)",
+            "value": "29000",
             "local": false
           },
           "position": {
@@ -86,8 +118,8 @@
           "id": "f970932b-6070-418c-9eb7-16d86d3d5ef3",
           "type": "basic.constant",
           "data": {
-            "name": "Ancho (60%)",
-            "value": "144000",
+            "name": "Centro(1.5)",
+            "value": "18000",
             "local": false
           },
           "position": {
@@ -192,7 +224,7 @@
           "id": "9c9513d9-1051-4f7c-94da-7e1e704fb0fa",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 2: PWM a 50Hz. LED a dos intensidades",
+            "info": "## Servos: Dos posiciones",
             "readonly": true
           },
           "position": {
@@ -200,7 +232,7 @@
             "y": -128
           },
           "size": {
-            "width": 560,
+            "width": 456,
             "height": 40
           }
         },
@@ -254,6 +286,18 @@
           "size": {
             "width": 208,
             "height": 56
+          }
+        },
+        {
+          "id": "ceea76f0-9677-4606-8f0a-71a6857303b2",
+          "type": "95d0aeb748ac78b1801cd0f424b4cf9296c0b999",
+          "position": {
+            "x": 0,
+            "y": 352
+          },
+          "size": {
+            "width": 96,
+            "height": 64
           }
         }
       ],
@@ -346,17 +390,6 @@
         },
         {
           "source": {
-            "block": "a4c92dbd-c8a8-4662-9ba7-0f9558de34ff",
-            "port": "d1f5a9f1-76b5-430e-a1db-2273ba3d5497"
-          },
-          "target": {
-            "block": "f6b0b676-333e-45ba-9fb9-6dead98b05f7",
-            "port": "c09fcce6-8b8d-44d3-80b6-17db5be99edb"
-          },
-          "size": 20
-        },
-        {
-          "source": {
             "block": "a17ddf78-7349-4be3-b807-c6e728f82dc5",
             "port": "d1f5a9f1-76b5-430e-a1db-2273ba3d5497"
           },
@@ -392,6 +425,38 @@
             "block": "f6b0b676-333e-45ba-9fb9-6dead98b05f7",
             "port": "08fac044-f451-4fb7-9668-f5bce3b40c2c"
           }
+        },
+        {
+          "source": {
+            "block": "1a3fee86-1fb4-4e08-9ff3-60aa33b939b7",
+            "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
+          },
+          "target": {
+            "block": "61c99c3a-e1b4-43d5-8269-b8c8866b2b7d",
+            "port": "in"
+          }
+        },
+        {
+          "source": {
+            "block": "1d4930e0-c675-4943-95c1-4b0e5cc593d2",
+            "port": "constant-out"
+          },
+          "target": {
+            "block": "ceea76f0-9677-4606-8f0a-71a6857303b2",
+            "port": "c0fb4784-5e8c-4f41-9f4b-6daa2e9e03a4"
+          },
+          "vertices": []
+        },
+        {
+          "source": {
+            "block": "a4c92dbd-c8a8-4662-9ba7-0f9558de34ff",
+            "port": "d1f5a9f1-76b5-430e-a1db-2273ba3d5497"
+          },
+          "target": {
+            "block": "f6b0b676-333e-45ba-9fb9-6dead98b05f7",
+            "port": "c09fcce6-8b8d-44d3-80b6-17db5be99edb"
+          },
+          "size": 20
         }
       ]
     }
