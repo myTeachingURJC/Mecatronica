@@ -82,19 +82,6 @@
           }
         },
         {
-          "id": "72df3d5e-35eb-4ca0-b562-6d3481fbc3f6",
-          "type": "basic.constant",
-          "data": {
-            "name": "max",
-            "value": "13635",
-            "local": false
-          },
-          "position": {
-            "x": 568,
-            "y": 536
-          }
-        },
-        {
           "id": "58d302dc-d006-404a-8a55-63639709ed0c",
           "type": "basic.info",
           "data": {
@@ -209,46 +196,6 @@
             "width": 120,
             "height": 40
           }
-        },
-        {
-          "id": "773a3876-5f22-4652-a7ba-f7c32ce4cd45",
-          "type": "basic.info",
-          "data": {
-            "info": "Contador del sistema  \nMódulo M (16 bits)",
-            "readonly": true
-          },
-          "position": {
-            "x": 712,
-            "y": 704
-          },
-          "size": {
-            "width": 176,
-            "height": 48
-          }
-        },
-        {
-          "id": "6628bdbf-1459-477d-a34b-3ed1fdce13cc",
-          "type": "651fa32fcf52b534a766fdb2ba638a010338f268",
-          "position": {
-            "x": 568,
-            "y": 648
-          },
-          "size": {
-            "width": 96,
-            "height": 64
-          }
-        },
-        {
-          "id": "db447df4-523f-4952-924b-704159fa641d",
-          "type": "58b7974cf30787492f1688993f1186b035e683d6",
-          "position": {
-            "x": 776,
-            "y": 632
-          },
-          "size": {
-            "width": 96,
-            "height": 64
-          }
         }
       ],
       "wires": [
@@ -312,29 +259,6 @@
             "block": "05f6d025-6415-47a0-ae81-bb78ccbd16c0",
             "port": "in"
           }
-        },
-        {
-          "source": {
-            "block": "72df3d5e-35eb-4ca0-b562-6d3481fbc3f6",
-            "port": "constant-out"
-          },
-          "target": {
-            "block": "6628bdbf-1459-477d-a34b-3ed1fdce13cc",
-            "port": "c0fb4784-5e8c-4f41-9f4b-6daa2e9e03a4"
-          },
-          "vertices": []
-        },
-        {
-          "source": {
-            "block": "6628bdbf-1459-477d-a34b-3ed1fdce13cc",
-            "port": "d54af040-d87a-431d-a15f-d5deb4795af5"
-          },
-          "target": {
-            "block": "db447df4-523f-4952-924b-704159fa641d",
-            "port": "9927ae76-82f3-4064-8535-1e021a970a28"
-          },
-          "vertices": [],
-          "size": 16
         }
       ]
     }
