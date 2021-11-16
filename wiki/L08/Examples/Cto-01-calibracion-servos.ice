@@ -45,7 +45,7 @@
             "virtual": false
           },
           "position": {
-            "x": 1616,
+            "x": 1632,
             "y": -432
           }
         },
@@ -67,7 +67,7 @@
           "type": "basic.constant",
           "data": {
             "name": "Anchura",
-            "value": "19000",
+            "value": "17250",
             "local": false
           },
           "position": {
@@ -79,16 +79,16 @@
           "id": "9c9513d9-1051-4f7c-94da-7e1e704fb0fa",
           "type": "basic.info",
           "data": {
-            "info": "## Circuito 1: Calibración de cada servo",
+            "info": "## Circuito 1: Calibración de cada servo\n\nCalcular los valores de la anchura del pulso para cada  \nuno de los servos para que realicen 3 movimietnos: parado,  \nadelante y atrás\n\nApuntar los valores en las tablas",
             "readonly": true
           },
           "position": {
-            "x": 792,
-            "y": -712
+            "x": 784,
+            "y": -784
           },
           "size": {
-            "width": 456,
-            "height": 40
+            "width": 496,
+            "height": 96
           }
         },
         {
@@ -233,6 +233,22 @@
           "size": {
             "width": 424,
             "height": 144
+          }
+        },
+        {
+          "id": "3507e2d4-4b43-4442-abff-94b4c569599b",
+          "type": "basic.info",
+          "data": {
+            "info": "Señal PWM para  \ncontrolar el servo",
+            "readonly": true
+          },
+          "position": {
+            "x": 1528,
+            "y": -352
+          },
+          "size": {
+            "width": 184,
+            "height": 56
           }
         }
       ],
