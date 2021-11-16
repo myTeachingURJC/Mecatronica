@@ -216,7 +216,7 @@
           "type": "basic.memory",
           "data": {
             "name": "Tabla velocidades (IZQ)",
-            "list": "0x43f8  //-- Stop\n0x4a38  //-- FW\n0x3a98  //-- BW",
+            "list": "0x4480  //-- Stop\n0x4a38  //-- FW\n0x3a98  //-- BW",
             "local": false,
             "format": 10
           },
