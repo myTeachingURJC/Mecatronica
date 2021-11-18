@@ -2048,11 +2048,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.42309111"
-     inkscape:cx="672.432"
-     inkscape:cy="-62.634264"
+     inkscape:zoom="0.84618221"
+     inkscape:cx="715.56692"
+     inkscape:cy="202.67502"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1858"
@@ -2218,8 +2218,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="654.99139"
-       y="-1224.5021"
+       x="656.88702"
+       y="-1241.5717"
        id="text2300"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-06.png"
        inkscape:export-xdpi="96"
@@ -2227,8 +2227,8 @@
          sodipodi:role="line"
          id="tspan2298"
          style="fill:#0000ff;stroke-width:0.264583"
-         x="654.99139"
-         y="-1224.5021">Circuito 1</tspan></text>
+         x="656.88702"
+         y="-1241.5717">Circuito 1</tspan></text>
     <path
        id="path3369"
        style="display:inline;fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2266,20 +2266,10 @@
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-06.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
-    <rect
-       style="fill:#ececec;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:bevel"
-       id="rect103250"
-       width="18.974148"
-       height="13.039281"
-       x="728.17584"
-       y="-1214.8286"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-06.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="729.46313"
+       x="692.87769"
        y="-1206.0741"
        id="text99482"
        transform="scale(0.99998661,1.0000134)"
@@ -2289,7 +2279,7 @@
          sodipodi:role="line"
          id="tspan99480"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
-         x="729.46313"
+         x="692.87769"
          y="-1206.0741">Strb</tspan></text>
     <text
        xml:space="preserve"
@@ -2306,5 +2296,20 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
          x="771.07031"
          y="-1206.0741">Load</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="690.46069"
+       y="-1227.1034"
+       id="text150474"
+       transform="scale(0.99998661,1.0000134)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-06.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan150472"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         x="690.46069"
+         y="-1227.1034">Dato</tspan></text>
   </g>
 </svg>
