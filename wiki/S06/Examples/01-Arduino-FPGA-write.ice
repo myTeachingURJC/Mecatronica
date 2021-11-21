@@ -130,7 +130,7 @@
           "id": "5a7b23cc-52e9-43b4-83fd-e722bb9e0f54",
           "type": "basic.info",
           "data": {
-            "info": "### Ejemplo 1: Capturando el dato recibido y mostrándolo en los LEDs\n\nEl maestro envía un dato por el SPI. Ese dato se captura en el registro  \ny se muestra en los LEDs",
+            "info": "# Ejemplo 1: Capturando el dato recibido y mostrándolo en los LEDs\n\nEl maestro envía un dato por el SPI. Ese dato se captura en el registro  \ny se muestra en los LEDs",
             "readonly": true
           },
           "position": {
@@ -138,7 +138,7 @@
             "y": 144
           },
           "size": {
-            "width": 680,
+            "width": 912,
             "height": 96
           }
         },
