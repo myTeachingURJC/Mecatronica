@@ -32,25 +32,6 @@
           }
         },
         {
-          "id": "6eb027bd-91e5-4fe0-bca4-708d3c38061b",
-          "type": "basic.output",
-          "data": {
-            "name": "MISO",
-            "pins": [
-              {
-                "index": "0",
-                "name": "D12",
-                "value": "63"
-              }
-            ],
-            "virtual": false
-          },
-          "position": {
-            "x": 816,
-            "y": 176
-          }
-        },
-        {
           "id": "7eb1521f-0575-4a33-afab-33121d41a4b0",
           "type": "basic.output",
           "data": {
@@ -149,7 +130,7 @@
           "id": "5a7b23cc-52e9-43b4-83fd-e722bb9e0f54",
           "type": "basic.info",
           "data": {
-            "info": "### Ejemplo 1: Mostrando el dato recibido en los LEDs\n\nEjemplo de un circuito esclavo por SPI, que muestra en los LEDs  \nel dato recibido",
+            "info": "### Ejemplo 2: Mostrando el dato recibido por los LEDs\n\nRecepción de datos usando el bloque SPI esclavo. Todo lo recibido  \nse muestra en los LEDs",
             "readonly": true
           },
           "position": {
@@ -174,22 +155,6 @@
           },
           "size": {
             "width": 152,
-            "height": 40
-          }
-        },
-        {
-          "id": "ad7a03c1-2278-470d-86dc-6dfdd7fe3ee6",
-          "type": "basic.info",
-          "data": {
-            "info": "**Pin BUS SPI**",
-            "readonly": true
-          },
-          "position": {
-            "x": 824,
-            "y": 144
-          },
-          "size": {
-            "width": 136,
             "height": 40
           }
         },
@@ -263,16 +228,6 @@
           "target": {
             "block": "f0ac86e7-ae53-4fca-b2fe-893bf1f64f81",
             "port": "6cf3d82f-5d66-43ff-bec5-79f70447c609"
-          }
-        },
-        {
-          "source": {
-            "block": "f0ac86e7-ae53-4fca-b2fe-893bf1f64f81",
-            "port": "b4d1fb2e-3ad7-4d06-84f5-f6160f0f2c53"
-          },
-          "target": {
-            "block": "6eb027bd-91e5-4fe0-bca4-708d3c38061b",
-            "port": "in"
           }
         },
         {
