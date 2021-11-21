@@ -2,14 +2,6 @@
 <!-- Created with Fritzing (http://www.fritzing.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
    x="0in"
    y="0in"
@@ -17,8 +9,16 @@
    height="4.1502523in"
    viewBox="0 0 552.37951 298.81879"
    id="svg2511"
-   sodipodi:docname="arduino-alhambra-1_bb.svg"
-   inkscape:version="0.92.4 (unknown)">
+   sodipodi:docname="arduino-spi-01.svg"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata2517">
     <rdf:RDF>
@@ -27,7 +27,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -77,21 +76,23 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1853"
-     inkscape:window-height="1025"
+     inkscape:window-width="1858"
+     inkscape:window-height="1016"
      id="namedview2513"
      showgrid="false"
      inkscape:zoom="0.85543368"
-     inkscape:cx="459.60509"
-     inkscape:cy="182.57016"
-     inkscape:window-x="67"
-     inkscape:window-y="1051"
+     inkscape:cx="458.8316"
+     inkscape:cy="182.94814"
+     inkscape:window-x="62"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="in" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -104,7 +105,7 @@
        height="298.81879"
        x="-35.95797"
        y="-45.594391"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-04.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/arduino-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
@@ -116,7 +117,7 @@
     <g
        id="g9167"
        transform="matrix(0.80000161,0,0,0.80000161,259.0719,70.095016)"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-04.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/arduino-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -5311,7 +5312,7 @@
            sodipodi:nodetypes="ccc" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:10.51818466px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26295462"
+           style="font-style:normal;font-weight:normal;font-size:10.5182px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.262955"
            x="434.56766"
            y="513.08069"
            id="text3847"><tspan
@@ -5319,14 +5320,14 @@
              id="tspan3845"
              x="434.56766"
              y="513.08069"
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.51818466px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26295462">Alhambra II</tspan></text>
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5182px;font-family:Arial;-inkscape-font-specification:'Arial, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.262955">Alhambra II</tspan></text>
         <text
            id="text3855"
            y="523.40656"
            x="444.93088"
-           style="font-style:normal;font-weight:normal;font-size:5.87251377px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.14681284"
+           style="font-style:normal;font-weight:normal;font-size:5.87251px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.146813"
            xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.87248087px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.14681284"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.87248px;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.146813"
              y="523.40656"
              x="444.93088"
              id="tspan3853"
@@ -5398,16 +5399,16 @@
            id="text3646"
            y="589.10315"
            x="315.54062"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.38735056px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.67341882"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.38735px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.673419"
            xml:space="preserve"><tspan
-             style="fill:#ffffff;stroke-width:0.67341882"
+             style="fill:#ffffff;stroke-width:0.673419"
              y="589.10315"
              x="315.54062"
              id="tspan3644"
              sodipodi:role="line">I/O PWR</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.38735056px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.67341882"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.38735px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.673419"
            x="309.68124"
            y="595.78284"
            id="text3650"><tspan
@@ -5415,21 +5416,21 @@
              id="tspan3648"
              x="309.68124"
              y="595.78284"
-             style="fill:#ffffff;stroke-width:0.67341882">ON</tspan></text>
+             style="fill:#ffffff;stroke-width:0.673419">ON</tspan></text>
         <text
            id="text3654"
            y="595.84143"
            x="333.41171"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.38735056px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.67341882"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.38735px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.673419"
            xml:space="preserve"><tspan
-             style="fill:#ffffff;stroke-width:0.67341882"
+             style="fill:#ffffff;stroke-width:0.673419"
              y="595.84143"
              x="333.41171"
              id="tspan3652"
              sodipodi:role="line">OFF</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.38735056px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.67341882"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.38735px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.673419"
            x="273.17734"
            y="454.04456"
            id="text3658"><tspan
@@ -5437,14 +5438,14 @@
              id="tspan3656"
              x="273.17734"
              y="454.04456"
-             style="fill:#ffffff;stroke-width:0.67341882">SW1</tspan></text>
+             style="fill:#ffffff;stroke-width:0.673419">SW1</tspan></text>
         <text
            id="text3662"
            y="454.14163"
            x="287.8873"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.38735056px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.67341882"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.38735px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.673419"
            xml:space="preserve"><tspan
-             style="fill:#ffffff;stroke-width:0.67341882"
+             style="fill:#ffffff;stroke-width:0.673419"
              y="454.14163"
              x="287.8873"
              id="tspan3660"
@@ -6093,12 +6094,12 @@
            id="text3857"
            y="607.26288"
            x="380.72794"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.47630501px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95635879px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.4763px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.956359px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            inkscape:export-xdpi="300"
            inkscape:export-ydpi="300"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30361462px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.95635879px"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30361px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.956359px"
              y="607.26288"
              x="380.72794"
              id="tspan3855"
@@ -6108,7 +6109,7 @@
            inkscape:export-xdpi="300"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.47630501px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95635879px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.4763px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.956359px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="371.33173"
            y="607.26288"
            id="text3861"
@@ -6117,18 +6118,18 @@
              id="tspan3859"
              x="371.33173"
              y="607.26288"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30361462px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.95635879px">3V3</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30361px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.956359px">3V3</tspan></text>
         <text
            transform="scale(1.0053527,0.99467579)"
            id="text3865"
            y="607.2973"
            x="365.0676"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.47630501px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95635879px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.4763px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.956359px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            inkscape:export-xdpi="300"
            inkscape:export-ydpi="300"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30361462px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.95635879px"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30361px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.956359px"
              y="607.2973"
              x="365.0676"
              id="tspan3863"
@@ -6138,7 +6139,7 @@
            inkscape:export-xdpi="300"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.47630501px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.95635879px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.4763px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.956359px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="393.70953"
            y="607.26288"
            id="text3869"
@@ -6147,7 +6148,7 @@
              id="tspan3867"
              x="393.70953"
              y="607.26288"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30361462px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.95635879px">GND</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30361px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.956359px">GND</tspan></text>
         <path
            sodipodi:nodetypes="ccccccc"
            inkscape:connector-curvature="0"
@@ -6159,7 +6160,7 @@
            inkscape:export-xdpi="300"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.82898521px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23574877px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.829px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23575px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="389.10596"
            y="616.7597"
            id="text3884"
@@ -6168,18 +6169,18 @@
              id="tspan3882"
              x="389.10596"
              y="616.7597"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.56086969px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.23574877px">V</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.56087px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.23575px">V</tspan></text>
         <text
            transform="scale(1.0512297,0.95126689)"
            id="text3888"
            y="626.34167"
            x="389.14539"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.82898521px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23574877px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.829px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23575px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            inkscape:export-xdpi="300"
            inkscape:export-ydpi="300"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.56086969px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.23574877px"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.56087px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.23575px"
              y="626.34167"
              x="389.14539"
              id="tspan3886"
@@ -6189,7 +6190,7 @@
            inkscape:export-xdpi="300"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.82898521px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23574877px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.829px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23575px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="389.69717"
            y="607.61322"
            id="text3892"
@@ -6198,18 +6199,18 @@
              id="tspan3890"
              x="389.69717"
              y="607.61322"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.56086969px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.23574877px">S</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.56087px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.23575px">S</tspan></text>
         <text
            transform="scale(1.0512297,0.95126689)"
            id="text3910"
            y="488.97055"
            x="384.77054"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.82898521px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23574877px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.829px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23575px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            inkscape:export-xdpi="300"
            inkscape:export-ydpi="300"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.56086969px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.23574877px"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.56087px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.23575px"
              y="488.97055"
              x="384.77054"
              id="tspan3908"
@@ -6219,7 +6220,7 @@
            inkscape:export-xdpi="300"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.82898521px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23574877px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.829px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23575px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="384.88879"
            y="479.91116"
            id="text3914"
@@ -6228,18 +6229,18 @@
              id="tspan3912"
              x="384.88879"
              y="479.91116"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.56086969px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.23574877px">G</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.56087px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.23575px">G</tspan></text>
         <text
            transform="scale(1.0512297,0.95126689)"
            id="text3918"
            y="499.0752"
            x="385.44058"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.82898521px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23574877px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.829px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.23575px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            inkscape:export-xdpi="300"
            inkscape:export-ydpi="300"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.56086969px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.23574877px"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.56087px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.23575px"
              y="499.0752"
              x="385.44058"
              id="tspan3916"
@@ -6249,12 +6250,12 @@
            id="text3922"
            y="480.01132"
            x="-570.16309"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.22475147px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.18539596px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.2248px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.1854px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            inkscape:export-xdpi="300"
            inkscape:export-ydpi="300"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.33428192px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.18539596px"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.33428px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.1854px"
              y="480.01132"
              x="-570.16309"
              id="tspan3920"
@@ -6288,12 +6289,12 @@
            id="text3935"
            y="546.62665"
            x="261.3335"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.04388142px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.17032349px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.0439px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.17032px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            inkscape:export-xdpi="300"
            inkscape:export-ydpi="300"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.26645565px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.17032349px"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.26646px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.17032px"
              y="546.62665"
              x="261.3335"
              id="tspan3933"
@@ -6798,12 +6799,12 @@
              id="text30922"
              y="482.81412"
              x="461.89862"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24346615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.243466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"
              inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
              inkscape:export-xdpi="300"
              inkscape:export-ydpi="300"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.24346615px"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.243466px"
                y="482.81412"
                x="461.89862"
                id="tspan30920"
@@ -6903,12 +6904,12 @@
              id="text30922-4"
              y="482.81412"
              x="461.89862"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24346615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.243466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"
              inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
              inkscape:export-xdpi="300"
              inkscape:export-ydpi="300"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.24346615px"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.243466px"
                y="482.81412"
                x="461.89862"
                id="tspan30920-7"
@@ -7008,12 +7009,12 @@
              id="text30922-0"
              y="482.81412"
              x="461.89862"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24346615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.243466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"
              inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
              inkscape:export-xdpi="300"
              inkscape:export-ydpi="300"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.24346615px"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.243466px"
                y="482.81412"
                x="461.89862"
                id="tspan30920-5"
@@ -7113,12 +7114,12 @@
              id="text30922-01"
              y="482.81412"
              x="461.89862"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24346615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.243466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"
              inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
              inkscape:export-xdpi="300"
              inkscape:export-ydpi="300"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.24346615px"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.243466px"
                y="482.81412"
                x="461.89862"
                id="tspan30920-0"
@@ -7218,7 +7219,7 @@
              inkscape:export-xdpi="300"
              inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24346615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.243466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="461.89862"
              y="482.81412"
              id="text32017"
@@ -7227,7 +7228,7 @@
                id="tspan32015"
                x="461.89862"
                y="482.81412"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.24346615px">1206</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.243466px">1206</tspan></text>
           <path
              style="fill:none;stroke:#ffffff;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m 465.44552,485.29678 v 5.62337"
@@ -7323,7 +7324,7 @@
              inkscape:export-xdpi="300"
              inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24346615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.243466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="461.89862"
              y="482.81412"
              id="text32047"
@@ -7332,7 +7333,7 @@
                id="tspan32045"
                x="461.89862"
                y="482.81412"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.24346615px">1206</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.243466px">1206</tspan></text>
           <path
              style="fill:none;stroke:#ffffff;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m 465.44552,485.29678 v 5.62337"
@@ -7428,7 +7429,7 @@
              inkscape:export-xdpi="300"
              inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24346615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.243466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="461.89862"
              y="482.81412"
              id="text32047-7"
@@ -7437,7 +7438,7 @@
                id="tspan32045-5"
                x="461.89862"
                y="482.81412"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.24346615px">1206</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.243466px">1206</tspan></text>
           <path
              style="fill:none;stroke:#ffffff;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m 465.44552,485.29678 v 5.62337"
@@ -7535,7 +7536,7 @@
              inkscape:connector-curvature="0" />
           <text
              xml:space="preserve"
-             style="font-style:normal;font-weight:normal;font-size:12.16415977px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:1.01367998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-weight:normal;font-size:12.1642px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:1.01368px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="281.04193"
              y="667.24536"
              id="text4549-1-7-5-5-0-1-8-8-9-4"
@@ -7544,7 +7545,7 @@
                id="tspan4551-3-6-9-6-8-4-0-8-6-0"
                x="281.04193"
                y="667.24536"
-               style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.92233014px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium Italic';fill:#6a6960;fill-opacity:1;stroke-width:1.01367998px">SEMICONDUCTOR.</tspan></text>
+               style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.92233px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium Italic';fill:#6a6960;fill-opacity:1;stroke-width:1.01368px">SEMICONDUCTOR.</tspan></text>
         </g>
         <path
            style="fill:#6a6960;fill-opacity:1;stroke-width:0.02840126"
@@ -7627,12 +7628,12 @@
              id="text32258"
              y="482.81412"
              x="461.89862"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24346615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.243466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"
              inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
              inkscape:export-xdpi="300"
              inkscape:export-ydpi="300"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.24346615px"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.243466px"
                y="482.81412"
                x="461.89862"
                id="tspan32256"
@@ -7732,12 +7733,12 @@
              id="text32288"
              y="482.81412"
              x="461.89862"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24346615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.243466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"
              inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
              inkscape:export-xdpi="300"
              inkscape:export-ydpi="300"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.24346615px"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.243466px"
                y="482.81412"
                x="461.89862"
                id="tspan32286"
@@ -7837,7 +7838,7 @@
              inkscape:export-xdpi="300"
              inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24346615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.243466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="461.89862"
              y="482.81412"
              id="text32047-7-9"
@@ -7846,7 +7847,7 @@
                id="tspan32045-5-7"
                x="461.89862"
                y="482.81412"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.24346615px">1206</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.243466px">1206</tspan></text>
           <path
              style="fill:none;stroke:#ffffff;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m 465.44552,485.29678 v 5.62337"
@@ -7942,7 +7943,7 @@
              inkscape:export-xdpi="300"
              inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24346615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.243466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="461.89862"
              y="482.81412"
              id="text32318"
@@ -7951,7 +7952,7 @@
                id="tspan32316"
                x="461.89862"
                y="482.81412"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.24346615px">1206</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.243466px">1206</tspan></text>
           <path
              style="fill:none;stroke:#ffffff;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m 465.44552,485.29678 v 5.62337"
@@ -8047,12 +8048,12 @@
              id="text32348"
              y="482.81412"
              x="461.89862"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24346615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.243466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"
              inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
              inkscape:export-xdpi="300"
              inkscape:export-ydpi="300"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.24346615px"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.243466px"
                y="482.81412"
                x="461.89862"
                id="tspan32346"
@@ -8152,7 +8153,7 @@
              inkscape:export-xdpi="300"
              inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24346615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.243466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="461.89862"
              y="482.81412"
              id="text32378"
@@ -8161,7 +8162,7 @@
                id="tspan32376"
                x="461.89862"
                y="482.81412"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.24346615px">1206</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.243466px">1206</tspan></text>
           <path
              style="fill:none;stroke:#ffffff;stroke-width:0.70866144;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              d="m 465.44552,485.29678 v 5.62337"
@@ -8257,12 +8258,12 @@
              id="text32408"
              y="482.81412"
              x="461.89862"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24346615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.243466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"
              inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
              inkscape:export-xdpi="300"
              inkscape:export-ydpi="300"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.24346615px"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.243466px"
                y="482.81412"
                x="461.89862"
                id="tspan32406"
@@ -8362,12 +8363,12 @@
              id="text32438"
              y="482.81412"
              x="461.89862"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24346615px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.243466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"
              inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
              inkscape:export-xdpi="300"
              inkscape:export-ydpi="300"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159414px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.24346615px"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92159px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.243466px"
                y="482.81412"
                x="461.89862"
                id="tspan32436"
@@ -13033,7 +13034,7 @@
            inkscape:export-xdpi="300"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="296.33151"
            y="531.44873"
            id="text4549-1-7-5-5-0-1-8-8-9-0-0"
@@ -13042,7 +13043,7 @@
              id="tspan4551-3-6-9-6-8-4-0-8-6-5-9"
              x="296.33151"
              y="531.44873"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.66273594px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#6a6960;fill-opacity:1;stroke-width:0.99999994px">1824-C</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.66274px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#6a6960;fill-opacity:1;stroke-width:1px">1824-C</tspan></text>
         <text
            inkscape:export-ydpi="300"
            inkscape:export-xdpi="300"
@@ -13057,7 +13058,7 @@
              id="tspan4551-3-6-9-6-8-4-0-8-6-9-3-1"
              x="320.3273"
              y="494.33185"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.76425815px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#6a6960;fill-opacity:1;stroke-width:1px">NBWBAS</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.76426px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#6a6960;fill-opacity:1;stroke-width:1px">NBWBAS</tspan></text>
         <text
            inkscape:export-ydpi="300"
            inkscape:export-xdpi="300"
@@ -13072,7 +13073,7 @@
              id="tspan4551-3-6-9-6-8-4-0-8-6-9-2-0-9"
              x="323.35187"
              y="491.55011"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.71322703px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#6a6960;fill-opacity:1;stroke-width:1px">FT2232HQ</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.71323px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#6a6960;fill-opacity:1;stroke-width:1px">FT2232HQ</tspan></text>
         <circle
            inkscape:export-ydpi="300"
            inkscape:export-xdpi="300"
@@ -13107,9 +13108,9 @@
              id="text40408"
              y="214.18375"
              x="321.09802"
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.83054399px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.14576361"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.83054px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.145764"
              xml:space="preserve"><tspan
-               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.83054399px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#6a6960;fill-opacity:1;stroke-width:0.14576361"
+               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.83054px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#6a6960;fill-opacity:1;stroke-width:0.145764"
                y="214.18375"
                x="321.09802"
                id="tspan40406"
@@ -13128,12 +13129,12 @@
            id="text40471"
            y="514.94611"
            x="343.3783"
-           style="font-style:normal;font-weight:normal;font-size:9.28464794px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.77372062px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;font-size:9.28465px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.773721px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            inkscape:export-xdpi="300"
            inkscape:export-ydpi="300"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.87300038px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#6a6960;fill-opacity:1;stroke-width:0.77372062px"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.873px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#6a6960;fill-opacity:1;stroke-width:0.773721px"
              y="514.94611"
              x="343.3783"
              id="tspan40469"
@@ -13143,7 +13144,7 @@
            inkscape:export-xdpi="300"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:9.28464794px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.77372062px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;font-size:9.28465px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.773721px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="346.15732"
            y="518.41016"
            id="text40475"
@@ -13152,7 +13153,7 @@
              id="tspan40473"
              x="346.15732"
              y="518.41016"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.87300038px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#6a6960;fill-opacity:1;stroke-width:0.77372062px">32 Mb</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.873px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#6a6960;fill-opacity:1;stroke-width:0.773721px">32 Mb</tspan></text>
         <circle
            inkscape:export-ydpi="300"
            inkscape:export-xdpi="300"
@@ -13184,12 +13185,12 @@
            id="text40471-8"
            y="549.4635"
            x="411.09686"
-           style="font-style:normal;font-weight:normal;font-size:6.30854225px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.52571177px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;font-size:6.30854px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.525712px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            inkscape:export-xdpi="300"
            inkscape:export-ydpi="300"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.95208728px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#6a6960;fill-opacity:1;stroke-width:0.52571177px"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.95209px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#6a6960;fill-opacity:1;stroke-width:0.525712px"
              y="549.4635"
              x="411.09686"
              id="tspan40469-4"
@@ -13199,7 +13200,7 @@
            inkscape:export-xdpi="300"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:9.28464794px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.77372062px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;font-size:9.28465px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.773721px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="412.61038"
            y="546.35114"
            id="text40475-8"
@@ -13208,7 +13209,7 @@
              id="tspan40473-0"
              x="412.61038"
              y="546.35114"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.87300038px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#6a6960;fill-opacity:1;stroke-width:0.77372062px">ADC</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.873px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#6a6960;fill-opacity:1;stroke-width:0.773721px">ADC</tspan></text>
         <rect
            ry="0.46453172"
            y="483.90753"
@@ -13231,12 +13232,12 @@
            id="text40471-8-3"
            y="454.65601"
            x="327.89075"
-           style="font-style:normal;font-weight:normal;font-size:2.33436608px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.19453047px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;font-size:2.33437px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.19453px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            inkscape:export-xdpi="300"
            inkscape:export-ydpi="300"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.33442736px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#6a6960;fill-opacity:1;stroke-width:0.19453047px"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.33443px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#6a6960;fill-opacity:1;stroke-width:0.19453px"
              y="454.65601"
              x="327.89075"
              id="tspan40469-4-8"
@@ -13268,12 +13269,12 @@
            id="text40471-8-3-0"
            y="529.02234"
            x="300.47787"
-           style="font-style:normal;font-weight:normal;font-size:1.92619801px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.16051647px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;font-size:1.9262px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.160516px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            inkscape:export-xdpi="300"
            inkscape:export-ydpi="300"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.92624855px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#6a6960;fill-opacity:1;stroke-width:0.16051647px"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.92625px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#6a6960;fill-opacity:1;stroke-width:0.160516px"
              y="529.02234"
              x="300.47787"
              id="tspan40469-4-8-3"
@@ -13313,7 +13314,7 @@
              inkscape:export-xdpi="300"
              inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
              xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.782125px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#191919;fill-opacity:1;stroke:none;stroke-width:0.4818432px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.78212px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#191919;fill-opacity:1;stroke:none;stroke-width:0.481843px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              x="-605.16901"
              y="250.35992"
              id="text40471-8-3-0-7"
@@ -13322,7 +13323,7 @@
                id="tspan40469-4-8-3-7"
                x="-605.16901"
                y="250.35992"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.782125px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#191919;fill-opacity:1;stroke-width:0.4818432px">4R7</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.78212px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#191919;fill-opacity:1;stroke-width:0.481843px">4R7</tspan></text>
         </g>
         <g
            id="g41112"
@@ -13360,12 +13361,12 @@
              id="text41110"
              y="250.35992"
              x="-605.16901"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.782125px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#191919;fill-opacity:1;stroke:none;stroke-width:0.4818432px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.78212px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#191919;fill-opacity:1;stroke:none;stroke-width:0.481843px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"
              inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
              inkscape:export-xdpi="300"
              inkscape:export-ydpi="300"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.782125px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#191919;fill-opacity:1;stroke-width:0.4818432px"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.78212px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#191919;fill-opacity:1;stroke-width:0.481843px"
                y="250.35992"
                x="-605.16901"
                id="tspan41108"
@@ -13489,17 +13490,17 @@
            id="text40471-8-3-0-9"
            y="467.55545"
            x="299.43311"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.54758453px;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.21229294px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.54758px;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.212293px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            inkscape:export-xdpi="300"
            inkscape:export-ydpi="300"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.54758453px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#6a6960;fill-opacity:1;stroke-width:0.21229294px"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.54758px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#6a6960;fill-opacity:1;stroke-width:0.212293px"
              y="467.55545"
              x="299.43311"
              id="tspan40469-4-8-3-5"
              sodipodi:role="line">12.000</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.54758453px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#6a6960;fill-opacity:1;stroke-width:0.21229294px"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.54758px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#6a6960;fill-opacity:1;stroke-width:0.212293px"
              y="470.73993"
              x="299.43311"
              sodipodi:role="line"
@@ -17110,12 +17111,12 @@
            id="text4549-1-7-5-5-0-1-38-4-8-0-3-8-3-0-0-7-7-4-8-6"
            y="582.37946"
            x="342.97012"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.47131824px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.62259853px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.47132px;line-height:0%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#6a6960;fill-opacity:1;stroke:none;stroke-width:0.622599px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            xml:space="preserve"
            inkscape:export-filename="/home/obijuan/Desktop/alhambra.png"
            inkscape:export-xdpi="300"
            inkscape:export-ydpi="300"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.47131824px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#6a6960;fill-opacity:1;stroke-width:0.62259853px"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.47132px;line-height:125%;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#6a6960;fill-opacity:1;stroke-width:0.622599px"
              y="582.37946"
              x="342.97012"
              id="tspan4551-3-6-9-6-8-4-8-6-1-9-2-1-7-0-7-3-4-0-3-69"
@@ -18464,74 +18465,74 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.61300659px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.00988007"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.613px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.00988"
        x="237.33147"
        y="-8.0268173"
        id="text10676-4-69"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-04.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/arduino-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan10674-7-3"
          x="237.33147"
          y="-8.0268173"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#000000;stroke-width:3.00988007">BUS SPI</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#000000;stroke-width:3.00988">BUS SPI</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.55091953px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.67393315"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.55092px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.67393"
        x="236.27257"
        y="55.550873"
        id="text9892-7"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-04.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/arduino-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan9890-11"
          x="236.27257"
          y="55.550873"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#666666;stroke-width:1.67393315">SCLK</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#666666;stroke-width:1.67393">SCLK</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.55091953px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.67393315"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.55092px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.67393"
        x="236.27257"
        y="76.009422"
        id="text9892-7-7"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-04.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/arduino-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan9890-11-5"
          x="236.27257"
          y="76.009422"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#000000;stroke-width:1.67393315">GND</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#000000;stroke-width:1.67393">GND</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.55091953px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.67393315"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.55092px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1.67393"
        x="236.61253"
        y="25.463396"
        id="text9892-7-3"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-04.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/arduino-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan9890-11-56"
          x="236.61253"
          y="25.463396"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:1.67393315">MOSI</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:1.67393">MOSI</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.55091953px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1.67393315"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.55092px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1.67393"
        x="149.57074"
        y="16.257521"
        id="text9892-7-3-2"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-04.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/arduino-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan9890-11-56-9"
          x="149.57074"
          y="16.257521"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#008000;stroke-width:1.67393315">MISO</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#008000;stroke-width:1.67393">MISO</tspan></text>
     <rect
        style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.75000155;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect23190"
@@ -18539,23 +18540,23 @@
        height="9.3804512"
        x="340.63141"
        y="29.025499"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-04.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/arduino-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.55091953px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.67393315"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.55092px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.67393"
        x="346.45596"
        y="36.363518"
        id="text9892-7-3-9"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-04.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/arduino-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan9890-11-56-3"
          x="346.45596"
          y="36.363518"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#ffff00;stroke-width:1.67393315">SS</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#ffff00;stroke-width:1.67393">SS</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -18565,7 +18566,7 @@
     <g
        partID="854116110"
        id="g2479"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-04.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/arduino-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -19293,7 +19294,7 @@
                          transform="translate(88.3521,36.1958)"
                          id="g357">
                         <text
-                           style="font-size:4.67710018px;font-family:OCRA;fill:#ffffff"
+                           style="font-size:4.6771px;font-family:OCRA;fill:#ffffff"
                            id="_x30_.1.0.1.40.1.1.0"
                            font-size="4.6771">L</text>
                       </g>
@@ -19308,7 +19309,7 @@
                  transform="rotate(-90,133.1805,5.8165)"
                  id="g369">
                 <text
-                   style="font-size:3.34080005px;font-family:OCRA;fill:#ffffff"
+                   style="font-size:3.3408px;font-family:OCRA;fill:#ffffff"
                    id="_x30_.1.0.2.1.0.0.0"
                    font-size="3.3408">5V</text>
               </g>
@@ -19326,7 +19327,7 @@
                        transform="rotate(-90.000003,151.1075,-12.111496)"
                        id="g373">
                       <text
-                         style="font-size:3.34080005px;font-family:OCRA;fill:#ffffff"
+                         style="font-size:3.3408px;font-family:OCRA;fill:#ffffff"
                          id="_x30_.1.0.2.2.1.0"
                          font-size="3.3408">A0</text>
                     </g>
@@ -19349,7 +19350,7 @@
                          transform="translate(175.672,130.811)"
                          id="g384">
                         <text
-                           style="font-size:3.67490005px;font-family:OCRA;fill:#ffffff"
+                           style="font-size:3.6749px;font-family:OCRA;fill:#ffffff"
                            id="_x30_.1.0.2.3.0.0.0"
                            font-size="3.6749">ANALOG IN</text>
                       </g>
@@ -19433,7 +19434,7 @@
                        transform="translate(191.131,64.604)"
                        id="g428">
                       <text
-                         style="font-size:4.17600012px;font-family:OCRA;fill:#ffffff"
+                         style="font-size:4.176px;font-family:OCRA;fill:#ffffff"
                          id="_x30_.1.0.2.5.1.0"
                          font-size="4.176">1</text>
                     </g>
@@ -19516,7 +19517,7 @@
                        transform="translate(84.5728,49.3169)"
                        id="g471">
                       <text
-                         style="font-size:4.67710018px;font-family:OCRA;fill:#ffffff"
+                         style="font-size:4.6771px;font-family:OCRA;fill:#ffffff"
                          id="_x30_.1.0.2.10.1.0"
                          font-size="4.6771">TX</text>
                     </g>
@@ -19537,7 +19538,7 @@
                        transform="translate(84.6489,56.1567)"
                        id="g482">
                       <text
-                         style="font-size:4.67710018px;font-family:OCRA;fill:#ffffff"
+                         style="font-size:4.6771px;font-family:OCRA;fill:#ffffff"
                          id="_x30_.1.0.2.11.1.0"
                          font-size="4.6771">RX</text>
                     </g>
@@ -19577,7 +19578,7 @@
                                    transform="translate(-138.6,112.292)"
                                    id="g493">
                                 <text
-                                   style="font-size:3.34080005px;font-family:OCRA;fill:#ffffff"
+                                   style="font-size:3.3408px;font-family:OCRA;fill:#ffffff"
                                    id="_x30_.1.0.2.14.0.0.0.0.0.0.0"
                                    font-size="3.3408">RESET</text>
                                 </g>
@@ -19635,7 +19636,7 @@
                                    transform="translate(-138.96,120.212)"
                                    id="g517">
                                 <text
-                                   style="font-size:3.34080005px;font-family:OCRA;fill:#ffffff"
+                                   style="font-size:3.3408px;font-family:OCRA;fill:#ffffff"
                                    id="_x30_.1.0.2.15.0.0.0.0.0.0.0"
                                    font-size="3.3408">3V3</text>
                                 </g>
@@ -19660,7 +19661,7 @@
                transform="rotate(-90.000003,154.7075,-15.710496)"
                id="g549">
               <text
-                 style="font-size:3.34080005px;font-family:OCRA;fill:#ffffff"
+                 style="font-size:3.3408px;font-family:OCRA;fill:#ffffff"
                  id="_x30_.1.0.2.16.1.0"
                  font-size="3.3408">A1</text>
             </g>
@@ -19677,7 +19678,7 @@
                        transform="rotate(-90.000003,158.309,-19.312996)"
                        id="g552">
                       <text
-                         style="font-size:3.34080005px;font-family:OCRA;fill:#ffffff"
+                         style="font-size:3.3408px;font-family:OCRA;fill:#ffffff"
                          id="_x30_.1.0.2.17.1.0"
                          font-size="3.3408">A2</text>
                     </g>
@@ -19698,7 +19699,7 @@
                        transform="rotate(-90.000003,161.9075,-22.911496)"
                        id="g563">
                       <text
-                         style="font-size:3.34080005px;font-family:OCRA;fill:#ffffff"
+                         style="font-size:3.3408px;font-family:OCRA;fill:#ffffff"
                          id="_x30_.1.0.2.18.1.0"
                          font-size="3.3408">A3</text>
                     </g>
@@ -19719,7 +19720,7 @@
                        transform="rotate(-90.000003,165.508,-26.511996)"
                        id="g574">
                       <text
-                         style="font-size:3.34080005px;font-family:OCRA;fill:#ffffff"
+                         style="font-size:3.3408px;font-family:OCRA;fill:#ffffff"
                          id="_x30_.1.0.2.19.1.0"
                          font-size="3.3408">A4</text>
                     </g>
@@ -19740,7 +19741,7 @@
                        transform="rotate(-90.000003,169.1075,-30.111496)"
                        id="g585">
                       <text
-                         style="font-size:3.34080005px;font-family:OCRA;fill:#ffffff"
+                         style="font-size:3.3408px;font-family:OCRA;fill:#ffffff"
                          id="_x30_.1.0.2.20.1.0"
                          font-size="3.3408">A5</text>
                     </g>
@@ -19763,7 +19764,7 @@
                          transform="rotate(-90.000003,143.9805,-4.9844967)"
                          id="g596">
                         <text
-                           style="font-size:3.34080005px;font-family:OCRA;fill:#ffffff"
+                           style="font-size:3.3408px;font-family:OCRA;fill:#ffffff"
                            id="_x30_.1.0.2.21.0.0.0"
                            font-size="3.3408">VIN</text>
                       </g>
@@ -19787,7 +19788,7 @@
                          transform="rotate(-90.000003,136.7785,2.2175029)"
                          id="g608">
                         <text
-                           style="font-size:3.34080005px;font-family:OCRA;fill:#ffffff"
+                           style="font-size:3.3408px;font-family:OCRA;fill:#ffffff"
                            id="_x30_.1.0.2.22.0.0.0"
                            font-size="3.3408">GND</text>
                       </g>
@@ -19811,7 +19812,7 @@
                          transform="rotate(-90.000003,140.258,-1.2989969)"
                          id="g620">
                         <text
-                           style="font-size:3.34080005px;font-family:OCRA;fill:#ffffff"
+                           style="font-size:3.3408px;font-family:OCRA;fill:#ffffff"
                            id="_x30_.1.0.2.23.0.0.0"
                            font-size="3.3408">GND</text>
                       </g>
@@ -19833,7 +19834,7 @@
                        transform="translate(145.157,27.2759)"
                        id="g632">
                       <text
-                         style="font-size:3.67490005px;font-family:OCRA;fill:#ffffff"
+                         style="font-size:3.6749px;font-family:OCRA;fill:#ffffff"
                          id="_x30_.1.0.2.24.1.0"
                          font-size="3.6749">DIGITAL (PWM=</text>
                     </g>
@@ -19854,7 +19855,7 @@
                        transform="translate(182.028,27.2759)"
                        id="g643">
                       <text
-                         style="font-size:3.67490005px;font-family:OCRA;fill:#ffffff"
+                         style="font-size:3.6749px;font-family:OCRA;fill:#ffffff"
                          id="_x30_.1.0.2.24.3.0"
                          font-size="3.6749">)</text>
                     </g>
@@ -20072,7 +20073,7 @@
                          transform="translate(109.016,55.1792)"
                          id="g737">
                         <text
-                           style="font-size:6.12090015px;font-family:OCRA;fill:#ffffff"
+                           style="font-size:6.1209px;font-family:OCRA;fill:#ffffff"
                            id="_x30_.1.0.2.31.0.1.0"
                            font-size="6.1209">Arduino</text>
                       </g>
@@ -20096,7 +20097,7 @@
                          transform="translate(138.998,51.5815)"
                          id="g749">
                         <text
-                           style="font-size:2.22580004px;font-family:OCRA;fill:#ffffff"
+                           style="font-size:2.2258px;font-family:OCRA;fill:#ffffff"
                            id="_x30_.1.0.2.31.1.1.0"
                            font-size="2.2258">TM</text>
                       </g>
@@ -20146,7 +20147,7 @@
                                    transform="translate(-138.6,106.172)"
                                    id="g761">
                                 <text
-                                   style="font-size:3.34080005px;font-family:OCRA;fill:#ffffff"
+                                   style="font-size:3.3408px;font-family:OCRA;fill:#ffffff"
                                    id="_x30_.1.0.2.32.0.0.0.0.0.0.0"
                                    font-size="3.3408">IOREF</text>
                                 </g>
@@ -20208,7 +20209,7 @@
                                    transform="translate(-82.3349,194.553)"
                                    id="g793">
                                 <text
-                                   style="font-size:4.17600012px;font-family:OCRA;fill:#ffffff"
+                                   style="font-size:4.176px;font-family:OCRA;fill:#ffffff"
                                    id="_x30_.1.0.2.54.1.1.0.0.0.0.0"
                                    font-size="4.176">ICSP</text>
                                 </g>
@@ -20270,7 +20271,7 @@
                                    transform="translate(194.553,82.3349)"
                                    id="g825">
                                 <text
-                                   style="font-size:4.17600012px;font-family:OCRA;fill:#ffffff"
+                                   style="font-size:4.176px;font-family:OCRA;fill:#ffffff"
                                    id="_x30_.1.0.2.55.1.1.0.0.0.0.0"
                                    font-size="4.176">ICSP2</text>
                                 </g>
@@ -20297,7 +20298,7 @@
                  transform="translate(190.772,49.3208)"
                  id="g857">
                 <text
-                   style="font-size:4.67710018px;font-family:OCRA;fill:#ffffff"
+                   style="font-size:4.6771px;font-family:OCRA;fill:#ffffff"
                    id="_x30_.1.0.2.62.1.1.0"
                    font-size="4.6771">ON</text>
               </g>
@@ -20767,7 +20768,7 @@
                        transform="translate(137.956,130.811)"
                        id="g941">
                       <text
-                         style="font-size:3.67490005px;font-family:OCRA;fill:#ffffff"
+                         style="font-size:3.6749px;font-family:OCRA;fill:#ffffff"
                          id="_x30_.1.0.87.0.0.0"
                          font-size="3.6749">POWER</text>
                     </g>
@@ -24772,7 +24773,7 @@
                                  transform="translate(4.27246e-4,-9.15527e-5)"
                                  id="g2395">
                                 <text
-                                   style="font-size:4.17600012px;font-family:OCRA;fill:#ffffff"
+                                   style="font-size:4.176px;font-family:OCRA;fill:#ffffff"
                                    id="_x30_.1.16.1.0"
                                    font-size="4.176">RESET</text>
                               </g>
@@ -25038,7 +25039,7 @@
     <g
        partID="854116540"
        id="g2485"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-04.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/arduino-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -25055,7 +25056,7 @@
     <g
        partID="854116140"
        id="g2491"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-04.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/arduino-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -25072,7 +25073,7 @@
     <g
        partID="854116230"
        id="g2497"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-04.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/arduino-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -25089,7 +25090,7 @@
     <g
        partID="854116300"
        id="g2503"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-04.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/arduino-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -25106,7 +25107,7 @@
     <g
        partID="854116790"
        id="g2509"
-       inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT5-spi-esclavo/spi-04.png"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/arduino-spi-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
