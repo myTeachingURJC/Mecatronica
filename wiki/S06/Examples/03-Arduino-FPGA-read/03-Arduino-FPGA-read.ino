@@ -1,16 +1,22 @@
-const int LED = 13;
-const int CLK = 12;  //-- Pin de reloj
-const int DAT = 9;   //-- Pin de Datos
+//-- Pin de los LEDs
+#define LED1 7
+#define LED2 6
+
+const int CLK = 13;  //-- Pin de reloj
+const int DAT = 12;   //-- Pin de Datos
 const int CTRL = 10; //-- Pin de control
 
 void setup() {
-  pinMode(LED, OUTPUT);
+
+//-- Configurar los LEDs
+  pinMode(LED1, OUTPUT);
+  pinMode(LED2, OUTPUT);
+
   pinMode(CLK, OUTPUT);
   pinMode(DAT, INPUT);
   pinMode(CTRL, OUTPUT);
   digitalWrite(CTRL, LOW);
   digitalWrite(CLK, LOW);
-  digitalWrite(LED,LOW);
   Serial.begin(9600);
 }
 
@@ -38,6 +44,12 @@ void loop() {
     Serial.write("Dato: ");
     Serial.write(dat+'0');
     Serial.write("\n");
+
+    //-- Encender el LED1 si el pulsador SW1 está apretado
+  digitalWrite(LED1, dat & 0x01);
+
+  //-- Encender el LED2 si el puslador SW2 está apretado
+  digitalWrite(LED2, dat & 0x02);
 
     delay(300);
   }

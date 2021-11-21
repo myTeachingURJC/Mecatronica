@@ -96,12 +96,12 @@
           "id": "7074f23f-a361-4217-ae75-8ab95718b173",
           "type": "basic.output",
           "data": {
-            "name": "arduDAT",
+            "name": "MISO",
             "pins": [
               {
                 "index": "0",
-                "name": "D9",
-                "value": "19"
+                "name": "D12",
+                "value": "63"
               }
             ],
             "virtual": false
@@ -115,7 +115,7 @@
           "id": "682e0a4e-cbba-4bce-ad8e-e075575fc96b",
           "type": "basic.input",
           "data": {
-            "name": "ArduCtrl",
+            "name": "SS",
             "pins": [
               {
                 "index": "0",
@@ -135,12 +135,12 @@
           "id": "626e03b5-f4e5-4e33-93f4-7d4c9968c2d4",
           "type": "basic.input",
           "data": {
-            "name": "ArduCLK",
+            "name": "SCLK",
             "pins": [
               {
                 "index": "0",
-                "name": "D12",
-                "value": "63"
+                "name": "D13",
+                "value": "64"
               }
             ],
             "virtual": false,
@@ -177,22 +177,6 @@
           "position": {
             "x": 248,
             "y": 552
-          },
-          "size": {
-            "width": 144,
-            "height": 40
-          }
-        },
-        {
-          "id": "d4e94e0f-1da7-4bd1-b4ad-2e9bea9e6a93",
-          "type": "basic.info",
-          "data": {
-            "info": "Control:  \nCaptura del dato",
-            "readonly": true
-          },
-          "position": {
-            "x": 248,
-            "y": 408
           },
           "size": {
             "width": 144,
