@@ -1,10 +1,11 @@
+#include <SPI.h>
+
+//-- Pin usado para la seleccion del esclavo
+#define SS 10
+
 //-- Pin de los LEDs
 #define LED1 7
 #define LED2 6
-
-const int CLK = 13;  //-- Pin de reloj
-const int DAT = 12;   //-- Pin de Datos
-const int CTRL = 10; //-- Pin de control
 
 void setup() {
 
@@ -12,45 +13,47 @@ void setup() {
   pinMode(LED1, OUTPUT);
   pinMode(LED2, OUTPUT);
 
-  pinMode(CLK, OUTPUT);
-  pinMode(DAT, INPUT);
-  pinMode(CTRL, OUTPUT);
-  digitalWrite(CTRL, LOW);
-  digitalWrite(CLK, LOW);
+  //-- Inicializar SPI
+  SPI.begin();
+  SPI.beginTransaction (SPISettings (2000000, MSBFIRST, SPI_MODE0));
+ 
   Serial.begin(9600);
 }
 
-byte fpga_read() {
-  byte c;
+//-- Leer los pulsadores de la FPGA,
+//-- a través del SPI
+uint8_t leer_pulsadores()
+{
+  //-- Activar el esclavo
+  digitalWrite(SS, LOW);
 
-  //-- Indicar a la FPGA que capture el dato
-  digitalWrite(CTRL, HIGH);
-  digitalWrite(CTRL, LOW);
+  //-- Leer el valor. A la vez hay que enviar
+  //-- otro dato. Mandamos un 0 (basura)
+  uint8_t value = SPI.transfer(0x00); 
 
-  //-- Recibir el dato
-  c =  shiftIn(DAT, CLK, MSBFIRST);
-  return c;
+  //-- Desactivar el esclavo
+  digitalWrite(SS, HIGH);
+
+  return value;
 }
 
-void loop() {
-  byte dat;
-  byte old = 0xff;
 
-  //-- Leer el puerto constantemente
-  while(1) {
+void loop() 
+{
 
-    //-- Leer dato de la FPGA
-    dat = fpga_read();
-    Serial.write("Dato: ");
-    Serial.write(dat+'0');
-    Serial.write("\n");
+  //-- Leer los pulsadores
+  uint8_t estado = leer_pulsadores();
 
-    //-- Encender el LED1 si el pulsador SW1 está apretado
-  digitalWrite(LED1, dat & 0x01);
+  //-- Encender el LED1 si el pulsador SW1 está apretado
+  digitalWrite(LED1, estado & 0x01);
 
   //-- Encender el LED2 si el puslador SW2 está apretado
-  digitalWrite(LED2, dat & 0x02);
+  digitalWrite(LED2, estado & 0x02);
 
-    delay(300);
-  }
+  //-- Mostrar el valor leido por puerto serie
+  Serial.write(estado+'0');
+  Serial.write("\n");
+  
+  delay(300);
 }
+
