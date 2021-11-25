@@ -204,8 +204,8 @@
             "oldBlockColor": "fuchsia"
           },
           "position": {
-            "x": 600,
-            "y": -64
+            "x": 672,
+            "y": -168
           }
         },
         {
@@ -224,8 +224,8 @@
             "virtual": true
           },
           "position": {
-            "x": 192,
-            "y": -32
+            "x": 264,
+            "y": -136
           }
         },
         {
@@ -400,8 +400,220 @@
             "virtual": true
           },
           "position": {
-            "x": 600,
-            "y": 16
+            "x": 672,
+            "y": -88
+          }
+        },
+        {
+          "id": "524b6854-9ccf-4862-a1d0-6806d6ce332f",
+          "type": "basic.outputLabel",
+          "data": {
+            "blockColor": "fuchsia",
+            "name": "data",
+            "range": "[31:0]",
+            "pins": [
+              {
+                "index": "31",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "30",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "29",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "28",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "27",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "26",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "25",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "24",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "23",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "22",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "21",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "20",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "19",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "18",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "17",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "16",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "15",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "14",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "13",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "12",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "11",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "10",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "9",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "8",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "7",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "6",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "5",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "4",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "3",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "2",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "1",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "0",
+                "name": "",
+                "value": ""
+              }
+            ],
+            "virtual": true
+          },
+          "position": {
+            "x": 264,
+            "y": -72
+          }
+        },
+        {
+          "id": "b33c95c8-cb78-4224-8a49-2a4e266e81f1",
+          "type": "basic.inputLabel",
+          "data": {
+            "name": "wmask",
+            "range": "[3:0]",
+            "pins": [
+              {
+                "index": "3",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "2",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "1",
+                "name": "",
+                "value": ""
+              },
+              {
+                "index": "0",
+                "name": "",
+                "value": ""
+              }
+            ],
+            "virtual": true,
+            "blockColor": "fuchsia"
+          },
+          "position": {
+            "x": 664,
+            "y": -24
           }
         },
         {
@@ -578,182 +790,6 @@
           "position": {
             "x": -360,
             "y": 16
-          }
-        },
-        {
-          "id": "524b6854-9ccf-4862-a1d0-6806d6ce332f",
-          "type": "basic.outputLabel",
-          "data": {
-            "blockColor": "fuchsia",
-            "name": "data",
-            "range": "[31:0]",
-            "pins": [
-              {
-                "index": "31",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "30",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "29",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "28",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "27",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "26",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "25",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "24",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "23",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "22",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "21",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "20",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "19",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "18",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "17",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "16",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "15",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "14",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "13",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "12",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "11",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "10",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "9",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "8",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "7",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "6",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "5",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "4",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "3",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "2",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "1",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "0",
-                "name": "",
-                "value": ""
-              }
-            ],
-            "virtual": true
-          },
-          "position": {
-            "x": 192,
-            "y": 32
           }
         },
         {
@@ -1162,42 +1198,6 @@
           },
           "position": {
             "x": 832,
-            "y": 80
-          }
-        },
-        {
-          "id": "b33c95c8-cb78-4224-8a49-2a4e266e81f1",
-          "type": "basic.inputLabel",
-          "data": {
-            "name": "wmask",
-            "range": "[3:0]",
-            "pins": [
-              {
-                "index": "3",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "2",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "1",
-                "name": "",
-                "value": ""
-              },
-              {
-                "index": "0",
-                "name": "",
-                "value": ""
-              }
-            ],
-            "virtual": true,
-            "blockColor": "fuchsia"
-          },
-          "position": {
-            "x": 592,
             "y": 80
           }
         },
@@ -2029,19 +2029,6 @@
           }
         },
         {
-          "id": "256b6f95-93fd-406a-a50b-d0bb35c12668",
-          "type": "basic.constant",
-          "data": {
-            "name": "Reset_ADDR",
-            "value": "32'h0",
-            "local": false
-          },
-          "position": {
-            "x": 400,
-            "y": -192
-          }
-        },
-        {
           "id": "c01b81ba-15c4-48c8-8dee-7017bbc1d8b9",
           "type": "basic.memory",
           "data": {
@@ -2063,8 +2050,8 @@
           "id": "9145897f-4ccc-4466-9c12-881cde58e3e7",
           "type": "f1cffe0819474c7b4c36893b94dfd3817e260223",
           "position": {
-            "x": 400,
-            "y": -16
+            "x": 472,
+            "y": -120
           },
           "size": {
             "width": 96,
@@ -2087,8 +2074,8 @@
           "id": "19c01284-157d-4895-ba43-27acac8737fb",
           "type": "d30ca9ee4f35f6cb76d5e5701447fc2b739bc640",
           "position": {
-            "x": 232,
-            "y": 176
+            "x": 304,
+            "y": 72
           },
           "size": {
             "width": 96,
@@ -2231,17 +2218,6 @@
         },
         {
           "source": {
-            "block": "256b6f95-93fd-406a-a50b-d0bb35c12668",
-            "port": "constant-out"
-          },
-          "target": {
-            "block": "9145897f-4ccc-4466-9c12-881cde58e3e7",
-            "port": "3603d558-06d1-4dd6-84d6-7697ec642d0b"
-          },
-          "vertices": []
-        },
-        {
-          "source": {
             "block": "19c01284-157d-4895-ba43-27acac8737fb",
             "port": "3d584b0a-29eb-47af-8c43-c0822282ef05"
           },
@@ -2251,8 +2227,8 @@
           },
           "vertices": [
             {
-              "x": 352,
-              "y": 176
+              "x": 424,
+              "y": 72
             }
           ]
         },
@@ -2501,8 +2477,8 @@
           },
           "vertices": [
             {
-              "x": 312,
-              "y": 16
+              "x": 384,
+              "y": -88
             }
           ]
         }
@@ -3201,28 +3177,11 @@
               }
             },
             {
-              "id": "3603d558-06d1-4dd6-84d6-7697ec642d0b",
-              "type": "basic.constant",
-              "data": {
-                "name": "RESET_ADDR",
-                "value": "32'h00820000",
-                "local": false
-              },
-              "position": {
-                "x": 520,
-                "y": -392
-              }
-            },
-            {
               "id": "215f26ad-d011-44ef-8434-30bb050113fd",
               "type": "basic.code",
               "data": {
-                "code": "\n   parameter ADDR_WIDTH       = 24;           \n\n   localparam ADDR_PAD = {(32-ADDR_WIDTH){1'b0}}; // 32-bits padding for addrs\n\n /***************************************************************************/\n // Instruction decoding.\n /***************************************************************************/\n\n // Extracts rd,rs1,rs2,funct3,imm and opcode from instruction. \n // Reference: Table page 104 of:\n // https://content.riscv.org/wp-content/uploads/2017/05/riscv-spec-v2.2.pdf\n\n // The destination register\n wire [4:0] rdId = instr[11:7];\n\n // The ALU function, decoded in 1-hot form (doing so reduces LUT count)\n // It is used as follows: funct3Is[val] <=> funct3 == val\n (* onehot *)\n wire [7:0] funct3Is = 8'b00000001 << instr[14:12];\n\n // The five immediate formats, see RiscV reference (link above), Fig. 2.4 p. 12\n wire [31:0] Uimm = {    instr[31],   instr[30:12], {12{1'b0}}};\n wire [31:0] Iimm = {{21{instr[31]}}, instr[30:20]};\n /* verilator lint_off UNUSED */ // MSBs of SBJimms are not used by addr adder. \n wire [31:0] Simm = {{21{instr[31]}}, instr[30:25],instr[11:7]};\n wire [31:0] Bimm = {{20{instr[31]}}, instr[7],instr[30:25],instr[11:8],1'b0};\n wire [31:0] Jimm = {{12{instr[31]}}, instr[19:12],instr[20],instr[30:21],1'b0};\n /* verilator lint_on UNUSED */\n\n   // Base RISC-V (RV32I) has only 10 different instructions !\n   wire isLoad    =  (instr[6:2] == 5'b00000); // rd <- mem[rs1+Iimm]\n   wire isALUimm  =  (instr[6:2] == 5'b00100); // rd <- rs1 OP Iimm\n   wire isAUIPC   =  (instr[6:2] == 5'b00101); // rd <- PC + Uimm\n   wire isStore   =  (instr[6:2] == 5'b01000); // mem[rs1+Simm] <- rs2\n   wire isALUreg  =  (instr[6:2] == 5'b01100); // rd <- rs1 OP rs2\n   wire isLUI     =  (instr[6:2] == 5'b01101); // rd <- Uimm\n   wire isBranch  =  (instr[6:2] == 5'b11000); // if(rs1 OP rs2) PC<-PC+Bimm\n   wire isJALR    =  (instr[6:2] == 5'b11001); // rd <- PC+4; PC<-rs1+Iimm\n   wire isJAL     =  (instr[6:2] == 5'b11011); // rd <- PC+4; PC<-PC+Jimm\n   wire isSYSTEM  =  (instr[6:2] == 5'b11100); // rd <- cycles\n\n   wire isALU = isALUimm | isALUreg;\n\n   /***************************************************************************/\n   // The register file.\n   /***************************************************************************/\n   \n   reg [31:0] rs1;\n   reg [31:0] rs2;\n   reg [31:0] registerFile [31:0];\n\n   always @(posedge clk) begin\n     if (writeBack)\n       if (rdId != 0)\n         registerFile[rdId] <= writeBackData;\n   end\n\n   /***************************************************************************/\n   // The ALU. Does operations and tests combinatorially, except shifts.\n   /***************************************************************************/\n\n   // First ALU source, always rs1\n   wire [31:0] aluIn1 = rs1;\n\n   // Second ALU source, depends on opcode:\n   //    ALUreg, Branch:     rs2\n   //    ALUimm, Load, JALR: Iimm\n   wire [31:0] aluIn2 = isALUreg | isBranch ? rs2 : Iimm;\n\n   reg  [31:0] aluReg;       // The internal register of the ALU, used by shift.\n   reg  [4:0]  aluShamt;     // Current shift amount.\n\n   wire aluBusy = |aluShamt; // ALU is busy if shift amount is non-zero.\n   wire aluWr;               // ALU write strobe, starts shifting.\n\n   // The adder is used by both arithmetic instructions and JALR.\n   wire [31:0] aluPlus = aluIn1 + aluIn2;\n\n   // Use a single 33 bits subtract to do subtraction and all comparisons\n   // (trick borrowed from swapforth/J1)\n   wire [32:0] aluMinus = {1'b1, ~aluIn2} + {1'b0,aluIn1} + 33'b1;\n   wire        LT  = (aluIn1[31] ^ aluIn2[31]) ? aluIn1[31] : aluMinus[32];\n   wire        LTU = aluMinus[32];\n   wire        EQ  = (aluMinus[31:0] == 0);\n\n   // Notes:\n   // - instr[30] is 1 for SUB and 0 for ADD\n   // - for SUB, need to test also instr[5] to discriminate ADDI:\n   //    (1 for ADD/SUB, 0 for ADDI, and Iimm used by ADDI overlaps bit 30 !)\n   // - instr[30] is 1 for SRA (do sign extension) and 0 for SRL\n   \n   wire [31:0] aluOut =\n     (funct3Is[0]  ? instr[30] & instr[5] ? aluMinus[31:0] : aluPlus : 32'b0) | \n     (funct3Is[2]  ? {31'b0, LT}                                     : 32'b0) | \n     (funct3Is[3]  ? {31'b0, LTU}                                    : 32'b0) | \n     (funct3Is[4]  ? aluIn1 ^ aluIn2                                 : 32'b0) | \n     (funct3Is[6]  ? aluIn1 | aluIn2                                 : 32'b0) | \n     (funct3Is[7]  ? aluIn1 & aluIn2                                 : 32'b0) | \n     (funct3IsShift ? aluReg                                         : 32'b0) ; \n\n   wire funct3IsShift = funct3Is[1] | funct3Is[5];\n\n   always @(posedge clk) begin\n      if(aluWr) begin\n         if (funct3IsShift) begin  // SLL, SRA, SRL\n\t    aluReg <= aluIn1; \n\t    aluShamt <= aluIn2[4:0]; \n\t end \n      end \n\n      // Compact form of:\n      // funct3=001              -> SLL  (aluReg <= aluReg << 1)      \n      // funct3=101 &  instr[30] -> SRA  (aluReg <= {aluReg[31], aluReg[31:1]})\n      // funct3=101 & !instr[30] -> SRL  (aluReg <= {1'b0,       aluReg[31:1]})\n\n      if (|aluShamt) begin\n         aluShamt <= aluShamt - 1;\n\t aluReg <= funct3Is[1] ? aluReg << 1 :              // SLL\n\t\t   {instr[30] & aluReg[31], aluReg[31:1]};  // SRA,SRL\n      end\n   end\n\n   /***************************************************************************/\n   // The predicate for conditional branches.\n   /***************************************************************************/\n\n   wire predicate =\n        funct3Is[0] &  EQ  | // BEQ\n        funct3Is[1] & !EQ  | // BNE\n        funct3Is[4] &  LT  | // BLT\n        funct3Is[5] & !LT  | // BGE\n        funct3Is[6] &  LTU | // BLTU\n        funct3Is[7] & !LTU ; // BGEU\n\n   /***************************************************************************/\n   // Program counter and branch target computation.\n   /***************************************************************************/\n\n   reg  [ADDR_WIDTH-1:0] PC; // The program counter.\n   reg  [31:2] instr;        // Latched instruction. Note that bits 0 and 1 are\n                             // ignored (not used in RV32I base instr set).\n\n   wire [ADDR_WIDTH-1:0] PCplus4 = PC + 4;\n\n   // An adder used to compute branch address, JAL address and AUIPC.\n   // branch->PC+Bimm    AUIPC->PC+Uimm    JAL->PC+Jimm\n   // Equivalent to PCplusImm = PC + (isJAL ? Jimm : isAUIPC ? Uimm : Bimm)\n   wire [ADDR_WIDTH-1:0] PCplusImm = PC + ( instr[3] ? Jimm[ADDR_WIDTH-1:0] : \n\t\t\t\t\t    instr[4] ? Uimm[ADDR_WIDTH-1:0] : \n\t\t\t\t\t               Bimm[ADDR_WIDTH-1:0] );\n\n   // A separate adder to compute the destination of load/store.\n   // testing instr[5] is equivalent to testing isStore in this context.\n   wire [ADDR_WIDTH-1:0] loadstore_addr = rs1[ADDR_WIDTH-1:0] + \n\t\t   (instr[5] ? Simm[ADDR_WIDTH-1:0] : Iimm[ADDR_WIDTH-1:0]);\n\n   assign mem_addr = {ADDR_PAD, \n\t\t       state[WAIT_INSTR_bit] | state[FETCH_INSTR_bit] ? \n\t\t       PC : loadstore_addr\n\t\t     };\n\n   /***************************************************************************/\n   // The value written back to the register file.\n   /***************************************************************************/\n\n   wire [31:0] writeBackData  =\n      /* verilator lint_off WIDTH */\t       \t       \n      (isSYSTEM            ? cycles               : 32'b0) |  // SYSTEM\n      /* verilator lint_on WIDTH */\t       \t       \t       \n      (isLUI               ? Uimm                 : 32'b0) |  // LUI\n      (isALU               ? aluOut               : 32'b0) |  // ALUreg, ALUimm\n      (isAUIPC             ? {ADDR_PAD,PCplusImm} : 32'b0) |  // AUIPC\n      (isJALR   | isJAL    ? {ADDR_PAD,PCplus4  } : 32'b0) |  // JAL, JALR\n      (isLoad              ? LOAD_data            : 32'b0);   // Load\n\n   /***************************************************************************/\n   // LOAD/STORE\n   /***************************************************************************/\n\n   // All memory accesses are aligned on 32 bits boundary. For this\n   // reason, we need some circuitry that does unaligned halfword\n   // and byte load/store, based on:\n   // - funct3[1:0]:  00->byte 01->halfword 10->word\n   // - mem_addr[1:0]: indicates which byte/halfword is accessed\n\n   wire mem_byteAccess     = instr[13:12] == 2'b00; // funct3[1:0] == 2'b00;\n   wire mem_halfwordAccess = instr[13:12] == 2'b01; // funct3[1:0] == 2'b01;\n\n   // LOAD, in addition to funct3[1:0], LOAD depends on:\n   // - funct3[2] (instr[14]): 0->do sign expansion   1->no sign expansion\n\n   wire LOAD_sign = \n\t!instr[14] & (mem_byteAccess ? LOAD_byte[7] : LOAD_halfword[15]);\n\n   wire [31:0] LOAD_data =\n         mem_byteAccess ? {{24{LOAD_sign}},     LOAD_byte} :\n     mem_halfwordAccess ? {{16{LOAD_sign}}, LOAD_halfword} :\n                          mem_rdata ;\n\n   wire [15:0] LOAD_halfword = \n\t       loadstore_addr[1] ? mem_rdata[31:16] : mem_rdata[15:0];\n   \n   wire  [7:0] LOAD_byte = \n\t       loadstore_addr[0] ? LOAD_halfword[15:8] : LOAD_halfword[7:0];\n\n   // STORE\n\n   assign mem_wdata[ 7: 0] = rs2[7:0];\n   assign mem_wdata[15: 8] = loadstore_addr[0] ? rs2[7:0]  : rs2[15: 8];\n   assign mem_wdata[23:16] = loadstore_addr[1] ? rs2[7:0]  : rs2[23:16];\n   assign mem_wdata[31:24] = loadstore_addr[0] ? rs2[7:0]  : \n\t\t\t     loadstore_addr[1] ? rs2[15:8] : rs2[31:24];\n\n   // The memory write mask:\n   //    1111                     if writing a word\n   //    0011 or 1100             if writing a halfword \n   //                                (depending on loadstore_addr[1])\n   //    0001, 0010, 0100 or 1000 if writing a byte     \n   //                                (depending on loadstore_addr[1:0])\n\n   wire [3:0] STORE_wmask =\n\t      mem_byteAccess      ? \n\t            (loadstore_addr[1] ? \n\t\t          (loadstore_addr[0] ? 4'b1000 : 4'b0100) :\n\t\t          (loadstore_addr[0] ? 4'b0010 : 4'b0001) \n                    ) :\n\t      mem_halfwordAccess ? \n\t            (loadstore_addr[1] ? 4'b1100 : 4'b0011) :\n              4'b1111;\n\n   /*************************************************************************/\n   // And, last but not least, the state machine.\n   /*************************************************************************/\n\n   localparam FETCH_INSTR_bit     = 0;\n   localparam WAIT_INSTR_bit      = 1;\n   localparam EXECUTE_bit         = 2;\n   localparam WAIT_ALU_OR_MEM_bit = 3;\n   localparam NB_STATES           = 4;\n\n   localparam FETCH_INSTR     = 1 << FETCH_INSTR_bit;\n   localparam WAIT_INSTR      = 1 << WAIT_INSTR_bit;\n   localparam EXECUTE         = 1 << EXECUTE_bit;\n   localparam WAIT_ALU_OR_MEM = 1 << WAIT_ALU_OR_MEM_bit;\n   \n   (* onehot *)\n   reg [NB_STATES-1:0] state;\n\n   // The signals (internal and external) that are determined\n   // combinatorially from state and other signals.\n\n   // register write-back enable.\n   wire writeBack = ~(isBranch | isStore ) & \n\t            (state[EXECUTE_bit] | state[WAIT_ALU_OR_MEM_bit]);\n\n   // The memory-read signal.\n   assign mem_rstrb = state[EXECUTE_bit] & isLoad | state[FETCH_INSTR_bit];\n\n   // The mask for memory-write.\n   assign mem_wmask = {4{state[EXECUTE_bit] & isStore}} & STORE_wmask;\n\n   // aluWr starts computation (shifts) in the ALU.\n   assign aluWr = state[EXECUTE_bit] & isALU;\n\n   wire jumpToPCplusImm = isJAL | (isBranch & predicate);\n`ifdef NRV_IS_IO_ADDR  \n   wire needToWait = isLoad | \n\t\t     isStore  & `NRV_IS_IO_ADDR(mem_addr) | \n\t\t     isALU & funct3IsShift;\n`else\n   wire needToWait = isLoad | isStore | isALU & funct3IsShift;   \n`endif\n   \n   always @(posedge clk) begin\n      if(!reset) begin\n         state      <= WAIT_ALU_OR_MEM; // Just waiting for !mem_wbusy\n         PC         <= RESET_ADDR[ADDR_WIDTH-1:0];\n      end else\n\n      // See note [1] at the end of this file.\n      (* parallel_case *)\n      case(1'b1)\n\n        state[WAIT_INSTR_bit]: begin\n           if(!mem_rbusy) begin // may be high when executing from SPI flash\n              rs1 <= registerFile[mem_rdata[19:15]];\n              rs2 <= registerFile[mem_rdata[24:20]];\n              instr <= mem_rdata[31:2]; // Bits 0 and 1 are ignored (see\n              state <= EXECUTE;         // also the declaration of instr).\n           end\n        end\n\n        state[EXECUTE_bit]: begin\n           PC <= isJALR          ? {aluPlus[ADDR_WIDTH-1:1],1'b0} :\n                 jumpToPCplusImm ? PCplusImm :\n                 PCplus4;\n\t   state <= needToWait ? WAIT_ALU_OR_MEM : FETCH_INSTR;\n        end\n\n        state[WAIT_ALU_OR_MEM_bit]: begin\n           if(!aluBusy & !mem_rbusy & !mem_wbusy) state <= FETCH_INSTR;\n        end\n\n        default: begin // FETCH_INSTR\n          state <= WAIT_INSTR;\n        end\n\t\n      endcase\n   end\n\n   /***************************************************************************/\n   // Cycle counter\n   /***************************************************************************/\n\n`ifdef NRV_COUNTER_WIDTH\n   reg [`NRV_COUNTER_WIDTH-1:0]  cycles;   \n`else   \n   reg [31:0]  cycles;\n`endif   \n   always @(posedge clk) cycles <= cycles + 1;\n\n`ifdef BENCH\n   initial begin\n      cycles = 0;\n      aluShamt = 0;\n      registerFile[0] = 0;\n   end\n`endif\n\n\n/*****************************************************************************/\n// Notes:\n//\n// [1] About the \"reverse case\" statement, also used in Claire Wolf's picorv32:\n// It is just a cleaner way of writing a series of cascaded if() statements,\n// To understand it, think about the case statement *in general* as follows:\n// case (expr)\n//       val_1: statement_1\n//       val_2: statement_2\n//   ... val_n: statement_n\n// endcase\n// The first statement_i such that expr == val_i is executed. \n// Now if expr is 1'b1:\n// case (1'b1)\n//       cond_1: statement_1\n//       cond_2: statement_2\n//   ... cond_n: statement_n\n// endcase\n// It is *exactly the same thing*, the first statement_i such that\n// expr == cond_i is executed (that is, such that 1'b1 == cond_i,\n// in other words, such that cond_i is true)\n// More on this: \n//     https://stackoverflow.com/questions/15418636/case-statement-in-verilog\n//\n// [2] state uses 1-hot encoding (at any time, state has only one bit set to 1).\n// It uses a larger number of bits (one bit per state), but often results in\n// a both more compact (fewer LUTs) and faster state machine.\n\n\n",
-                "params": [
-                  {
-                    "name": "RESET_ADDR"
-                  }
-                ],
+                "code": "   localparam RESET_ADDR = 0;\n   parameter ADDR_WIDTH       = 24;           \n\n   localparam ADDR_PAD = {(32-ADDR_WIDTH){1'b0}}; // 32-bits padding for addrs\n\n /***************************************************************************/\n // Instruction decoding.\n /***************************************************************************/\n\n // Extracts rd,rs1,rs2,funct3,imm and opcode from instruction. \n // Reference: Table page 104 of:\n // https://content.riscv.org/wp-content/uploads/2017/05/riscv-spec-v2.2.pdf\n\n // The destination register\n wire [4:0] rdId = instr[11:7];\n\n // The ALU function, decoded in 1-hot form (doing so reduces LUT count)\n // It is used as follows: funct3Is[val] <=> funct3 == val\n (* onehot *)\n wire [7:0] funct3Is = 8'b00000001 << instr[14:12];\n\n // The five immediate formats, see RiscV reference (link above), Fig. 2.4 p. 12\n wire [31:0] Uimm = {    instr[31],   instr[30:12], {12{1'b0}}};\n wire [31:0] Iimm = {{21{instr[31]}}, instr[30:20]};\n /* verilator lint_off UNUSED */ // MSBs of SBJimms are not used by addr adder. \n wire [31:0] Simm = {{21{instr[31]}}, instr[30:25],instr[11:7]};\n wire [31:0] Bimm = {{20{instr[31]}}, instr[7],instr[30:25],instr[11:8],1'b0};\n wire [31:0] Jimm = {{12{instr[31]}}, instr[19:12],instr[20],instr[30:21],1'b0};\n /* verilator lint_on UNUSED */\n\n   // Base RISC-V (RV32I) has only 10 different instructions !\n   wire isLoad    =  (instr[6:2] == 5'b00000); // rd <- mem[rs1+Iimm]\n   wire isALUimm  =  (instr[6:2] == 5'b00100); // rd <- rs1 OP Iimm\n   wire isAUIPC   =  (instr[6:2] == 5'b00101); // rd <- PC + Uimm\n   wire isStore   =  (instr[6:2] == 5'b01000); // mem[rs1+Simm] <- rs2\n   wire isALUreg  =  (instr[6:2] == 5'b01100); // rd <- rs1 OP rs2\n   wire isLUI     =  (instr[6:2] == 5'b01101); // rd <- Uimm\n   wire isBranch  =  (instr[6:2] == 5'b11000); // if(rs1 OP rs2) PC<-PC+Bimm\n   wire isJALR    =  (instr[6:2] == 5'b11001); // rd <- PC+4; PC<-rs1+Iimm\n   wire isJAL     =  (instr[6:2] == 5'b11011); // rd <- PC+4; PC<-PC+Jimm\n   wire isSYSTEM  =  (instr[6:2] == 5'b11100); // rd <- cycles\n\n   wire isALU = isALUimm | isALUreg;\n\n   /***************************************************************************/\n   // The register file.\n   /***************************************************************************/\n   \n   reg [31:0] rs1;\n   reg [31:0] rs2;\n   reg [31:0] registerFile [31:0];\n\n   always @(posedge clk) begin\n     if (writeBack)\n       if (rdId != 0)\n         registerFile[rdId] <= writeBackData;\n   end\n\n   /***************************************************************************/\n   // The ALU. Does operations and tests combinatorially, except shifts.\n   /***************************************************************************/\n\n   // First ALU source, always rs1\n   wire [31:0] aluIn1 = rs1;\n\n   // Second ALU source, depends on opcode:\n   //    ALUreg, Branch:     rs2\n   //    ALUimm, Load, JALR: Iimm\n   wire [31:0] aluIn2 = isALUreg | isBranch ? rs2 : Iimm;\n\n   reg  [31:0] aluReg;       // The internal register of the ALU, used by shift.\n   reg  [4:0]  aluShamt;     // Current shift amount.\n\n   wire aluBusy = |aluShamt; // ALU is busy if shift amount is non-zero.\n   wire aluWr;               // ALU write strobe, starts shifting.\n\n   // The adder is used by both arithmetic instructions and JALR.\n   wire [31:0] aluPlus = aluIn1 + aluIn2;\n\n   // Use a single 33 bits subtract to do subtraction and all comparisons\n   // (trick borrowed from swapforth/J1)\n   wire [32:0] aluMinus = {1'b1, ~aluIn2} + {1'b0,aluIn1} + 33'b1;\n   wire        LT  = (aluIn1[31] ^ aluIn2[31]) ? aluIn1[31] : aluMinus[32];\n   wire        LTU = aluMinus[32];\n   wire        EQ  = (aluMinus[31:0] == 0);\n\n   // Notes:\n   // - instr[30] is 1 for SUB and 0 for ADD\n   // - for SUB, need to test also instr[5] to discriminate ADDI:\n   //    (1 for ADD/SUB, 0 for ADDI, and Iimm used by ADDI overlaps bit 30 !)\n   // - instr[30] is 1 for SRA (do sign extension) and 0 for SRL\n   \n   wire [31:0] aluOut =\n     (funct3Is[0]  ? instr[30] & instr[5] ? aluMinus[31:0] : aluPlus : 32'b0) | \n     (funct3Is[2]  ? {31'b0, LT}                                     : 32'b0) | \n     (funct3Is[3]  ? {31'b0, LTU}                                    : 32'b0) | \n     (funct3Is[4]  ? aluIn1 ^ aluIn2                                 : 32'b0) | \n     (funct3Is[6]  ? aluIn1 | aluIn2                                 : 32'b0) | \n     (funct3Is[7]  ? aluIn1 & aluIn2                                 : 32'b0) | \n     (funct3IsShift ? aluReg                                         : 32'b0) ; \n\n   wire funct3IsShift = funct3Is[1] | funct3Is[5];\n\n   always @(posedge clk) begin\n      if(aluWr) begin\n         if (funct3IsShift) begin  // SLL, SRA, SRL\n\t    aluReg <= aluIn1; \n\t    aluShamt <= aluIn2[4:0]; \n\t end \n      end \n\n      // Compact form of:\n      // funct3=001              -> SLL  (aluReg <= aluReg << 1)      \n      // funct3=101 &  instr[30] -> SRA  (aluReg <= {aluReg[31], aluReg[31:1]})\n      // funct3=101 & !instr[30] -> SRL  (aluReg <= {1'b0,       aluReg[31:1]})\n\n      if (|aluShamt) begin\n         aluShamt <= aluShamt - 1;\n\t aluReg <= funct3Is[1] ? aluReg << 1 :              // SLL\n\t\t   {instr[30] & aluReg[31], aluReg[31:1]};  // SRA,SRL\n      end\n   end\n\n   /***************************************************************************/\n   // The predicate for conditional branches.\n   /***************************************************************************/\n\n   wire predicate =\n        funct3Is[0] &  EQ  | // BEQ\n        funct3Is[1] & !EQ  | // BNE\n        funct3Is[4] &  LT  | // BLT\n        funct3Is[5] & !LT  | // BGE\n        funct3Is[6] &  LTU | // BLTU\n        funct3Is[7] & !LTU ; // BGEU\n\n   /***************************************************************************/\n   // Program counter and branch target computation.\n   /***************************************************************************/\n\n   reg  [ADDR_WIDTH-1:0] PC; // The program counter.\n   reg  [31:2] instr;        // Latched instruction. Note that bits 0 and 1 are\n                             // ignored (not used in RV32I base instr set).\n\n   wire [ADDR_WIDTH-1:0] PCplus4 = PC + 4;\n\n   // An adder used to compute branch address, JAL address and AUIPC.\n   // branch->PC+Bimm    AUIPC->PC+Uimm    JAL->PC+Jimm\n   // Equivalent to PCplusImm = PC + (isJAL ? Jimm : isAUIPC ? Uimm : Bimm)\n   wire [ADDR_WIDTH-1:0] PCplusImm = PC + ( instr[3] ? Jimm[ADDR_WIDTH-1:0] : \n\t\t\t\t\t    instr[4] ? Uimm[ADDR_WIDTH-1:0] : \n\t\t\t\t\t               Bimm[ADDR_WIDTH-1:0] );\n\n   // A separate adder to compute the destination of load/store.\n   // testing instr[5] is equivalent to testing isStore in this context.\n   wire [ADDR_WIDTH-1:0] loadstore_addr = rs1[ADDR_WIDTH-1:0] + \n\t\t   (instr[5] ? Simm[ADDR_WIDTH-1:0] : Iimm[ADDR_WIDTH-1:0]);\n\n   assign mem_addr = {ADDR_PAD, \n\t\t       state[WAIT_INSTR_bit] | state[FETCH_INSTR_bit] ? \n\t\t       PC : loadstore_addr\n\t\t     };\n\n   /***************************************************************************/\n   // The value written back to the register file.\n   /***************************************************************************/\n\n   wire [31:0] writeBackData  =\n      /* verilator lint_off WIDTH */\t       \t       \n      (isSYSTEM            ? cycles               : 32'b0) |  // SYSTEM\n      /* verilator lint_on WIDTH */\t       \t       \t       \n      (isLUI               ? Uimm                 : 32'b0) |  // LUI\n      (isALU               ? aluOut               : 32'b0) |  // ALUreg, ALUimm\n      (isAUIPC             ? {ADDR_PAD,PCplusImm} : 32'b0) |  // AUIPC\n      (isJALR   | isJAL    ? {ADDR_PAD,PCplus4  } : 32'b0) |  // JAL, JALR\n      (isLoad              ? LOAD_data            : 32'b0);   // Load\n\n   /***************************************************************************/\n   // LOAD/STORE\n   /***************************************************************************/\n\n   // All memory accesses are aligned on 32 bits boundary. For this\n   // reason, we need some circuitry that does unaligned halfword\n   // and byte load/store, based on:\n   // - funct3[1:0]:  00->byte 01->halfword 10->word\n   // - mem_addr[1:0]: indicates which byte/halfword is accessed\n\n   wire mem_byteAccess     = instr[13:12] == 2'b00; // funct3[1:0] == 2'b00;\n   wire mem_halfwordAccess = instr[13:12] == 2'b01; // funct3[1:0] == 2'b01;\n\n   // LOAD, in addition to funct3[1:0], LOAD depends on:\n   // - funct3[2] (instr[14]): 0->do sign expansion   1->no sign expansion\n\n   wire LOAD_sign = \n\t!instr[14] & (mem_byteAccess ? LOAD_byte[7] : LOAD_halfword[15]);\n\n   wire [31:0] LOAD_data =\n         mem_byteAccess ? {{24{LOAD_sign}},     LOAD_byte} :\n     mem_halfwordAccess ? {{16{LOAD_sign}}, LOAD_halfword} :\n                          mem_rdata ;\n\n   wire [15:0] LOAD_halfword = \n\t       loadstore_addr[1] ? mem_rdata[31:16] : mem_rdata[15:0];\n   \n   wire  [7:0] LOAD_byte = \n\t       loadstore_addr[0] ? LOAD_halfword[15:8] : LOAD_halfword[7:0];\n\n   // STORE\n\n   assign mem_wdata[ 7: 0] = rs2[7:0];\n   assign mem_wdata[15: 8] = loadstore_addr[0] ? rs2[7:0]  : rs2[15: 8];\n   assign mem_wdata[23:16] = loadstore_addr[1] ? rs2[7:0]  : rs2[23:16];\n   assign mem_wdata[31:24] = loadstore_addr[0] ? rs2[7:0]  : \n\t\t\t     loadstore_addr[1] ? rs2[15:8] : rs2[31:24];\n\n   // The memory write mask:\n   //    1111                     if writing a word\n   //    0011 or 1100             if writing a halfword \n   //                                (depending on loadstore_addr[1])\n   //    0001, 0010, 0100 or 1000 if writing a byte     \n   //                                (depending on loadstore_addr[1:0])\n\n   wire [3:0] STORE_wmask =\n\t      mem_byteAccess      ? \n\t            (loadstore_addr[1] ? \n\t\t          (loadstore_addr[0] ? 4'b1000 : 4'b0100) :\n\t\t          (loadstore_addr[0] ? 4'b0010 : 4'b0001) \n                    ) :\n\t      mem_halfwordAccess ? \n\t            (loadstore_addr[1] ? 4'b1100 : 4'b0011) :\n              4'b1111;\n\n   /*************************************************************************/\n   // And, last but not least, the state machine.\n   /*************************************************************************/\n\n   localparam FETCH_INSTR_bit     = 0;\n   localparam WAIT_INSTR_bit      = 1;\n   localparam EXECUTE_bit         = 2;\n   localparam WAIT_ALU_OR_MEM_bit = 3;\n   localparam NB_STATES           = 4;\n\n   localparam FETCH_INSTR     = 1 << FETCH_INSTR_bit;\n   localparam WAIT_INSTR      = 1 << WAIT_INSTR_bit;\n   localparam EXECUTE         = 1 << EXECUTE_bit;\n   localparam WAIT_ALU_OR_MEM = 1 << WAIT_ALU_OR_MEM_bit;\n   \n   (* onehot *)\n   reg [NB_STATES-1:0] state;\n\n   // The signals (internal and external) that are determined\n   // combinatorially from state and other signals.\n\n   // register write-back enable.\n   wire writeBack = ~(isBranch | isStore ) & \n\t            (state[EXECUTE_bit] | state[WAIT_ALU_OR_MEM_bit]);\n\n   // The memory-read signal.\n   assign mem_rstrb = state[EXECUTE_bit] & isLoad | state[FETCH_INSTR_bit];\n\n   // The mask for memory-write.\n   assign mem_wmask = {4{state[EXECUTE_bit] & isStore}} & STORE_wmask;\n\n   // aluWr starts computation (shifts) in the ALU.\n   assign aluWr = state[EXECUTE_bit] & isALU;\n\n   wire jumpToPCplusImm = isJAL | (isBranch & predicate);\n`ifdef NRV_IS_IO_ADDR  \n   wire needToWait = isLoad | \n\t\t     isStore  & `NRV_IS_IO_ADDR(mem_addr) | \n\t\t     isALU & funct3IsShift;\n`else\n   wire needToWait = isLoad | isStore | isALU & funct3IsShift;   \n`endif\n   \n   always @(posedge clk) begin\n      if(!reset) begin\n         state      <= WAIT_ALU_OR_MEM; // Just waiting for !mem_wbusy\n         PC         <= RESET_ADDR[ADDR_WIDTH-1:0];\n      end else\n\n      // See note [1] at the end of this file.\n      (* parallel_case *)\n      case(1'b1)\n\n        state[WAIT_INSTR_bit]: begin\n           if(!mem_rbusy) begin // may be high when executing from SPI flash\n              rs1 <= registerFile[mem_rdata[19:15]];\n              rs2 <= registerFile[mem_rdata[24:20]];\n              instr <= mem_rdata[31:2]; // Bits 0 and 1 are ignored (see\n              state <= EXECUTE;         // also the declaration of instr).\n           end\n        end\n\n        state[EXECUTE_bit]: begin\n           PC <= isJALR          ? {aluPlus[ADDR_WIDTH-1:1],1'b0} :\n                 jumpToPCplusImm ? PCplusImm :\n                 PCplus4;\n\t   state <= needToWait ? WAIT_ALU_OR_MEM : FETCH_INSTR;\n        end\n\n        state[WAIT_ALU_OR_MEM_bit]: begin\n           if(!aluBusy & !mem_rbusy & !mem_wbusy) state <= FETCH_INSTR;\n        end\n\n        default: begin // FETCH_INSTR\n          state <= WAIT_INSTR;\n        end\n\t\n      endcase\n   end\n\n   /***************************************************************************/\n   // Cycle counter\n   /***************************************************************************/\n\n`ifdef NRV_COUNTER_WIDTH\n   reg [`NRV_COUNTER_WIDTH-1:0]  cycles;   \n`else   \n   reg [31:0]  cycles;\n`endif   \n   always @(posedge clk) cycles <= cycles + 1;\n\n`ifdef BENCH\n   initial begin\n      cycles = 0;\n      aluShamt = 0;\n      registerFile[0] = 0;\n   end\n`endif\n\n\n/*****************************************************************************/\n// Notes:\n//\n// [1] About the \"reverse case\" statement, also used in Claire Wolf's picorv32:\n// It is just a cleaner way of writing a series of cascaded if() statements,\n// To understand it, think about the case statement *in general* as follows:\n// case (expr)\n//       val_1: statement_1\n//       val_2: statement_2\n//   ... val_n: statement_n\n// endcase\n// The first statement_i such that expr == val_i is executed. \n// Now if expr is 1'b1:\n// case (1'b1)\n//       cond_1: statement_1\n//       cond_2: statement_2\n//   ... cond_n: statement_n\n// endcase\n// It is *exactly the same thing*, the first statement_i such that\n// expr == cond_i is executed (that is, such that 1'b1 == cond_i,\n// in other words, such that cond_i is true)\n// More on this: \n//     https://stackoverflow.com/questions/15418636/case-statement-in-verilog\n//\n// [2] state uses 1-hot encoding (at any time, state has only one bit set to 1).\n// It uses a larger number of bits (one bit per state), but often results in\n// a both more compact (fewer LUTs) and faster state machine.\n\n\n",
+                "params": [],
                 "ports": {
                   "in": [
                     {
@@ -3379,16 +3338,6 @@
               "target": {
                 "block": "6999fc23-9edf-44a4-842b-3ac44d6409ad",
                 "port": "in"
-              }
-            },
-            {
-              "source": {
-                "block": "3603d558-06d1-4dd6-84d6-7697ec642d0b",
-                "port": "constant-out"
-              },
-              "target": {
-                "block": "215f26ad-d011-44ef-8434-30bb050113fd",
-                "port": "RESET_ADDR"
               }
             }
           ]
