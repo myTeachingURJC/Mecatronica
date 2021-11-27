@@ -2044,8 +2044,8 @@
           "id": "c01b81ba-15c4-48c8-8dee-7017bbc1d8b9",
           "type": "basic.memory",
           "data": {
-            "name": "BTN-LEDs",
-            "list": "00008437\nf0040413\n00444283\n00540023\nff9ff06f\n",
+            "name": "PROGRAM",
+            "list": "00008437\nf0040413\n00000493\n00940023\n00148493\n018000ef\n00440303\n00137313\nfe031ce3\nfe9ff06f\n0000006f\n000102b7\nfff28293\nfff28293\nfe029ee3\n00008067",
             "local": false,
             "format": 10
           },
