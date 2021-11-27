@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="428.17178mm"
-   height="169.10753mm"
-   viewBox="0 0 428.17179 169.10753"
+   width="746.04877mm"
+   height="315.67838mm"
+   viewBox="0 0 746.04878 315.67838"
    version="1.1"
    id="svg8"
    inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
@@ -1992,17 +1992,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24406092"
-     inkscape:cx="760.05614"
-     inkscape:cy="133.16348"
+     inkscape:zoom="0.47482628"
+     inkscape:cx="1395.2471"
+     inkscape:cy="597.06046"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1858"
      inkscape:window-height="1016"
      inkscape:window-x="62"
-     inkscape:window-y="1107"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -2012,16 +2012,7 @@
      fit-margin-bottom="0"
      inkscape:snap-global="false"
      inkscape:pagecheckerboard="0"
-     inkscape:snap-midpoints="true">
-    <sodipodi:guide
-       position="503.15457,210.78894"
-       orientation="1,0"
-       id="guide48217" />
-    <sodipodi:guide
-       position="544.84503,199.45532"
-       orientation="0,-1"
-       id="guide52109" />
-  </sodipodi:namedview>
+     inkscape:snap-midpoints="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -2037,78 +2028,64 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="back"
-     transform="translate(-508.81796,1520.3729)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     transform="translate(-358.97604,1666.9437)"
+     style="display:inline">
     <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.793401;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.793402;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect14064"
-       width="427.37839"
-       height="168.31413"
-       x="509.21466"
-       y="-1519.9762"
+       width="745.25537"
+       height="314.88498"
+       x="359.37274"
+       y="-1666.547"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="410.63861"
+       y="-1635.9788"
+       id="text41685"><tspan
+         sodipodi:role="line"
+         id="tspan41683"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         x="410.63861"
+         y="-1635.9788">Computador FEMTORV</tspan></text>
   </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-508.81796,1520.3729)"
+     transform="translate(-358.97604,1666.9437)"
      style="display:inline">
     <text
        xml:space="preserve"
        id="text1843"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1845);fill:#000000;fill-opacity:1;stroke:none" />
-    <rect
-       style="display:inline;fill:#d5f6ff;stroke:#000000;stroke-width:0.793749;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect2196-9"
-       width="34.490665"
-       height="13.312446"
-       x="551.2674"
-       y="-1418.3674"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40997px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="557.53143"
-       y="-1409.0933"
-       id="text1925-3-7-3-6-7-6-5-9-9-6-7-3-1-7-7-8-1"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="557.53143"
-         y="-1409.0933"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
-         id="tspan2886-6-5-4-2">DATO</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="763.24945"
+       x="755.33643"
        y="-1493.1582"
        id="text17323"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="763.24945"
+         x="755.33643"
          y="-1493.1582"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
          id="tspan17321">32</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 765.1815,-1478.6634 5.74467,-11.3567"
+       d="m 757.2685,-1478.6634 5.74467,-11.3567"
        id="path17325"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1.58749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
-       d="m 748.79161,-1484.627 h 41.69045"
+       d="m 749.47317,-1484.627 h 26.95159"
        id="path17327"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
@@ -2127,16 +2104,16 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5432px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="691.95667"
-       y="-1466.9557"
+       x="690.25836"
+       y="-1466.5835"
        id="text19863"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="691.95667"
-         y="-1466.9557"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.264583"
+         x="690.25836"
+         y="-1466.5835"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#0000ff;stroke-width:0.264583"
          id="tspan19861">FemtoRV</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -2178,27 +2155,27 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="763.24945"
+       x="755.33643"
        y="-1466.1053"
        id="text12230"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="763.24945"
+         x="755.33643"
          y="-1466.1053"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
          id="tspan12228">32</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 765.1815,-1451.6106 5.74467,-11.3567"
+       d="m 757.2685,-1451.6106 5.74467,-11.3567"
        id="path12232"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1.58749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
-       d="m 748.79161,-1457.5742 h 41.69045"
+       d="m 749.47317,-1457.5742 h 26.95159"
        id="path12234"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
@@ -2207,27 +2184,27 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="763.24945"
+       x="755.33643"
        y="-1437.9908"
        id="text13909"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="763.24945"
+         x="755.33643"
          y="-1437.9908"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
-         id="tspan13907">32</tspan></text>
+         id="tspan13907">4</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 765.1815,-1423.4962 5.74467,-11.3567"
+       d="m 757.2685,-1423.4962 5.74467,-11.3567"
        id="path13911"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1.58749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
-       d="m 748.79161,-1429.4598 h 41.69045"
+       d="m 749.47317,-1429.4598 h 26.95159"
        id="path13913"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
@@ -2235,7 +2212,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
-       d="m 748.79161,-1407.7028 h 41.69045"
+       d="m 749.47317,-1407.7028 h 26.95159"
        id="path17502"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
@@ -2294,30 +2271,30 @@
        sodipodi:nodetypes="cc" />
     <path
        id="rect8602-3-7"
-       style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 825.5737,-1491.6938 h -24.93093 l -7.78128,7.0901 7.78128,7.0901 h 24.93093 z"
+       style="display:inline;fill:#0066ff;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 811.63247,-1491.6938 h -24.93093 l -7.78128,7.0901 7.78128,7.0901 h 24.93093 z"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="799.11578"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="785.17456"
        y="-1481.5955"
        id="text1925-3-7-3-6-7-6-3-2-8-4-9-8-33-8-1-8"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="799.11578"
+         x="785.17456"
          y="-1481.5955"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#ffffff;stroke-width:0.264583"
          id="tspan1280-5-0-6-2-5-3-42-8-37-7-9-4">addr</tspan></text>
     <path
        id="path12222"
-       style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 832.74648,-1464.641 h -32.10371 l -7.78128,7.0901 7.78128,7.0901 h 32.10371 z"
+       style="display:inline;fill:#00d4aa;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 818.80525,-1464.641 h -32.10371 l -7.78128,7.0901 7.78128,7.0901 h 32.10371 z"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
        inkscape:export-xdpi="96"
@@ -2325,21 +2302,21 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="799.11578"
+       x="785.17456"
        y="-1454.5426"
        id="text12226"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="799.11578"
+         x="785.17456"
          y="-1454.5426"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
          id="tspan12224">wdata</tspan></text>
     <path
        id="path13901"
-       style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 836.36197,-1436.5266 h -35.7192 l -7.78128,7.0901 7.78128,7.0901 h 35.7192 z"
+       style="display:inline;fill:#eed7f4;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 822.42074,-1436.5266 h -35.7192 l -7.78128,7.0901 7.78128,7.0901 h 35.7192 z"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
        inkscape:export-xdpi="96"
@@ -2347,21 +2324,21 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="799.11578"
+       x="785.17456"
        y="-1426.4281"
        id="text13905"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="799.11578"
+         x="785.17456"
          y="-1426.4281"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
          id="tspan13903">wmask</tspan></text>
     <path
        id="path16408"
        style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 824.81695,-1414.6372 h -24.93093 l -7.78128,7.0901 7.78128,7.0901 h 24.93093 z"
+       d="m 810.87572,-1414.6372 h -24.93093 l -7.78128,7.0901 7.78128,7.0901 h 24.93093 z"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
        inkscape:export-xdpi="96"
@@ -2369,20 +2346,20 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="798.35901"
+       x="784.41779"
        y="-1404.5389"
        id="text16412"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="798.35901"
+         x="784.41779"
          y="-1404.5389"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
          id="tspan16410">rstrb</tspan></text>
     <path
        id="path22625"
-       style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#800080;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 621.56612,-1476.7167 h 15.9764 l 7.78128,7.0901 -7.78128,7.0901 h -15.9764 z"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
@@ -2390,7 +2367,7 @@
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="624.44843"
        y="-1466.6184"
        id="text22629"
@@ -2400,11 +2377,11 @@
          sodipodi:role="line"
          x="624.44843"
          y="-1466.6184"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#ffffff;stroke-width:0.264583"
          id="tspan22627">rst</tspan></text>
     <path
        id="path23481"
-       style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#c6e9af;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 611.21531,-1449.3711 h 24.34663 l 7.78128,7.0901 -7.78128,7.0901 h -24.34663 z"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
@@ -2475,7 +2452,7 @@
        d="m 619.89356,-1386.8649 h 25.98306"
        id="path29488" />
     <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 619.91128,-1386.8649 -1.60304,2.5487"
        id="path29603" />
     <circle
@@ -2573,37 +2550,37 @@
        d="m 645.87662,-1386.8649 -1.60304,2.5487"
        id="path33873" />
     <rect
-       style="display:inline;fill:#f2f2f2;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#f2f2f2;stroke:#000000;stroke-width:0.793751;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect34694"
        width="61.146015"
-       height="56.008804"
-       x="525.70428"
-       y="-1662.9301"
+       height="35.226536"
+       x="458.39636"
+       y="-1586.8962"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5432px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="531.81219"
-       y="-1639.0155"
+       x="464.50427"
+       y="-1572.693"
        id="text34698"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="531.81219"
-         y="-1639.0155"
+         x="464.50427"
+         y="-1572.693"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.264583"
          id="tspan34696">Circuito</tspan><tspan
          sodipodi:role="line"
-         x="531.81219"
-         y="-1623.3365"
+         x="464.50427"
+         y="-1557.014"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.264583"
          id="tspan34758">de Reset</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 525.89812,-1656.3199 3.6274,3.6273 -3.6274,3.6273"
+       d="m 458.5902,-1580.286 3.6274,3.6273 -3.6274,3.6273"
        id="path34700"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
@@ -2611,7 +2588,7 @@
     <path
        id="path34702"
        style="display:inline;fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 489.16863,-1660.2133 h 15.0909 l 7.7813,7.0901 -7.7813,7.0901 h -15.0909 z"
+       d="m 421.86071,-1584.1794 h 15.0909 l 7.7813,7.0901 -7.7813,7.0901 h -15.0909 z"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
@@ -2619,20 +2596,20 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="491.24478"
-       y="-1649.7661"
+       x="423.93686"
+       y="-1573.7323"
        id="text34706"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="491.24478"
-         y="-1649.7661"
+         x="423.93686"
+         y="-1573.7323"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
          id="tspan34704">clk</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 511.56919,-1652.9714 h 14.12553"
+       d="M 444.26127,-1576.9375 H 458.3868"
        id="path34708"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
@@ -2640,7 +2617,7 @@
        inkscape:export-ydpi="96" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.793752;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
-       d="m 586.85027,-1636.3518 h 19.56375"
+       d="M 519.54235,-1569.4675 H 539.1061"
        id="path34714"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
@@ -2648,58 +2625,58 @@
        sodipodi:nodetypes="cc" />
     <path
        id="path37225"
-       style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 631.58057,-1643.4379 h -15.9764 l -7.78128,7.0901 7.78128,7.0901 h 15.9764 z"
+       style="display:inline;fill:#800080;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 564.27265,-1576.5536 h -15.9764 l -7.78128,7.0901 7.78128,7.0901 h 15.9764 z"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="615.13116"
-       y="-1633.3396"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="547.82324"
+       y="-1566.4553"
        id="text37229"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="615.13116"
-         y="-1633.3396"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         x="547.82324"
+         y="-1566.4553"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#ffffff;stroke-width:0.264583"
          id="tspan37227">rst</tspan></text>
     <rect
        style="display:inline;fill:#f2f2f2;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect37614"
        width="61.146015"
        height="75.21801"
-       x="751.71887"
-       y="-1662.9301"
+       x="937.36615"
+       y="-1596.1895"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5432px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="757.82678"
-       y="-1639.0155"
+       x="943.47406"
+       y="-1572.2749"
        id="text37620"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="757.82678"
-         y="-1639.0155"
+         x="943.47406"
+         y="-1572.2749"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.264583"
          id="tspan37616">Memoria</tspan><tspan
          sodipodi:role="line"
-         x="757.82678"
-         y="-1623.3365"
+         x="943.47406"
+         y="-1556.5959"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.264583"
          id="tspan37618">Código</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 751.91273,-1656.3199 3.6274,3.6273 -3.6274,3.6273"
+       d="m 937.55998,-1589.5792 3.6274,3.6273 -3.6274,3.6273"
        id="path37622"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
@@ -2707,7 +2684,7 @@
     <path
        id="path37624"
        style="display:inline;fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 715.18324,-1660.2133 h 15.0909 l 7.7813,7.0901 -7.7813,7.0901 h -15.0909 z"
+       d="m 900.83049,-1593.4726 h 15.0909 l 7.7813,7.0901 -7.7813,7.0901 h -15.0909 z"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
@@ -2715,20 +2692,20 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="717.2594"
-       y="-1649.7661"
+       x="902.90668"
+       y="-1583.0255"
        id="text37628"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="717.2594"
-         y="-1649.7661"
+         x="902.90668"
+         y="-1583.0255"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
          id="tspan37626">clk</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 737.5838,-1652.9714 h 14.12553"
+       d="m 923.23105,-1586.2307 h 14.12553"
        id="path37630"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
@@ -2737,41 +2714,41 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5432px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="763.55829"
-       y="-1601.3"
+       x="949.20557"
+       y="-1534.5594"
        id="text38918"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="763.55829"
-         y="-1601.3"
+         x="949.20557"
+         y="-1534.5594"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#0000ff;stroke-width:0.264583"
          id="tspan38916">(ROM)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="827.62427"
-       y="-1633.9227"
+       x="1013.2715"
+       y="-1567.1821"
        id="text40164"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="827.62427"
-         y="-1633.9227"
+         x="1013.2715"
+         y="-1567.1821"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
          id="tspan40162">32</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 829.5563,-1619.428 5.74467,-11.3567"
+       d="m 1015.2036,-1552.6873 5.7446,-11.3567"
        id="path40166"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1.58749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
-       d="m 813.16641,-1625.3916 h 41.69045"
+       d="m 998.8137,-1558.6509 h 41.6904"
        id="path40168"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
@@ -2779,50 +2756,50 @@
        sodipodi:nodetypes="cc" />
     <path
        id="path40170"
-       style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 889.9485,-1632.4584 h -24.93093 l -7.78128,7.0901 7.78128,7.0901 h 24.93093 z"
+       style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1075.5958,-1565.7177 h -24.931 l -7.7813,7.0901 7.7813,7.0901 h 24.931 z"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="866.66565"
-       y="-1622.36"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1052.3129"
+       y="-1555.6194"
        id="text40174"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="866.66565"
-         y="-1622.36"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         x="1052.3129"
+         y="-1555.6194"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#ffffff;stroke-width:0.264583"
          id="tspan40172">inst</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="722.03961"
-       y="-1624.6483"
+       x="907.68689"
+       y="-1557.9077"
        id="text40942"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="722.03961"
-         y="-1624.6483"
+         x="907.68689"
+         y="-1557.9077"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
          id="tspan40940">32</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 723.97163,-1610.1534 5.74467,-11.3567"
+       d="m 909.61888,-1543.4127 5.74467,-11.3567"
        id="path40944"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1.58749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
-       d="m 707.58174,-1616.117 h 41.69045"
+       d="m 893.22899,-1549.3763 h 41.69045"
        id="path40946"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
@@ -2830,88 +2807,59 @@
        sodipodi:nodetypes="cc" />
     <path
        id="path40948"
-       style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 676.03197,-1623.2729 h 24.93093 l 7.78128,7.0901 -7.78128,7.0901 h -24.93093 z"
+       style="display:inline;fill:#0066ff;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 861.67922,-1556.5322 h 24.93093 l 7.78128,7.0901 -7.78128,7.0901 h -24.93093 z"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="679.98651"
-       y="-1613.1747"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="864.32892"
+       y="-1546.4327"
        id="text40952"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="679.98651"
-         y="-1613.1747"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         x="864.32892"
+         y="-1546.4327"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#ffffff;stroke-width:0.264583"
          id="tspan40950">addr</tspan></text>
     <rect
-       style="display:inline;fill:#f2f2f2;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#f2f2f2;stroke:#000000;stroke-width:0.793749;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect42263"
        width="87.927101"
-       height="39.752571"
-       x="924.04541"
-       y="-1562.0543"
+       height="71.024422"
+       x="673.93079"
+       y="-1595.8541"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5432px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="967.54895"
-       y="-1548.3163"
+       x="717.43427"
+       y="-1567.3577"
        id="text42269"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="967.54895"
-         y="-1548.3163"
+         x="717.43427"
+         y="-1567.3577"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
          id="tspan42267">Lógica</tspan><tspan
          sodipodi:role="line"
-         x="967.54895"
-         y="-1532.6373"
+         x="717.43427"
+         y="-1551.6787"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
          id="tspan42659">de selección</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="980.43427"
-       y="-1464.3174"
-       id="text42287"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
-         sodipodi:role="line"
-         x="980.43427"
-         y="-1464.3174"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
-         id="tspan42285">32</tspan></text>
-    <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 982.3662,-1449.8227 5.7447,-11.3567"
-       id="path42289"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:1.58749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
-       d="m 965.9764,-1455.7863 h 41.6904"
-       id="path42291"
-       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"
-       sodipodi:nodetypes="cc" />
     <path
        id="path42293"
        style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1103.8414,-1557.8108 h -40.9774 l -7.7813,7.0901 7.7813,7.0901 h 40.9774 z"
+       d="m 825.66701,-1591.6108 h -36.7229 l -7.7813,7.0901 7.7813,7.0901 h 36.7229 z"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
        inkscape:export-xdpi="96"
@@ -2919,41 +2867,41 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="1064.5121"
-       y="-1547.7123"
+       x="787.66107"
+       y="-1581.9943"
        id="text42297"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="1064.5121"
-         y="-1547.7123"
+         x="787.66107"
+         y="-1581.9943"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
          id="tspan42295">cs_rom</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="894.36615"
-       y="-1551.5665"
+       x="644.25153"
+       y="-1571.4462"
        id="text42301"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="894.36615"
-         y="-1551.5665"
+         x="644.25153"
+         y="-1571.4462"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
          id="tspan42299">32</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 896.29816,-1537.0716 5.74467,-11.3567"
+       d="m 646.1835,-1556.9513 5.74467,-11.3567"
        id="path42303"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1.58749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
-       d="m 879.90827,-1543.0352 h 41.69045"
+       d="m 629.79361,-1562.9149 h 41.69045"
        id="path42305"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
@@ -2961,8 +2909,38 @@
        sodipodi:nodetypes="cc" />
     <path
        id="path42307"
+       style="display:inline;fill:#0055d4;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 598.24384,-1570.0708 h 24.93093 l 7.78128,7.0901 -7.78128,7.0901 h -24.93093 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="601.34644"
+       y="-1559.4089"
+       id="text42311"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="601.34644"
+         y="-1559.4089"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#ffffff;stroke-width:0.264583"
+         id="tspan42309">addr</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.793748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
+       d="m 761.85781,-1584.5251 h 17.5669"
+       id="path48211"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path2626"
        style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 848.3585,-1550.1911 h 24.93093 l 7.78128,7.0901 -7.78128,7.0901 H 848.3585 Z"
+       d="m 824.21551,-1570.7918 h -35.2714 l -7.7813,7.0901 7.7813,7.0901 h 35.2714 z"
        sodipodi:nodetypes="cccccc"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
        inkscape:export-xdpi="96"
@@ -2970,21 +2948,542 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="852.31305"
-       y="-1540.0929"
-       id="text42311"
+       x="788.19037"
+       y="-1560.6932"
+       id="text2630"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         x="852.31305"
-         y="-1540.0929"
+         x="788.19037"
+         y="-1560.6932"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
-         id="tspan42309">addr</tspan></text>
+         id="tspan2628">cs_out</tspan></text>
     <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
-       d="m 1011.9725,-1550.7207 h 41.6905"
-       id="path48211"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.793748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
+       d="m 761.85781,-1563.7061 h 17.5669"
+       id="path2632"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path5871"
+       style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 815.50001,-1550.7593 h -26.5559 l -7.7813,7.0901 7.7813,7.0901 h 26.5559 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="788.3504"
+       y="-1540.6608"
+       id="text5875"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="788.3504"
+         y="-1540.6608"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan5873">cs_in</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.793748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
+       d="m 761.85781,-1543.6736 h 17.5669"
+       id="path5877"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="display:inline;fill:#f2f2f2;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9451"
+       width="55.354359"
+       height="93.729713"
+       x="464.56668"
+       y="-1486.1353"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5432px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="492.60025"
+       y="-1447.6132"
+       id="text9457"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="492.60025"
+         y="-1447.6132"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
+         id="tspan9455">Bus de</tspan><tspan
+         sodipodi:role="line"
+         x="492.60025"
+         y="-1431.9342"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
+         id="tspan10046">entrada</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="434.11581"
+       y="-1485.1985"
+       id="text9467"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="434.11581"
+         y="-1485.1985"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan9465">32</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 436.04778,-1470.7038 5.74467,-11.3567"
+       id="path9469"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.58749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
+       d="m 419.65789,-1476.6674 h 41.69045"
+       id="path9471"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path9473"
+       style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 388.10812,-1483.8233 h 24.93093 l 7.78128,7.0901 -7.78128,7.0901 h -24.93093 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="392.06271"
+       y="-1473.7249"
+       id="text9477"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="392.06271"
+         y="-1473.7249"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#ffffff;stroke-width:0.264583"
+         id="tspan9475">inst</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="434.11581"
+       y="-1458.2528"
+       id="text15480"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="434.11581"
+         y="-1458.2528"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan15478">32</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 436.04778,-1443.7581 5.74467,-11.3567"
+       id="path15482"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.58749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
+       d="m 419.65789,-1449.7217 h 41.69045"
+       id="path15484"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path15486"
+       style="display:inline;fill:#ff8080;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 378.96935,-1456.8776 h 34.0697 l 7.78128,7.0901 -7.78128,7.0901 h -34.0697 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="381.78622"
+       y="-1446.7792"
+       id="text15490"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="381.78622"
+         y="-1446.7792"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan15488">inport</tspan></text>
+    <path
+       id="path17699"
+       style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 400.73649,-1434.606 h 36.7229 l 7.7813,7.0901 -7.7813,7.0901 h -36.7229 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="403.49258"
+       y="-1424.9894"
+       id="text17703"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="403.49258"
+         y="-1424.9894"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan17701">cs_rom</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.793748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
+       d="m 445.42679,-1427.3861 h 17.5669"
+       id="path17705"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.793748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
+       d="m 445.42679,-1406.5671 h 17.5669"
+       id="path17713"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path17715"
+       style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 410.83552,-1413.8521 h 26.5559 l 7.7813,7.0901 -7.7813,7.0901 h -26.5559 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="414.52133"
+       y="-1403.7535"
+       id="text17719"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="414.52133"
+         y="-1403.7535"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan17717">cs_in</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="526.31549"
+       y="-1451.8503"
+       id="text18433"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="526.31549"
+         y="-1451.8503"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan18431">32</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 528.24752,-1437.3556 5.74467,-11.3567"
+       id="path18435"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.58749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
+       d="m 520.23484,-1443.3232 h 30.91113"
+       id="path18437"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path18439"
+       style="display:inline;fill:#c6e9af;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 585.89542,-1450.3625 h -24.34663 l -7.78128,7.0901 7.78128,7.0901 h 24.34663 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="560.23053"
+       y="-1440.2639"
+       id="text18443"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="560.23053"
+         y="-1440.2639"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan18441">data</tspan></text>
+    <rect
+       style="display:inline;fill:#f2f2f2;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect19371"
+       width="67.904404"
+       height="116.05688"
+       x="937.36621"
+       y="-1507.7526"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5432px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="971.00635"
+       y="-1459.4149"
+       id="text19377"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="971.00635"
+         y="-1459.4149"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
+         id="tspan19373">Puerto de</tspan><tspan
+         sodipodi:role="line"
+         x="971.00635"
+         y="-1443.736"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
+         id="tspan19375">salida</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 937.55998,-1501.1424 3.6274,3.6273 -3.6274,3.6273"
+       id="path19379"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path19381"
+       style="display:inline;fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 900.83049,-1505.0358 h 15.0909 l 7.7813,7.0901 -7.7813,7.0901 h -15.0909 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="902.90668"
+       y="-1494.5887"
+       id="text19385"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="902.90668"
+         y="-1494.5887"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan19383">clk</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 923.23105,-1497.7939 h 14.12553"
+       id="path19387"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1010.5248"
+       y="-1478.7454"
+       id="text19395"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="1010.5248"
+         y="-1478.7454"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan19393">8</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1012.4569,-1464.2505 5.7446,-11.3567"
+       id="path19397"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.58749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
+       d="m 1005.814,-1470.2196 h 26.5927"
+       id="path19399"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path19401"
+       style="display:inline;fill:#ff8080;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1085.8957,-1477.2809 h -43.8047 l -7.7813,7.0901 7.7813,7.0901 h 43.8047 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1043.739"
+       y="-1467.1826"
+       id="text19405"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="1043.739"
+         y="-1467.1826"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan19403">outport</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="907.68689"
+       y="-1469.4709"
+       id="text19409"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="907.68689"
+         y="-1469.4709"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan19407">32</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 909.61888,-1454.9759 5.74467,-11.3567"
+       id="path19411"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.58749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
+       d="m 900.37037,-1460.942 h 34.9378"
+       id="path19413"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path19415"
+       style="display:inline;fill:#00d4aa;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 861.06081,-1468.0954 h 32.20127 l 7.78128,7.0901 -7.78128,7.0901 h -32.20127 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="864.74213"
+       y="-1457.9973"
+       id="text19419"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="864.74213"
+         y="-1457.9973"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan19417">wdata</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="906.52759"
+       y="-1439.5106"
+       id="text28635"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="906.52759"
+         y="-1439.5106"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan28633">4</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 909.61888,-1428.9185 5.74467,-11.3567"
+       id="path28637"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:1.58749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
+       d="m 899.58052,-1434.8843 h 35.68466"
+       id="path28639"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path28641"
+       style="display:inline;fill:#eed7f4;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 856.78394,-1442.038 h 35.72436 l 7.78128,7.0901 -7.78128,7.0901 h -35.72436 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="860.11963"
+       y="-1431.9399"
+       id="text28645"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="860.11963"
+         y="-1431.9399"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan28643">wmask</tspan></text>
+    <path
+       id="path35088"
+       style="display:inline;fill:#eeaaff;stroke:#000000;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 875.59843,-1413.2245 h 35.2714 l 7.7813,7.0901 -7.7813,7.0901 h -35.2714 z"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="879.44934"
+       y="-1403.1259"
+       id="text35092"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-02.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="879.44934"
+         y="-1403.1259"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.264583"
+         id="tspan35090">cs_out</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.793748;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-23-9-6-6-1-0-2-7-08)"
+       d="m 918.44879,-1406.2191 h 17.5669"
+       id="path35094"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/S06/paralelo-03.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
