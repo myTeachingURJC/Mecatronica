@@ -30,6 +30,24 @@
           }
         },
         {
+          "id": "5a2d1c3b-8642-4f3b-bef7-5183c90c203b",
+          "type": "basic.memory",
+          "data": {
+            "name": "02-LEDs-on.hex",
+            "list": "00008437\nf0040413\n0ff00293\n00540023\n0000006f",
+            "local": false,
+            "format": 10
+          },
+          "position": {
+            "x": 592,
+            "y": 240
+          },
+          "size": {
+            "width": 264,
+            "height": 128
+          }
+        },
+        {
           "id": "a38298d6-477e-441b-ba27-8d285d0b9f67",
           "type": "basic.info",
           "data": {
@@ -37,8 +55,8 @@
             "readonly": true
           },
           "position": {
-            "x": 176,
-            "y": 112
+            "x": 184,
+            "y": 104
           },
           "size": {
             "width": 576,
