@@ -967,7 +967,8 @@
               }
             ],
             "virtual": true,
-            "blockColor": "fuchsia"
+            "blockColor": "deepskyblue",
+            "oldBlockColor": "yellow"
           },
           "position": {
             "x": 504,
@@ -1200,7 +1201,8 @@
               }
             ],
             "virtual": true,
-            "blockColor": "fuchsia"
+            "blockColor": "indianred",
+            "oldBlockColor": "darkgreen"
           },
           "position": {
             "x": -512,
@@ -1884,7 +1886,8 @@
               }
             ],
             "virtual": true,
-            "blockColor": "fuchsia"
+            "blockColor": "deepskyblue",
+            "oldBlockColor": "fuchsia"
           },
           "position": {
             "x": 848,
@@ -2029,7 +2032,8 @@
               }
             ],
             "virtual": true,
-            "blockColor": "fuchsia"
+            "blockColor": "indianred",
+            "oldBlockColor": "darkgreen"
           },
           "position": {
             "x": 168,
@@ -2464,6 +2468,22 @@
           "size": {
             "width": 528,
             "height": 40
+          }
+        },
+        {
+          "id": "4f839be2-85c1-43c6-b81c-55b6b7eb4f43",
+          "type": "basic.info",
+          "data": {
+            "info": "**FEMTORV**",
+            "readonly": true
+          },
+          "position": {
+            "x": 336,
+            "y": -160
+          },
+          "size": {
+            "width": 104,
+            "height": 32
           }
         }
       ],
