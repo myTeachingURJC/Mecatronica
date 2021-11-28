@@ -62,7 +62,7 @@
             "virtual": false
           },
           "position": {
-            "x": 1336,
+            "x": 1208,
             "y": 208
           }
         },
@@ -115,22 +115,6 @@
           "size": {
             "width": 96,
             "height": 64
-          }
-        },
-        {
-          "id": "7332185b-f479-4812-ac12-dfec24b05a37",
-          "type": "basic.info",
-          "data": {
-            "info": "## LEDs",
-            "readonly": true
-          },
-          "position": {
-            "x": 1336,
-            "y": 136
-          },
-          "size": {
-            "width": 168,
-            "height": 40
           }
         },
         {
