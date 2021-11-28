@@ -96,8 +96,8 @@
           "id": "4728e93c-7cee-4aca-bfbd-efaf032f5260",
           "type": "basic.memory",
           "data": {
-            "name": "03-BTNs-LEDs.hex",
-            "list": "00008437\nf0040413\n00440283\n00540023\nff9ff06f",
+            "name": "04-Contador-reset.hex",
+            "list": "00008437\nf0040413\n00000493\n00940023\n00440283\n0012f313\n00030663\n00000493\nfedff06f\n00148493\n008000ef\nfe1ff06f\n000102b7\nfff28293\nfff28293\nfe029ee3\n00008067",
             "local": false,
             "format": 10
           },
@@ -142,7 +142,7 @@
           "id": "548537d2-05af-4772-8269-4a4a038e8fd5",
           "type": "basic.info",
           "data": {
-            "info": "## EJEMPLO: Mostrar los pulsadores en los LEDs",
+            "info": "## EJEMPLO: Contador con reset",
             "readonly": true
           },
           "position": {
