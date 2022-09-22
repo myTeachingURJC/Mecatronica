@@ -2,7 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="614.72467"
+   width="703.54895"
    height="380.93265"
    id="svg2"
    version="1.1"
@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="272.94322"
-     inkscape:cy="214.25335"
+     inkscape:zoom="1.9046294"
+     inkscape:cx="351.77448"
+     inkscape:cy="190.32574"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1080"
@@ -42,6 +42,22 @@
      inkscape:deskcolor="#d1d1d1"
      showguides="true" /><defs
      id="defs4"><marker
+       style="overflow:visible"
+       id="marker13116"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"><path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path13114" /></marker><marker
        style="overflow:visible"
        id="TriangleStart"
        refX="0"
@@ -70,13 +86,13 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Back"
-     transform="translate(7.0409684,-51.583679)"
+     transform="translate(7.0409689,-51.583679)"
      style="display:inline"><rect
        style="fill:#ffffff;stroke:none;stroke-width:3.75169"
        id="rect5130"
-       width="614.72467"
+       width="703.54895"
        height="380.93265"
-       x="-7.0409684"
+       x="-7.0409689"
        y="51.583679" /></g><g
      transform="translate(-900.52332,-366.4289)"
      id="layer1"
@@ -90,8 +106,8 @@
          style="fill:#aaccff;stroke:#000000"
          d="m 57.046,-5.346 2.516,-0.236 3.904,0.587 6.527,2.783 v 4.424 l -6.527,2.783 -3.904,0.587 -2.516,-0.236 -1.14,7.198 2.465,0.553 3.532,1.765 5.348,4.664 -1.367,4.206 -7.068,0.63 -3.894,-0.648 -2.32,-1.001 -3.309,6.493 2.174,1.288 2.814,2.769 3.645,6.089 -2.6,3.578 -6.917,-1.585 -3.504,-1.82 -1.896,-1.669 -5.153,5.153 1.669,1.896 1.82,3.504 1.585,6.917 -3.578,2.6 -6.089,-3.645 -2.769,-2.814 -1.288,-2.174 -6.493,3.309 1.001,2.32 0.648,3.894 -0.63,7.068 -4.206,1.367 -4.664,-5.348 -1.765,-3.532 -0.553,-2.465 -7.198,1.14 0.236,2.516 -0.587,3.904 -2.783,6.527 h -4.424 l -2.783,-6.527 -0.587,-3.904 0.236,-2.516 -7.198,-1.14 -0.553,2.465 -1.765,3.532 -4.664,5.348 -4.206,-1.367 -0.63,-7.068 0.648,-3.894 1.001,-2.32 -6.493,-3.309 -1.288,2.174 -2.769,2.814 -6.089,3.645 -3.578,-2.6 1.585,-6.917 1.82,-3.504 1.669,-1.896 -5.153,-5.153 -1.896,1.669 -3.504,1.82 -6.917,1.585 -2.6,-3.578 3.645,-6.089 2.814,-2.769 2.174,-1.288 -3.309,-6.493 -2.32,1.001 -3.894,0.648 -7.068,-0.63 -1.367,-4.206 5.348,-4.664 3.532,-1.765 2.465,-0.553 -1.14,-7.198 -2.516,0.236 -3.904,-0.587 -6.527,-2.783 v -4.424 l 6.527,-2.783 3.904,-0.587 2.516,0.236 1.14,-7.198 -2.465,-0.553 -3.532,-1.765 -5.348,-4.664 1.367,-4.206 7.068,-0.63 3.894,0.648 2.32,1.001 3.309,-6.493 -2.174,-1.288 -2.814,-2.769 -3.645,-6.089 2.6,-3.578 6.917,1.585 3.504,1.82 1.896,1.669 5.153,-5.153 -1.669,-1.896 -1.82,-3.504 -1.585,-6.917 3.578,-2.6 6.089,3.645 2.769,2.814 1.288,2.174 6.493,-3.309 -1.001,-2.32 -0.648,-3.894 0.63,-7.068 4.206,-1.367 4.664,5.348 1.765,3.532 0.553,2.465 7.198,-1.14 -0.236,-2.516 0.587,-3.904 2.783,-6.527 h 4.424 l 2.783,6.527 0.587,3.904 -0.236,2.516 7.198,1.14 0.553,-2.465 1.765,-3.532 4.664,-5.348 4.206,1.367 0.63,7.068 -0.648,3.894 -1.001,2.32 6.493,3.309 1.288,-2.174 2.769,-2.814 6.089,-3.645 3.578,2.6 -1.585,6.917 -1.82,3.504 -1.669,1.896 5.153,5.153 1.896,-1.669 3.504,-1.82 6.917,-1.585 2.6,3.578 -3.645,6.089 -2.814,2.769 -2.174,1.288 3.309,6.493 2.32,-1.001 3.894,-0.648 7.068,0.63 1.367,4.206 -5.348,4.664 -3.532,1.765 -2.465,0.553 z"
          id="path3034" /></g><image
-       width="156.60915"
-       height="208.89481"
+       width="221.85312"
+       height="295.92117"
        preserveAspectRatio="none"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAngAAANLCAIAAABdbHfaAAAAA3NCSVQICAjb4U/gAAASYElEQVR4
 nO3d2+8f9F3HcUq/QAVsoIW2KyBYDgGyJnTGU2YkMV6MrPOCGGK4cWYBcY4oGM3EQ7Z4IDpMHIO4
@@ -179,9 +195,9 @@ FgBCQgsAIaEFgJDQAkBIaAEgJLQAEBJaAAgJLQCEhBYAQotlH8Aq8eJzT81HjjjiiPnIxo0b5yMA
 tAAQEloACAktAISEFgBCQgsAIaEFgND/AJcyOT2XkW7zAAAAAElFTkSuQmCC
 "
        id="image6388"
-       x="1313.0767"
-       y="463.97296"
-       style="stroke-width:7.57" /><rect
+       x="1336.988"
+       y="423.25864"
+       style="stroke-width:5.34377" /><rect
        style="fill:none;stroke:#ff0000;stroke-width:1.87584;stroke-dasharray:3.75167, 1.87584;stroke-dashoffset:0"
        id="rect6392"
        width="47.841789"
@@ -190,10 +206,10 @@ tAAQEloACAktAISEFgBCQgsAIaEFgND/AJcyOT2XkW7zAAAAAElFTkSuQmCC
        y="539.30048" /><rect
        style="fill:none;stroke:#ff0000;stroke-width:3;stroke-dasharray:6.00001, 3;stroke-dashoffset:0"
        id="rect10104"
-       width="154.73331"
-       height="207.01897"
-       x="1314.0146"
-       y="464.91089" /><text
+       width="224.16464"
+       height="299.46552"
+       x="1335.2744"
+       y="421.62628" /><text
        xml:space="preserve"
        style="font-size:21.3333px;fill:#000000;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0"
        x="983.99249"
@@ -206,17 +222,37 @@ tAAQEloACAktAISEFgBCQgsAIaEFgND/AJcyOT2XkW7zAAAAAElFTkSuQmCC
          y="427.21271"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1">Imagen de píxeles</tspan></text><path
        style="fill:#000000;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleStart)"
-       d="m 1217.6756,575.00688 77.2566,-1.75025"
+       d="m 1215.6903,575.00688 106.6566,0.61043"
        id="path11081"
        sodipodi:nodetypes="cc" /><text
        xml:space="preserve"
        style="font-size:21.3333px;fill:#000000;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0"
-       x="1230.6075"
-       y="551.22528"
+       x="1233.4833"
+       y="562.36243"
        id="text11139"
        transform="scale(0.99963664,1.0003635)"><tspan
          sodipodi:role="line"
          id="tspan11137"
-         x="1230.6075"
-         y="551.22528"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1">Zoom</tspan></text></g></svg>
+         x="1233.4833"
+         y="562.36243"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1">Zoom</tspan></text><text
+       xml:space="preserve"
+       style="font-size:16px;fill:#000000;stroke:#000000;stroke-width:1;stroke-dasharray:none;stroke-dashoffset:0"
+       x="1502.6968"
+       y="566.25"
+       id="text12848"
+       transform="scale(0.99963664,1.0003635)"><tspan
+         sodipodi:role="line"
+         id="tspan12846"
+         x="1502.6968"
+         y="566.25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:1">Pixel</tspan></text><ellipse
+       style="fill:none;stroke:#ffff00;stroke-width:2;stroke-dasharray:3.99998, 2;stroke-dashoffset:0"
+       id="path13004"
+       cx="1465.6781"
+       cy="521.99677"
+       rx="7.9988666"
+       ry="7.9988623" /><path
+       style="fill:#ff0000;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#marker13116)"
+       d="m 1500.1921,562.14219 -23.4978,-26.84262"
+       id="path13112" /></g></svg>
