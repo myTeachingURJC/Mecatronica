@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg667"
+   inkscape:version="1.2.1 (0f2f062aeb, 2022-09-21, custom)"
+   sodipodi:docname="Intro-07.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview669"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="2.3786088"
+     inkscape:cx="157.23477"
+     inkscape:cy="294.49988"
+     inkscape:window-width="1860"
+     inkscape:window-height="1016"
+     inkscape:window-x="60"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="37.455203,232.84621"
+       orientation="1,0"
+       id="guide1663"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="47.454349,222.84706"
+       orientation="0,-1"
+       id="guide1665"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs664">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#000000;stroke-width:2.64583"
+       x="19.72855"
+       y="47.877403"
+       id="text725"><tspan
+         sodipodi:role="line"
+         id="tspan723"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;stroke-width:2.64583"
+         x="19.72855"
+         y="47.877403">Imagen vectorial</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;stroke-width:2.64583"
+         x="19.72855"
+         y="53.169067"
+         id="tspan982">en memoria</tspan></text>
+    <circle
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none"
+       id="path984"
+       cx="37.455204"
+       cy="74.152946"
+       r="9.9991465" />
+    <circle
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.79375;stroke-dasharray:none"
+       id="path1719"
+       cx="37.455204"
+       cy="74.152946"
+       r="0.5445745" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#000000;stroke-width:2.64583"
+       x="12.711977"
+       y="90.639885"
+       id="text1725"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;fill:#000000;stroke-width:2.64583"
+         x="12.711977"
+         y="90.639885"
+         id="tspan1723">centro (x,y)</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264584;stroke-dasharray:none;marker-end:url(#TriangleStart)"
+       d="M 25.222685,86.125595 36.20965,75.393386"
+       id="path1833" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264584;stroke-dasharray:none;marker-end:url(#TriangleStart)"
+       d="M 37.547644,74.058305 31.617676,67.727202"
+       id="path2058"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
