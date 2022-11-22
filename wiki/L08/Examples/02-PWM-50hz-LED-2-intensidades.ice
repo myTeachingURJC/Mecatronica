@@ -70,6 +70,19 @@
           }
         },
         {
+          "id": "47e64997-faa2-4a22-b5e0-af954b3d4a39",
+          "type": "basic.constant",
+          "data": {
+            "name": "max (50Hz)",
+            "value": "240000-1",
+            "local": false
+          },
+          "position": {
+            "x": 416,
+            "y": 32
+          }
+        },
+        {
           "id": "faa2437c-7bba-4912-8235-8cefd6f461ab",
           "type": "basic.constant",
           "data": {
@@ -78,8 +91,8 @@
             "local": false
           },
           "position": {
-            "x": 408,
-            "y": 240
+            "x": 432,
+            "y": 440
           }
         },
         {
@@ -91,21 +104,8 @@
             "local": false
           },
           "position": {
-            "x": 408,
-            "y": 432
-          }
-        },
-        {
-          "id": "47e64997-faa2-4a22-b5e0-af954b3d4a39",
-          "type": "basic.constant",
-          "data": {
-            "name": "max (50Hz)",
-            "value": "240000-1",
-            "local": false
-          },
-          "position": {
-            "x": 416,
-            "y": 32
+            "x": 432,
+            "y": 240
           }
         },
         {
@@ -148,7 +148,7 @@
           "id": "931cd4c5-d9dd-4434-8de9-3d9aeb22fb63",
           "type": "basic.info",
           "data": {
-            "info": "Anchura total: Periodo",
+            "info": "Anchura total: Periodo (T)",
             "readonly": true
           },
           "position": {
@@ -156,16 +156,16 @@
             "y": -16
           },
           "size": {
-            "width": 192,
-            "height": 48
+            "width": 216,
+            "height": 40
           }
         },
         {
           "id": "a4c92dbd-c8a8-4662-9ba7-0f9558de34ff",
           "type": "95d0aeb748ac78b1801cd0f424b4cf9296c0b999",
           "position": {
-            "x": 408,
-            "y": 352
+            "x": 432,
+            "y": 552
           },
           "size": {
             "width": 96,
@@ -192,7 +192,7 @@
           "id": "9c9513d9-1051-4f7c-94da-7e1e704fb0fa",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 2: PWM a 50Hz. LED a dos intensidades",
+            "info": "## Ejemplo 2: PWM a 50Hz. LED a dos intensidades\n\nEl LED0 luce al 10%. Al apretar el pulsador, pasa al 60%",
             "readonly": true
           },
           "position": {
@@ -200,16 +200,16 @@
             "y": -128
           },
           "size": {
-            "width": 560,
-            "height": 40
+            "width": 648,
+            "height": 72
           }
         },
         {
           "id": "a17ddf78-7349-4be3-b807-c6e728f82dc5",
           "type": "95d0aeb748ac78b1801cd0f424b4cf9296c0b999",
           "position": {
-            "x": 408,
-            "y": 544
+            "x": 432,
+            "y": 352
           },
           "size": {
             "width": 96,
@@ -253,6 +253,86 @@
           },
           "size": {
             "width": 208,
+            "height": 56
+          }
+        },
+        {
+          "id": "a4b48094-7e59-4dbf-b0dc-511589de2b4e",
+          "type": "basic.info",
+          "data": {
+            "info": "Parámetro W0",
+            "readonly": true
+          },
+          "position": {
+            "x": 320,
+            "y": 256
+          },
+          "size": {
+            "width": 120,
+            "height": 32
+          }
+        },
+        {
+          "id": "02e59252-6574-4d93-8323-2016fa8d3c2d",
+          "type": "basic.info",
+          "data": {
+            "info": "Parámetro W1",
+            "readonly": true
+          },
+          "position": {
+            "x": 320,
+            "y": 456
+          },
+          "size": {
+            "width": 120,
+            "height": 32
+          }
+        },
+        {
+          "id": "7f63dc2c-ae64-467c-9689-1242cfa844ac",
+          "type": "basic.info",
+          "data": {
+            "info": "Contador del sistema",
+            "readonly": true
+          },
+          "position": {
+            "x": 640,
+            "y": 200
+          },
+          "size": {
+            "width": 176,
+            "height": 32
+          }
+        },
+        {
+          "id": "1bdffb22-d8f0-4ff0-aa48-d876c6fce740",
+          "type": "basic.info",
+          "data": {
+            "info": "Multiplexor 2-1",
+            "readonly": true
+          },
+          "position": {
+            "x": 736,
+            "y": 472
+          },
+          "size": {
+            "width": 144,
+            "height": 40
+          }
+        },
+        {
+          "id": "ff69105a-69fc-45ae-88de-51197694a87b",
+          "type": "basic.info",
+          "data": {
+            "info": "Anchura  \nseleccionada",
+            "readonly": true
+          },
+          "position": {
+            "x": 888,
+            "y": 296
+          },
+          "size": {
+            "width": 128,
             "height": 56
           }
         }
@@ -346,34 +426,6 @@
         },
         {
           "source": {
-            "block": "a4c92dbd-c8a8-4662-9ba7-0f9558de34ff",
-            "port": "d1f5a9f1-76b5-430e-a1db-2273ba3d5497"
-          },
-          "target": {
-            "block": "f6b0b676-333e-45ba-9fb9-6dead98b05f7",
-            "port": "c09fcce6-8b8d-44d3-80b6-17db5be99edb"
-          },
-          "size": 20
-        },
-        {
-          "source": {
-            "block": "a17ddf78-7349-4be3-b807-c6e728f82dc5",
-            "port": "d1f5a9f1-76b5-430e-a1db-2273ba3d5497"
-          },
-          "target": {
-            "block": "f6b0b676-333e-45ba-9fb9-6dead98b05f7",
-            "port": "c1a5bddd-dc0b-4fa0-bc7b-94760bdd5ba1"
-          },
-          "vertices": [
-            {
-              "x": 568,
-              "y": 496
-            }
-          ],
-          "size": 20
-        },
-        {
-          "source": {
             "block": "1454ce3b-ab14-4aa0-8c2a-4422114b2ddf",
             "port": "out"
           },
@@ -392,6 +444,34 @@
             "block": "f6b0b676-333e-45ba-9fb9-6dead98b05f7",
             "port": "08fac044-f451-4fb7-9668-f5bce3b40c2c"
           }
+        },
+        {
+          "source": {
+            "block": "a17ddf78-7349-4be3-b807-c6e728f82dc5",
+            "port": "d1f5a9f1-76b5-430e-a1db-2273ba3d5497"
+          },
+          "target": {
+            "block": "f6b0b676-333e-45ba-9fb9-6dead98b05f7",
+            "port": "c09fcce6-8b8d-44d3-80b6-17db5be99edb"
+          },
+          "size": 20
+        },
+        {
+          "source": {
+            "block": "a4c92dbd-c8a8-4662-9ba7-0f9558de34ff",
+            "port": "d1f5a9f1-76b5-430e-a1db-2273ba3d5497"
+          },
+          "target": {
+            "block": "f6b0b676-333e-45ba-9fb9-6dead98b05f7",
+            "port": "c1a5bddd-dc0b-4fa0-bc7b-94760bdd5ba1"
+          },
+          "vertices": [
+            {
+              "x": 616,
+              "y": 496
+            }
+          ],
+          "size": 20
         }
       ]
     }
