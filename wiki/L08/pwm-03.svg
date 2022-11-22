@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="237.36128mm"
+   height="129.21173mm"
+   viewBox="0 0 237.36128 129.21173"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (8a69933317, 2022-10-28, custom)"
+   sodipodi:docname="pwm-03.svg"
+   inkscape:export-filename="../36c09cd4/pwm-03.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.68684764"
+     inkscape:cx="377.08508"
+     inkscape:cy="278.81001"
+     inkscape:window-width="1860"
+     inkscape:window-height="1016"
+     inkscape:window-x="60"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker1345"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1343" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(14.66724,-9.9620047)">
+    <rect
+       style="fill:#f9f9f9;stroke:none;stroke-width:0.529167;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect1705"
+       width="237.36128"
+       height="129.21173"
+       x="-14.66724"
+       y="9.9620047" />
+  </g>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(14.66724,-9.9620047)">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
+       x="90.839287"
+       y="21.905947"
+       id="text236"><tspan
+         sodipodi:role="line"
+         id="tspan234"
+         style="fill:#000000;stroke-width:0.529"
+         x="90.839287"
+         y="21.905947">Señal periódica </tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke-width:0.529"
+         x="91.576195"
+         y="27.197609"
+         id="tspan500">(Periodo de T ciclos) </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none"
+       d="M 10.277065,109.49974 H 24.242481 V 59.108069 h 52.278455 v 50.391671 h 75.471254"
+       id="path564" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:1.05833, 1.05833;stroke-dashoffset:0"
+       d="M 24.242481,42.106834 V 129.72734"
+       id="path1120" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:1.05833, 1.05833;stroke-dashoffset:0"
+       d="M 151.99219,42.106834 V 129.72734"
+       id="path1122" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#marker1345);marker-end:url(#TriangleStart)"
+       d="M 25.802604,118.91519 H 149.87983"
+       id="path1124" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
+       x="81.224541"
+       y="126.28305"
+       id="text1413"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke-width:0.529"
+         x="81.224541"
+         y="126.28305"
+         id="tspan1411">T ciclos (Periodo)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529165;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#marker1345);marker-end:url(#TriangleStart)"
+       d="M 25.777149,51.830161 H 74.6819"
+       id="path1479" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529"
+       x="50.341068"
+       y="48.800041"
+       id="text1491"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke-width:0.529"
+         x="50.341068"
+         y="48.800041"
+         id="tspan1489">W ciclos (Anchura)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none"
+       d="M 152.38906,109.49974 V 59.108069 h 52.27846"
+       id="path1529"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>
