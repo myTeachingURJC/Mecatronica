@@ -146,17 +146,17 @@
           }
         },
         {
-          "id": "a2e5d5d7-e1dc-4488-9b23-b7585f63d5a2",
+          "id": "0b7d72dc-3938-4483-851c-ba90bd712712",
           "type": "basic.memory",
           "data": {
             "name": "Tabla velocidades (IZQ)",
-            "list": "0x4480  //-- Stop\n0x4a38  //-- FW\n0x3a98  //-- BW",
+            "list": "0x4400  //-- Stop\n0x4a38  //-- FW\n0x3a98  //-- BW",
             "local": false,
             "format": 10
           },
           "position": {
             "x": 1752,
-            "y": -672
+            "y": -688
           },
           "size": {
             "width": 224,
@@ -164,11 +164,11 @@
           }
         },
         {
-          "id": "8ca6dccb-abd8-4b80-a2a5-abc30c647085",
+          "id": "f5c63acb-1111-4190-bd17-faf1de172d1c",
           "type": "basic.memory",
           "data": {
             "name": "Tabla velocidades (DER)",
-            "list": "0x4362  //-- Stop\n0x3a98  //-- FW\n0x4a38  //-- BW",
+            "list": "0x4330  //-- Stop\n0x3a98  //-- FW\n0x4a38  //-- BW",
             "local": false,
             "format": 10
           },
@@ -309,16 +309,6 @@
       "wires": [
         {
           "source": {
-            "block": "a2e5d5d7-e1dc-4488-9b23-b7585f63d5a2",
-            "port": "memory-out"
-          },
-          "target": {
-            "block": "bbfaee00-c871-4466-82d7-d4a27dca8faa",
-            "port": "9d93d374-4e3c-4908-a9a9-10e751da2391"
-          }
-        },
-        {
-          "source": {
             "block": "bbfaee00-c871-4466-82d7-d4a27dca8faa",
             "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
           },
@@ -335,16 +325,6 @@
           "target": {
             "block": "8e8dd224-ffb5-49c6-b592-5a9e72408fac",
             "port": "in"
-          }
-        },
-        {
-          "source": {
-            "block": "8ca6dccb-abd8-4b80-a2a5-abc30c647085",
-            "port": "memory-out"
-          },
-          "target": {
-            "block": "b1db0b01-fadb-4243-bfbe-99308cce4c7d",
-            "port": "9d93d374-4e3c-4908-a9a9-10e751da2391"
           }
         },
         {
@@ -485,6 +465,26 @@
           "target": {
             "block": "501ba7ae-dced-478a-89b5-3d5890116ba1",
             "port": "e4111201-8441-4e7d-bcd2-bcf9d265d043"
+          }
+        },
+        {
+          "source": {
+            "block": "f5c63acb-1111-4190-bd17-faf1de172d1c",
+            "port": "memory-out"
+          },
+          "target": {
+            "block": "b1db0b01-fadb-4243-bfbe-99308cce4c7d",
+            "port": "9d93d374-4e3c-4908-a9a9-10e751da2391"
+          }
+        },
+        {
+          "source": {
+            "block": "0b7d72dc-3938-4483-851c-ba90bd712712",
+            "port": "memory-out"
+          },
+          "target": {
+            "block": "bbfaee00-c871-4466-82d7-d4a27dca8faa",
+            "port": "9d93d374-4e3c-4908-a9a9-10e751da2391"
           }
         }
       ]

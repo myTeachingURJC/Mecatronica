@@ -125,13 +125,13 @@
           "type": "basic.memory",
           "data": {
             "name": "Tabla velocidades (DER)",
-            "list": "0x4362  //-- Stop\n0x3a98  //-- FW\n0x4a38  //-- BW",
+            "list": "0x4330  //-- Stop\n0x3a98  //-- FW\n0x4a38  //-- BW",
             "local": false,
             "format": 10
           },
           "position": {
-            "x": 1096,
-            "y": -240
+            "x": 888,
+            "y": -304
           },
           "size": {
             "width": 224,
@@ -143,13 +143,13 @@
           "type": "basic.memory",
           "data": {
             "name": "Tabla velocidades (IZQ)",
-            "list": "0x43f8  //-- Stop\n0x4a38  //-- FW\n0x3a98  //-- BW",
+            "list": "0x4400  //-- Stop\n0x4a38  //-- FW\n0x3a98  //-- BW",
             "local": false,
             "format": 10
           },
           "position": {
-            "x": 1520,
-            "y": -240
+            "x": 1160,
+            "y": -272
           },
           "size": {
             "width": 224,
@@ -482,22 +482,22 @@
         },
         {
           "source": {
-            "block": "b6fec15c-b909-4b18-b581-6fb031c59dc5",
-            "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
-          },
-          "target": {
-            "block": "8e8dd224-ffb5-49c6-b592-5a9e72408fac",
-            "port": "in"
-          }
-        },
-        {
-          "source": {
-            "block": "8ca6dccb-abd8-4b80-a2a5-abc30c647085",
+            "block": "a2e5d5d7-e1dc-4488-9b23-b7585f63d5a2",
             "port": "memory-out"
           },
           "target": {
             "block": "74e71d5a-e8b1-4372-803e-ba0e60baafb8",
             "port": "c71c44ac-0500-4eb5-9c1c-4ea21cd78377"
+          }
+        },
+        {
+          "source": {
+            "block": "b6fec15c-b909-4b18-b581-6fb031c59dc5",
+            "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
+          },
+          "target": {
+            "block": "e83ccb6a-8ac0-4d13-bf30-5f2de217c176",
+            "port": "in"
           }
         }
       ]
