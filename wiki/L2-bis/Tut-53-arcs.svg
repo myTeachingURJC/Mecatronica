@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   sodipodi:docname="Tut-53-arcs.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="1"
+     inkscape:cx="368"
+     inkscape:cy="365.5"
+     inkscape:window-width="1864"
+     inkscape:window-height="1016"
+     inkscape:window-x="56"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linejoin:round;stroke-dasharray:none"
+       id="path24"
+       sodipodi:type="arc"
+       sodipodi:cx="134.56441"
+       sodipodi:cy="135.07608"
+       sodipodi:rx="25.385834"
+       sodipodi:ry="25.385834"
+       sodipodi:start="0"
+       sodipodi:end="5.5293825"
+       sodipodi:arc-type="slice"
+       d="m 159.95024,135.07608 a 25.385834,25.385834 0 0 1 -20.63012,24.93639 25.385834,25.385834 0 0 1 -28.3597,-15.59336 25.385834,25.385834 0 0 1 10.00446,-30.77883 25.385834,25.385834 0 0 1 32.10812,4.06132 l -18.50859,17.37448 z" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linejoin:round;stroke-dasharray:none"
+       id="path25"
+       cx="63.125805"
+       cy="56.082642"
+       r="25.385834" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linejoin:round;stroke-dasharray:none"
+       id="path26"
+       sodipodi:type="arc"
+       sodipodi:cx="134.56204"
+       sodipodi:cy="56.346264"
+       sodipodi:rx="25.385834"
+       sodipodi:ry="25.385834"
+       sodipodi:start="1.0341195"
+       sodipodi:end="5.5293825"
+       sodipodi:arc-type="arc"
+       d="m 147.54138,78.163167 a 25.385834,25.385834 0 0 1 -33.80056,-7.293914 25.385834,25.385834 0 0 1 4.83063,-34.239515 25.385834,25.385834 0 0 1 34.49919,2.342048"
+       sodipodi:open="true" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linejoin:round;stroke-dasharray:none"
+       id="circle26"
+       sodipodi:type="arc"
+       sodipodi:cx="63.124477"
+       sodipodi:cy="136.72757"
+       sodipodi:rx="25.385834"
+       sodipodi:ry="25.385834"
+       sodipodi:start="0.87851471"
+       sodipodi:end="5.4049592"
+       sodipodi:open="true"
+       sodipodi:arc-type="chord"
+       d="m 79.328134,156.26937 a 25.385834,25.385834 0 0 1 -34.704251,-2.1588 25.385834,25.385834 0 0 1 0.005,-34.77134 25.385834,25.385834 0 0 1 34.704873,-2.14879 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linejoin:round;stroke-dasharray:none"
+       x="40.45908"
+       y="23.682631"
+       id="text26"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         style="fill:#000000;stroke:none;stroke-width:0.529167"
+         x="40.45908"
+         y="23.682631">Circunferencia/Elipse</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linejoin:round;stroke-dasharray:none"
+       x="128.54767"
+       y="23.682631"
+       id="text27"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         style="fill:#000000;stroke:none;stroke-width:0.529167"
+         x="128.54767"
+         y="23.682631">Arco</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linejoin:round;stroke-dasharray:none"
+       x="47.592846"
+       y="99.185852"
+       id="text28"><tspan
+         sodipodi:role="line"
+         id="tspan28"
+         style="fill:#000000;stroke:none;stroke-width:0.529167"
+         x="47.592846"
+         y="99.185852">Arco cerrado </tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:0.529167"
+         x="47.592846"
+         y="105.80044"
+         id="tspan29">por segmento</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linejoin:round;stroke-dasharray:none"
+       x="117.87332"
+       y="99.185852"
+       id="text31"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         style="fill:#000000;stroke:none;stroke-width:0.529167"
+         x="117.87332"
+         y="99.185852">Arco cerrado </tspan><tspan
+         sodipodi:role="line"
+         style="fill:#000000;stroke:none;stroke-width:0.529167"
+         x="117.87332"
+         y="105.80044"
+         id="tspan31">por dos radios</tspan></text>
+  </g>
+</svg>
