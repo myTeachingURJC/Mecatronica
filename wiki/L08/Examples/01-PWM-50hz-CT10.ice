@@ -154,6 +154,22 @@
             "width": 96,
             "height": 64
           }
+        },
+        {
+          "id": "1d32126b-00ff-42a6-b277-577fa8c07232",
+          "type": "basic.info",
+          "data": {
+            "info": "Freq: 50Hz",
+            "readonly": true
+          },
+          "position": {
+            "x": 560,
+            "y": 56
+          },
+          "size": {
+            "width": 104,
+            "height": 40
+          }
         }
       ],
       "wires": [
