@@ -170,6 +170,22 @@
             "width": 104,
             "height": 40
           }
+        },
+        {
+          "id": "288ab477-7242-4945-a3e8-73a3392a9330",
+          "type": "basic.info",
+          "data": {
+            "info": "Contador",
+            "readonly": true
+          },
+          "position": {
+            "x": 688,
+            "y": 96
+          },
+          "size": {
+            "width": 88,
+            "height": 40
+          }
         }
       ],
       "wires": [
