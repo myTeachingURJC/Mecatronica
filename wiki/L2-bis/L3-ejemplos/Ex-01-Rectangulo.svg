@@ -11,5 +11,7 @@
      * width, height: Anchura y altura del rectángulo 
      * fill: Color del relleno del rectángulo 
   -->
-  <rect width="200" height="100" x="10" y="10" fill="blue" />
+  <rect width="200" height="100" x="10" y="10" fill="blue">
+    
+  </rect>
 </svg> 
