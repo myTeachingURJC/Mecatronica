@@ -1,0 +1,24 @@
+ <svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- * Animar un circulo: Circulo en movimiento en horizontal
+      Hacia la derecha 
+  -->
+  <circle cx="50" cy="50" r="5" fill="red" >
+
+    <!-- 
+      * Atributo a animar: Coordenada x
+      * Animar desde el principio: begin="0s"
+      * Duracion de la animacion: dur="2s" (2 segundos)
+      * cx varia desde 50 a 200
+      * Repetir indefinidamente 
+    -->
+    <animate
+      attributeName="cx"
+      begin="0s"
+      dur="2s"
+      from="50"
+      to="200"
+      repeatCount="indefinite" />
+  </circle>
+</svg> 
+

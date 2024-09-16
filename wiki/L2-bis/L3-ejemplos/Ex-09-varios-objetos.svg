@@ -1,0 +1,14 @@
+<svg height="200" width="300" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Escritura de varios objetos -->
+
+    <!-- Rectángulo y texto -->
+    <text x="10" y="50" fill="black">Rectangulo</text>
+    <rect x="10" y="100" width="40" height="20" fill="green" />
+
+    <!-- Circulo y texto -->
+    <text x="150" y="50" fill="black">Circulo</text>  
+    <circle cx="170" cy="100" r="10"  fill="red" />
+
+</svg> 
+

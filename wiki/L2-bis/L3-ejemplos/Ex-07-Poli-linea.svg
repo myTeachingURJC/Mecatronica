@@ -1,0 +1,8 @@
+ 
+<svg height="210" width="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- * Dibujo de una polilinea:
+    * Mismos parámetros que un polígono: una lista de puntos 
+  -->
+   <polyline points="0,0 50,150 100,75 150,50 200,140 250,140" 
+     fill="none" stroke="green"/>
+</svg> 

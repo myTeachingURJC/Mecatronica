@@ -1,0 +1,8 @@
+ <svg height="200" width="200" xmlns="http://www.w3.org/2000/svg">
+
+    <!-- * Escritura de texto
+      * x,y: Coordenadas de la parte superior izquierda del texto 
+    -->
+  <text x="50" y="100" fill="green">¡SVG a tope!</text>
+</svg> 
+

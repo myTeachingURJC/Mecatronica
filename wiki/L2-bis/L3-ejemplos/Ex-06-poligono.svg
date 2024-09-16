@@ -1,0 +1,10 @@
+
+
+<svg height="220" width="500" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- * Dibujo de un triángulo azul, con trazo negro
+    * points: Secuencia de puntos x,y del poligono 
+  -->
+  <polygon points="10,10 100,10 50,150" fill="blue" stroke="black" />
+</svg> 
+
