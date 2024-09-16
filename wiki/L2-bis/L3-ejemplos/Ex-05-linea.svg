@@ -1,0 +1,12 @@
+ <svg height="200" width="300" xmlns="http://www.w3.org/2000/svg">
+
+   <!--  
+     Dibujar una línea recta:
+     * x1,y1: Punto inicial
+     * x2,y2: Punto final 
+     * Atributos de estilo:
+     * stroke : Color del trazo 
+    -->
+  <line x1="0" y1="0" x2="300" y2="200" stroke="red" />
+</svg> 
+
