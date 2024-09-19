@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="186.38397mm"
+   height="79.291504mm"
+   viewBox="0 0 186.38397 79.291506"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4-beta3 (01c8a1c, 2024-08-28)"
+   sodipodi:docname="Tut-98-nodos.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1.3558782"
+     inkscape:cx="355.12039"
+     inkscape:cy="172.21311"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-50.643964,-34.344693)">
+    <rect
+       style="fill:#ffffff;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect33"
+       width="182.84428"
+       height="75.518402"
+       x="52.009926"
+       y="36.491215" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+       d="m 67.618878,99.455094 c 0,0 -15.389971,-42.065332 4.201701,-42.164662 46.773871,-0.237143 10.793109,42.149102 10.793109,42.149102"
+       id="path1"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:round"
+       d="m 104.01949,98.408492 c 0,0 -11.267567,-41.1379 11.08221,-41.119045 22.34978,0.01885 9.11972,40.888025 9.11972,40.888025 v 0"
+       id="path2"
+       sodipodi:nodetypes="czcc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:round"
+       d="m 136.91906,98.409472 c 0,0 -11.26757,-41.137895 11.08221,-41.11904 16.27851,21.958208 9.11972,40.88802 9.11972,40.88802 v 0"
+       id="path3"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:round"
+       d="m 200.70124,98.541726 11.08221,-41.119044 9.11972,40.88802 v 0"
+       id="path4"
+       sodipodi:nodetypes="cccc" />
+    <circle
+       style="fill:#ff0000;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       id="circle9"
+       cx="71.820625"
+       cy="57.290432"
+       r="0.65225148" />
+    <circle
+       style="fill:#ff0000;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       id="circle10"
+       cx="115.29192"
+       cy="57.284187"
+       r="0.65225148" />
+    <circle
+       style="fill:#0000ff;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       id="circle11"
+       cx="148.01677"
+       cy="57.284187"
+       r="0.65225148" />
+    <circle
+       style="fill:#0000ff;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       id="circle12"
+       cx="211.79895"
+       cy="57.284187"
+       r="0.65225148" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff0000;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       x="69.962624"
+       y="45.077282"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="fill:#ff0000;stroke-width:0.264583"
+         x="69.962624"
+         y="45.077282">Nodo suave</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:round"
+       d="m 173.21473,98.409462 c 0.0995,-13.706344 -5.34308,-40.682073 11.08221,-41.119037 l 9.11972,40.888017 v 0"
+       id="path12"
+       sodipodi:nodetypes="cccc" />
+    <circle
+       style="fill:#0000ff;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       id="circle13"
+       cx="184.44104"
+       cy="57.284187"
+       r="0.65225148" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff0000;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       x="114.58569"
+       y="45.077282"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="fill:#ff0000;stroke-width:0.264583"
+         x="114.58569"
+         y="45.077282">Nodo suave</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ff0000;stroke-width:0.264583"
+         x="114.58569"
+         y="49.046032"
+         id="tspan14">simétrico</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       x="184.56606"
+       y="44.804234"
+       id="text16"><tspan
+         sodipodi:role="line"
+         style="fill:#000080;stroke-width:0.264583"
+         x="184.56606"
+         y="44.804234"
+         id="tspan16">Nodos esquina</tspan></text>
+    <path
+       style="fill:#cccccc;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="m 70.25533,46.540816 1.170828,8.683639"
+       id="path17" />
+    <path
+       style="fill:#cccccc;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="m 115.09993,50.266367 -0.071,4.406154"
+       id="path18"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff0000;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="m 179.67615,46.540816 -30.01339,7.993722"
+       id="path19"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff0000;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="m 179.67615,46.540816 3.37859,7.579772"
+       id="path20"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff0000;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="m 179.67615,46.540816 29.59543,8.959606"
+       id="path21"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#666666;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       x="67.31749"
+       y="80.592392"
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="67.31749"
+         y="80.592392">Segmentos</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="67.31749"
+         y="84.561142"
+         id="tspan22">curvos</tspan></text>
+    <path
+       style="fill:#ff0000;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="M 67.620967,76.884772 63.718208,70.835493"
+       id="path22"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff0000;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="M 67.620967,76.884772 76.207038,58.932076"
+       id="path23"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#666666;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       x="105.95481"
+       y="74.543114"
+       id="text24"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="105.95481"
+         y="74.543114">Segmentos</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="105.95481"
+         y="78.511864"
+         id="tspan24">curvos</tspan></text>
+    <path
+       style="fill:#666666;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="M 113.67353,72.006323 107.14909,61.403592"
+       id="path24"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#666666;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="m 113.67353,72.006323 6.58531,-12.088402"
+       id="path25"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#666666;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       x="136.78662"
+       y="75.518806"
+       id="text26"><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="136.78662"
+         y="75.518806">Segmentos</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="136.78662"
+         y="79.487556"
+         id="tspan26">curvos</tspan></text>
+    <path
+       style="fill:#666666;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="M 145.09074,72.396599 139.94613,62.207818"
+       id="path26"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#666666;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="m 145.09074,72.396599 6.79229,-6.431083"
+       id="path27"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#666666;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       x="173.31091"
+       y="82.135567"
+       id="text28"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="173.31091"
+         y="82.135567">Segmento</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="173.31091"
+         y="86.104317"
+         id="tspan28">curvo</tspan></text>
+    <path
+       style="fill:#666666;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="m 179.86255,78.467868 -6.11049,-5.221379"
+       id="path28"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#666666;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       x="175.38066"
+       y="97.727699"
+       id="text30"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="175.38066"
+         y="97.727699">Segmento</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="175.38066"
+         y="101.69645"
+         id="tspan30">recto</tspan></text>
+    <path
+       style="fill:#666666;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="m 183.72608,94.473941 5.75608,-6.601213"
+       id="path30"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#666666;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       x="203.2854"
+       y="101.04504"
+       id="text32"><tspan
+         sodipodi:role="line"
+         id="tspan31"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="203.2854"
+         y="101.04504">Segmentos</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="203.2854"
+         y="105.01379"
+         id="tspan32">rectos</tspan></text>
+    <path
+       style="fill:#666666;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="M 210.85027,97.401011 205.67862,84.360245"
+       id="path32"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#666666;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="m 211.08106,97.596149 5.17165,-13.040766"
+       id="path33"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
