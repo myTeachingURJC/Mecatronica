@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="144.03903mm"
+   height="79.876915mm"
+   viewBox="0 0 144.03903 79.876917"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4-beta3 (01c8a1c, 2024-08-28)"
+   sodipodi:docname="Tut-99-nodos.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1.3558782"
+     inkscape:cx="288.00522"
+     inkscape:cy="129.4364"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="144.03903"
+       height="79.876915"
+       id="page52"
+       margin="0"
+       bleed="0" />
+    <inkscape:page
+       x="40.5887"
+       y="109.66754"
+       width="0"
+       height="0"
+       id="page53" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-52.790482,-34.344693)">
+    <rect
+       style="fill:#ffffff;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect33"
+       width="138.86612"
+       height="75.713539"
+       x="55.145016"
+       y="36.296078" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff0000;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       x="91.003059"
+       y="45.077282"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="fill:#ff0000;stroke-width:0.264583"
+         x="91.003059"
+         y="45.077282">Nodo suave</tspan></text>
+    <path
+       id="path12"
+       style="fill:none;stroke:#000000;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:round"
+       d="m 157.0477,98.409478 c 0,0 -11.26756,-41.137901 11.08221,-41.119046 22.34978,0.01885 9.11972,40.888026 9.11972,40.888026 v 0 m -89.761144,1.276636 c 0,0 -15.389971,-42.065332 4.201701,-42.164662 46.773873,-0.237143 10.793113,42.149102 10.793113,42.149102"
+       sodipodi:nodetypes="cscccsc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff0000;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       x="167.43362"
+       y="45.077282"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="fill:#ff0000;stroke-width:0.264583"
+         x="167.43362"
+         y="45.077282">Nodo suave</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ff0000;stroke-width:0.264583"
+         x="167.43362"
+         y="49.046032"
+         id="tspan14">simétrico</tspan></text>
+    <path
+       style="fill:#cccccc;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="m 89.775051,46.396615 1.170828,8.683639"
+       id="path17" />
+    <path
+       style="fill:#cccccc;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="m 168.09422,50.510289 -0.071,4.406154"
+       id="path18"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#666666;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       x="63.672966"
+       y="67.754204"
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="63.672966"
+         y="67.754204">Tirardor</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="63.672966"
+         y="71.722954"
+         id="tspan34">izquierdo</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="63.672966"
+         y="75.691704"
+         id="tspan22" /></text>
+    <path
+       style="fill:#ff0000;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="m 71.294122,64.688648 2.536795,-5.756572"
+       id="path22"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#666666;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       x="113.82343"
+       y="45.89875"
+       id="text37"><tspan
+         sodipodi:role="line"
+         id="tspan35"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="113.82343"
+         y="45.89875">Tirardor</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="113.82343"
+         y="49.8675"
+         id="tspan36">derecho</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="113.82343"
+         y="53.83625"
+         id="tspan37" /></text>
+    <path
+       style="fill:#ff0000;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="m 113.47731,50.496644 -2.5368,5.756572"
+       id="path37"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#666666;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       x="58.794521"
+       y="95.658928"
+       id="text41"><tspan
+         sodipodi:role="line"
+         id="tspan39"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="58.794521"
+         y="95.658928">Segmento</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="58.794521"
+         y="99.627678"
+         id="tspan40">curvo izquierdo</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="58.794521"
+         y="103.59643"
+         id="tspan41" /></text>
+    <path
+       style="fill:#ff0000;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="m 75.001744,94.447189 7.610382,-5.756572"
+       id="path41"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#666666;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       x="113.84989"
+       y="94.969009"
+       id="text44"><tspan
+         sodipodi:role="line"
+         id="tspan42"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="113.84989"
+         y="94.969009">Segmento</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="113.84989"
+         y="98.937759"
+         id="tspan43">curvo derecho</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="113.84989"
+         y="102.90651"
+         id="tspan44" /></text>
+    <path
+       style="fill:#ff0000;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="m 121.03662,91.411554 -7.61039,-5.756572"
+       id="path44"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#666666;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.264583, 1.05833;stroke-dashoffset:0"
+       x="160.48828"
+       y="64.612663"
+       id="text47"><tspan
+         sodipodi:role="line"
+         id="tspan45"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="160.48828"
+         y="64.612663">Tiradores</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="160.48828"
+         y="68.581413"
+         id="tspan46">Simétricos</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;fill:#666666;stroke-width:0.264583"
+         x="160.48828"
+         y="72.550163"
+         id="tspan47" /></text>
+    <path
+       style="fill:#ff0000;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="m 159.396,64.918744 -7.61038,-5.756572"
+       id="path47"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff0000;stroke:#666666;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#Triangle)"
+       d="m 176.00559,64.918744 7.61038,-5.756572"
+       id="path48"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
