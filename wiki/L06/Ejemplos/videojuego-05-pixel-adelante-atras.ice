@@ -12,26 +12,6 @@
     "graph": {
       "blocks": [
         {
-          "id": "5e358de2-05b5-407d-b33d-9d2944602d7f",
-          "type": "basic.inputLabel",
-          "data": {
-            "name": "update",
-            "blockColor": "darkgreen",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
-          },
-          "position": {
-            "x": -256,
-            "y": 56
-          }
-        },
-        {
           "id": "fd40837f-3fb0-4ff6-936e-b5921cae47e4",
           "type": "basic.inputLabel",
           "data": {
@@ -60,6 +40,26 @@
           "position": {
             "x": 952,
             "y": 104
+          }
+        },
+        {
+          "id": "5e358de2-05b5-407d-b33d-9d2944602d7f",
+          "type": "basic.inputLabel",
+          "data": {
+            "name": "update",
+            "blockColor": "darkgreen",
+            "virtual": true,
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ]
+          },
+          "position": {
+            "x": -112,
+            "y": 120
           }
         },
         {
@@ -110,8 +110,8 @@
             ]
           },
           "position": {
-            "x": 672,
-            "y": 176
+            "x": 664,
+            "y": 200
           }
         },
         {
@@ -130,28 +130,8 @@
             "virtual": true
           },
           "position": {
-            "x": -120,
-            "y": 224
-          }
-        },
-        {
-          "id": "bfe9d57b-03b2-4994-be8e-e8b9caf35229",
-          "type": "basic.input",
-          "data": {
-            "name": "boton",
-            "pins": [
-              {
-                "index": "0",
-                "name": "SW1",
-                "value": "34"
-              }
-            ],
-            "virtual": false,
-            "clock": false
-          },
-          "position": {
-            "x": -432,
-            "y": 256
+            "x": 24,
+            "y": 288
           }
         },
         {
@@ -181,8 +161,8 @@
             ]
           },
           "position": {
-            "x": 64,
-            "y": 392
+            "x": 176,
+            "y": 312
           }
         },
         {
@@ -212,8 +192,48 @@
             ]
           },
           "position": {
-            "x": 376,
-            "y": 392
+            "x": 488,
+            "y": 312
+          }
+        },
+        {
+          "id": "bfe9d57b-03b2-4994-be8e-e8b9caf35229",
+          "type": "basic.input",
+          "data": {
+            "name": "boton",
+            "pins": [
+              {
+                "index": "0",
+                "name": "SW1",
+                "value": "34"
+              }
+            ],
+            "virtual": false,
+            "clock": false
+          },
+          "position": {
+            "x": -288,
+            "y": 320
+          }
+        },
+        {
+          "id": "d8aba44b-410a-4d55-ae96-127d6b52567c",
+          "type": "basic.outputLabel",
+          "data": {
+            "name": "update",
+            "blockColor": "darkgreen",
+            "virtual": true,
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ]
+          },
+          "position": {
+            "x": 208,
+            "y": 384
           }
         },
         {
@@ -272,26 +292,6 @@
           }
         },
         {
-          "id": "d8aba44b-410a-4d55-ae96-127d6b52567c",
-          "type": "basic.outputLabel",
-          "data": {
-            "name": "update",
-            "blockColor": "darkgreen",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
-          },
-          "position": {
-            "x": 96,
-            "y": 464
-          }
-        },
-        {
           "id": "4484c2c8-e163-4f03-9549-1043573acf59",
           "type": "basic.outputLabel",
           "data": {
@@ -331,8 +331,8 @@
             "local": false
           },
           "position": {
-            "x": -376,
-            "y": -48
+            "x": -232,
+            "y": 16
           }
         },
         {
@@ -369,8 +369,8 @@
             "readonly": true
           },
           "position": {
-            "x": -440,
-            "y": -240
+            "x": -296,
+            "y": -176
           },
           "size": {
             "width": 496,
@@ -397,8 +397,8 @@
             "readonly": true
           },
           "position": {
-            "x": -376,
-            "y": -104
+            "x": -232,
+            "y": -40
           },
           "size": {
             "width": 224,
@@ -461,8 +461,8 @@
             "readonly": true
           },
           "position": {
-            "x": 120,
-            "y": 304
+            "x": 232,
+            "y": 224
           },
           "size": {
             "width": 272,
@@ -565,8 +565,8 @@
           "id": "43d8662a-499a-4b38-807e-5ad9029b02e9",
           "type": "1f0e886090356abdf5937c0bfd95bf482695a204",
           "position": {
-            "x": -400,
-            "y": 56
+            "x": -256,
+            "y": 120
           },
           "size": {
             "width": 96,
@@ -577,8 +577,8 @@
           "id": "4d0b585c-14ea-437f-a786-4be1d0ecfd5f",
           "type": "5018a67fe520592d7f82dbf669bb3c3661624b65",
           "position": {
-            "x": -264,
-            "y": 240
+            "x": -120,
+            "y": 304
           },
           "size": {
             "width": 96,
@@ -589,12 +589,28 @@
           "id": "e4df6cc0-9d73-467d-8b9e-d56e57ba1467",
           "type": "e69811a24f26217fb9bc5945eda5691eafea4bca",
           "position": {
-            "x": 232,
-            "y": 376
+            "x": 344,
+            "y": 296
           },
           "size": {
             "width": 96,
             "height": 96
+          }
+        },
+        {
+          "id": "4d5d54d1-0639-4be5-96d8-b442113acd2f",
+          "type": "basic.info",
+          "data": {
+            "info": "Mux 2-1",
+            "readonly": true
+          },
+          "position": {
+            "x": 648,
+            "y": 168
+          },
+          "size": {
+            "width": 96,
+            "height": 40
           }
         }
       ],
