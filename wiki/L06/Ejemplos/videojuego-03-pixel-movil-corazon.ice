@@ -142,6 +142,54 @@
             "width": 96,
             "height": 64
           }
+        },
+        {
+          "id": "f5bd4d2e-0b8d-4167-8bee-1ba6419e0a4a",
+          "type": "basic.info",
+          "data": {
+            "info": "Contador de 3 bits  \n(cuenta 0-7)",
+            "readonly": true
+          },
+          "position": {
+            "x": 632,
+            "y": 320
+          },
+          "size": {
+            "width": 184,
+            "height": 56
+          }
+        },
+        {
+          "id": "024e4dd4-a61c-4351-88cc-87116d8e2436",
+          "type": "basic.info",
+          "data": {
+            "info": "Demux 1-8",
+            "readonly": true
+          },
+          "position": {
+            "x": 864,
+            "y": 288
+          },
+          "size": {
+            "width": 112,
+            "height": 40
+          }
+        },
+        {
+          "id": "5c0cd568-3bcc-44d0-9f9b-9311690144f9",
+          "type": "basic.info",
+          "data": {
+            "info": "Emisión de 1 tic (pulso)  \ncada segundo (Frec. 1 Hz)",
+            "readonly": true
+          },
+          "position": {
+            "x": 392,
+            "y": 336
+          },
+          "size": {
+            "width": 232,
+            "height": 56
+          }
         }
       ],
       "wires": [
