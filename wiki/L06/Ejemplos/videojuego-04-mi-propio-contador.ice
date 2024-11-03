@@ -156,7 +156,7 @@
             "virtual": true
           },
           "position": {
-            "x": 816,
+            "x": 928,
             "y": 320
           }
         },
@@ -188,8 +188,8 @@
             "oldBlockColor": "fuchsia"
           },
           "position": {
-            "x": 592,
-            "y": 416
+            "x": 648,
+            "y": 392
           }
         },
         {
@@ -201,8 +201,8 @@
             "local": false
           },
           "position": {
-            "x": 112,
-            "y": 384
+            "x": 272,
+            "y": 408
           }
         },
         {
@@ -222,16 +222,16 @@
           "id": "3d612fe0-8a4b-4639-9def-8d6b699c3569",
           "type": "basic.info",
           "data": {
-            "info": "## Videojuego 4: Pixel autónomo\n\nControl de velocidad...",
+            "info": "## Videojuego 4: Pixel autónomo\n\nEl pixel se mueve con movimiento rectilineo uniforme  \nCambiando la velocidad a -1, la posicion se decrementa  \ny por tanto se muebe en el sentido opuesto",
             "readonly": true
           },
           "position": {
-            "x": 80,
-            "y": -112
+            "x": 192,
+            "y": -80
           },
           "size": {
-            "width": 488,
-            "height": 72
+            "width": 552,
+            "height": 104
           }
         },
         {
@@ -250,7 +250,7 @@
           "id": "80d7baa4-c09c-47e8-9c05-75d61aa319ef",
           "type": "4898bbaf0126034e1995d1777b4faa914cf1ee3a",
           "position": {
-            "x": 648,
+            "x": 776,
             "y": 304
           },
           "size": {
@@ -274,8 +274,8 @@
           "id": "0fa14be5-0cae-49f1-8d9b-6ff6aa03b4ba",
           "type": "1f0e886090356abdf5937c0bfd95bf482695a204",
           "position": {
-            "x": 88,
-            "y": 488
+            "x": 248,
+            "y": 520
           },
           "size": {
             "width": 96,
@@ -304,6 +304,102 @@
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "5ce7ea52-7435-4d77-9cf1-d947dea4dfda",
+          "type": "basic.info",
+          "data": {
+            "info": "Vel: -1  \nAtrás",
+            "readonly": true
+          },
+          "position": {
+            "x": 592,
+            "y": 96
+          },
+          "size": {
+            "width": 104,
+            "height": 48
+          }
+        },
+        {
+          "id": "988c1dbc-8ea4-4180-90e9-f534c247472c",
+          "type": "basic.info",
+          "data": {
+            "info": "Registro de 3 bits  \nAlmacena la posicion  \nactual del pixel",
+            "readonly": true
+          },
+          "position": {
+            "x": 472,
+            "y": 416
+          },
+          "size": {
+            "width": 200,
+            "height": 72
+          }
+        },
+        {
+          "id": "3d6ed46d-a26c-471f-92b3-f09244e04615",
+          "type": "basic.info",
+          "data": {
+            "info": "Posicion actual de  \nla partícula",
+            "readonly": true
+          },
+          "position": {
+            "x": 656,
+            "y": 456
+          },
+          "size": {
+            "width": 184,
+            "height": 48
+          }
+        },
+        {
+          "id": "af53d41a-d754-4d1e-8e23-af8c81ead8ab",
+          "type": "basic.info",
+          "data": {
+            "info": "Sumador",
+            "readonly": true
+          },
+          "position": {
+            "x": 800,
+            "y": 384
+          },
+          "size": {
+            "width": 96,
+            "height": 32
+          }
+        },
+        {
+          "id": "014360a9-ce93-43d3-a385-80b0629756de",
+          "type": "basic.info",
+          "data": {
+            "info": "Siguiente posición:  \nsig_pos = pos + vel",
+            "readonly": true
+          },
+          "position": {
+            "x": 936,
+            "y": 384
+          },
+          "size": {
+            "width": 184,
+            "height": 56
+          }
+        },
+        {
+          "id": "335570de-7fba-4352-a1d5-1c980ef9323e",
+          "type": "basic.info",
+          "data": {
+            "info": "Actualizar posicion  \nactual 6 veces por  \nsegundo",
+            "readonly": true
+          },
+          "position": {
+            "x": 384,
+            "y": 568
+          },
+          "size": {
+            "width": 192,
+            "height": 80
           }
         }
       ],
