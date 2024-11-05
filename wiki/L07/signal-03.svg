@@ -7,7 +7,7 @@
    viewBox="0 0 522.74213 290.37891"
    version="1.1"
    id="svg27116"
-   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   inkscape:version="1.4 (e7c3feb, 2024-10-09)"
    sodipodi:docname="signal-03.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,42 +24,49 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.32026164"
-     inkscape:cx="1066.3156"
-     inkscape:cy="560.47923"
-     inkscape:window-width="1858"
-     inkscape:window-height="1016"
-     inkscape:window-x="62"
-     inkscape:window-y="1107"
+     inkscape:zoom="0.45291835"
+     inkscape:cx="534.31264"
+     inkscape:cy="338.91318"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
        position="333.58469,98.881697"
        orientation="1,0"
-       id="guide70928" />
+       id="guide70928"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="376.26587,107.83931"
        orientation="0,-1"
-       id="guide70932" />
+       id="guide70932"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="427.48701,107.83932"
        orientation="1,0"
-       id="guide73218" />
+       id="guide73218"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="415.64246,153.62728"
        orientation="1,0"
-       id="guide73571" />
+       id="guide73571"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="321.74015,69.266819"
        orientation="0,-1"
-       id="guide73690" />
+       id="guide73690"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs27113">
@@ -2186,7 +2193,7 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.1369px;line-height:1.25;font-family:sans-serif;display:inline;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.273152"
-       x="43.808167"
+       x="58.059208"
        y="93.786964"
        id="text844-8-1"
        inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/Mecatronica/wiki/L07/signal-03.png"
@@ -2194,9 +2201,9 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan842-1-4"
-         x="43.808167"
+         x="58.059208"
          y="93.786964"
-         style="fill:#767675;fill-opacity:1;stroke-width:0.273152">max</tspan></text>
+         style="fill:#767675;fill-opacity:1;stroke-width:0.273152">M</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -2227,9 +2234,9 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="-12.045438"
+         x="-12.045441"
          y="123.13012"
-         id="tspan28590-0">Valor máximo</tspan></text>
+         id="tspan28590-0">Módulo</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -2243,7 +2250,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="-12.80663"
          y="103.79013"
-         id="tspan28590-6">M-1</tspan></text>
+         id="tspan28590-6">M</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
