@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    sodipodi:docname="syscounter-01.svg"
-   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   inkscape:version="1.4 (e7c3feb, 2024-10-09)"
    id="svg8"
    version="1.1"
    viewBox="0 0 576.60378 218.62557"
@@ -8028,16 +8028,16 @@
      fit-margin-left="0"
      fit-margin-top="0"
      inkscape:window-maximized="1"
-     inkscape:window-y="27"
-     inkscape:window-x="62"
-     inkscape:window-height="1016"
-     inkscape:window-width="1858"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1011"
+     inkscape:window-width="1866"
      inkscape:snap-global="false"
      showgrid="false"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      inkscape:document-units="mm"
-     inkscape:cy="479.1444"
-     inkscape:cx="609.35774"
+     inkscape:cy="485.24815"
+     inkscape:cx="1048.8278"
      inkscape:zoom="0.4915011"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -8045,7 +8045,9 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:pagecheckerboard="0" />
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -8238,14 +8240,14 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:12.1369px;line-height:1.25;font-family:sans-serif;display:inline;fill:#767675;fill-opacity:1;stroke:none;stroke-width:0.273152"
-         x="-18.607573"
+         x="-1.3814328"
          y="110.43784"
          id="text844-8-1-0"><tspan
            sodipodi:role="line"
            id="tspan842-1-4"
-           x="-18.607573"
+           x="-1.3814328"
            y="110.43784"
-           style="fill:#767675;fill-opacity:1;stroke-width:0.273152">max[2:0]</tspan></text>
+           style="fill:#767675;fill-opacity:1;stroke-width:0.273152">M[2:0]</tspan></text>
     </g>
     <g
        transform="translate(-38.268953,-113.52416)"
@@ -8596,7 +8598,7 @@
          style="text-align:center;text-anchor:middle;stroke-width:0.264583"
          x="198.28911"
          y="96.525826"
-         id="tspan34893">valor máximo</tspan></text>
+         id="tspan34893">Módulo</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-1)"
        d="M -11.433952,7.083909 -23.975463,38.050146"
