@@ -167,7 +167,7 @@
           "id": "58d302dc-d006-404a-8a55-63639709ed0c",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 13: Generador de señal de 50Hz. Ciclo de trabajo 50%\n\nUsamos una señal de 100Hz, que luego pasamos por un biestable T para divirlo (100/2 = 50Hz)  \nLa señal de salida tiene un ciclo de trabajo del 50%\n\n* M = 12000000/100 = 120000\n* Max = M-1 = 119999\n* Número de bits: N=18 (Necesitamos un contador de **18 bits o más**)",
+            "info": "# Ejemplo 13: Generador de señal de 50Hz. Ciclo de trabajo 50%\n\nUsamos una señal de 100Hz, que luego pasamos por un biestable T para divirlo (100/2 = 50Hz)  \nLa señal de salida tiene un ciclo de trabajo del 50%\n\n* M = 12000000 / 100 = 120000\n* Número de bits: N=18 (Necesitamos un contador de **18 bits o más**)",
             "readonly": true
           },
           "position": {
