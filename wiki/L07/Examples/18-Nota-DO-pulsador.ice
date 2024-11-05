@@ -271,16 +271,48 @@
           "id": "9a3cad2d-c5e6-4a57-8fbd-2d3dafc94e4c",
           "type": "basic.info",
           "data": {
-            "info": "M = Fsys / 262 = 45801",
+            "info": "Nota DO. Frec = 262Hz  \nM = Fsys / 262 = 45801",
             "readonly": true
           },
           "position": {
             "x": 608,
-            "y": 320
+            "y": 296
           },
           "size": {
             "width": 232,
-            "height": 40
+            "height": 48
+          }
+        },
+        {
+          "id": "cbe0353f-1c06-48fe-bafa-f3b1513812b6",
+          "type": "basic.info",
+          "data": {
+            "info": "Frec: 2*262Hz",
+            "readonly": true
+          },
+          "position": {
+            "x": 768,
+            "y": 464
+          },
+          "size": {
+            "width": 136,
+            "height": 32
+          }
+        },
+        {
+          "id": "da2c1c11-343e-47ad-9675-79f7955008ca",
+          "type": "basic.info",
+          "data": {
+            "info": "Frec: 262Hz",
+            "readonly": true
+          },
+          "position": {
+            "x": 1016,
+            "y": 368
+          },
+          "size": {
+            "width": 136,
+            "height": 32
           }
         }
       ],
