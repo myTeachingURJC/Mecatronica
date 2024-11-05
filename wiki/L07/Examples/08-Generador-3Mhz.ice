@@ -114,7 +114,7 @@
           "id": "58d302dc-d006-404a-8a55-63639709ed0c",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 8: Generar de señal de 3Mhz\n\n* M = 12Mhz/3Mhz = 4\n* Número de bits: N=2",
+            "info": "# Ejemplo 8: Generador de señal de 3Mhz\n\n* M = 12Mhz/3Mhz = 4\n* Número de bits: N=2",
             "readonly": true
           },
           "position": {
