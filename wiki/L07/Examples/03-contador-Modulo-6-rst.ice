@@ -117,7 +117,7 @@
           "id": "97b9c83a-d6f2-4ba9-9e87-5121946449a4",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 3: Contador manual módulo 6 con reset\n\nEl contador cuenta 0,1,2,4,5 y vuelve a comenzar. La cuenta se incrementa con  \ncada pulsación del pulsador SW1. Al apretar SW2 se inicializa a 0",
+            "info": "# Ejemplo 3: Contador manual módulo 6 con reset\n\nEl contador cuenta 0,1,2,3,4,5 y vuelve a comenzar. La cuenta se incrementa con  \ncada pulsación del pulsador SW1. Al apretar SW2 se inicializa a 0",
             "readonly": true
           },
           "position": {

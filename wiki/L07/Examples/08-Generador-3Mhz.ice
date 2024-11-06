@@ -89,7 +89,7 @@
           "id": "6e742c48-9ad8-4475-a1ab-64894fb10476",
           "type": "basic.constant",
           "data": {
-            "name": "max",
+            "name": "Modulo",
             "value": "4",
             "local": false
           },
