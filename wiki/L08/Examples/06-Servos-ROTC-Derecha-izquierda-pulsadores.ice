@@ -12,12 +12,12 @@
     "graph": {
       "blocks": [
         {
-          "id": "d88d6a0e-5cfa-447e-9884-c1a1eea172aa",
+          "id": "9923cc37-b40a-4b68-8384-ea0a4f73ded1",
           "type": "basic.inputLabel",
           "data": {
-            "name": "DER",
+            "name": "IZQ",
             "range": "[31:0]",
-            "blockColor": "navy",
+            "blockColor": "darkgreen",
             "virtual": true,
             "pins": [
               {
@@ -183,7 +183,7 @@
             ]
           },
           "position": {
-            "x": 224,
+            "x": 216,
             "y": 40
           }
         },
@@ -1106,12 +1106,12 @@
           }
         },
         {
-          "id": "9923cc37-b40a-4b68-8384-ea0a4f73ded1",
+          "id": "d88d6a0e-5cfa-447e-9884-c1a1eea172aa",
           "type": "basic.inputLabel",
           "data": {
-            "name": "IZQ",
+            "name": "DER",
             "range": "[31:0]",
-            "blockColor": "darkgreen",
+            "blockColor": "navy",
             "virtual": true,
             "pins": [
               {
@@ -1277,7 +1277,7 @@
             ]
           },
           "position": {
-            "x": -88,
+            "x": -80,
             "y": 224
           }
         },
@@ -1513,7 +1513,7 @@
             ]
           },
           "position": {
-            "x": 80,
+            "x": -208,
             "y": 352
           }
         },
@@ -1533,7 +1533,7 @@
             "clock": false
           },
           "position": {
-            "x": -240,
+            "x": -528,
             "y": 368
           }
         },
@@ -1553,7 +1553,7 @@
             ]
           },
           "position": {
-            "x": 80,
+            "x": -208,
             "y": 472
           }
         },
@@ -1573,7 +1573,7 @@
             "clock": false
           },
           "position": {
-            "x": -240,
+            "x": -528,
             "y": 488
           }
         },
@@ -1665,7 +1665,7 @@
           "id": "9c9513d9-1051-4f7c-94da-7e1e704fb0fa",
           "type": "basic.info",
           "data": {
-            "info": "# Ejemplo 5: Servo a tres posiciones",
+            "info": "# Ejemplo 6: Servo de rotación continua: Movimiento izquierda-derecha",
             "readonly": true
           },
           "position": {
@@ -1673,7 +1673,7 @@
             "y": -176
           },
           "size": {
-            "width": 704,
+            "width": 1064,
             "height": 40
           }
         },
@@ -1681,7 +1681,7 @@
           "id": "ad4eeb3c-3051-49e6-8610-c303033c84fb",
           "type": "091b3514573becaa7196cc3f7854140e5773864d",
           "position": {
-            "x": -64,
+            "x": -352,
             "y": 352
           },
           "size": {
@@ -1793,7 +1793,7 @@
           "id": "fe0ec7b2-4338-41d0-8b83-3215008b84e9",
           "type": "091b3514573becaa7196cc3f7854140e5773864d",
           "position": {
-            "x": -64,
+            "x": -352,
             "y": 472
           },
           "size": {
@@ -1811,6 +1811,38 @@
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "47f33c59-eb70-49ee-a4d8-7ea813c1986b",
+          "type": "basic.info",
+          "data": {
+            "info": "Mover a la izquierda",
+            "readonly": true
+          },
+          "position": {
+            "x": -88,
+            "y": 368
+          },
+          "size": {
+            "width": 192,
+            "height": 40
+          }
+        },
+        {
+          "id": "b603bb81-1685-49dd-8870-1996e4c652c1",
+          "type": "basic.info",
+          "data": {
+            "info": "Mover a la derecha",
+            "readonly": true
+          },
+          "position": {
+            "x": -80,
+            "y": 496
+          },
+          "size": {
+            "width": 192,
+            "height": 40
           }
         }
       ],
@@ -1839,17 +1871,6 @@
         },
         {
           "source": {
-            "block": "779e8f1e-002d-4609-8975-ec0844e9a25d",
-            "port": "cd1ea929-712d-45ee-8b01-e608e6bf8869"
-          },
-          "target": {
-            "block": "9923cc37-b40a-4b68-8384-ea0a4f73ded1",
-            "port": "inlabel"
-          },
-          "size": 32
-        },
-        {
-          "source": {
             "block": "ad4eeb3c-3051-49e6-8610-c303033c84fb",
             "port": "4e8afe74-8f38-4873-97ee-f7585d99a4aa"
           },
@@ -1868,17 +1889,6 @@
             "port": "inlabel"
           },
           "vertices": []
-        },
-        {
-          "source": {
-            "block": "df7733a5-acaf-4820-ac6b-4fedf00c537b",
-            "port": "cd1ea929-712d-45ee-8b01-e608e6bf8869"
-          },
-          "target": {
-            "block": "d88d6a0e-5cfa-447e-9884-c1a1eea172aa",
-            "port": "inlabel"
-          },
-          "size": 32
         },
         {
           "source": {
@@ -2065,6 +2075,28 @@
             "block": "711425ee-164d-4248-9938-a7919221b420",
             "port": "1e7e3cd6-ed00-468a-9f7c-0bb91e020dce"
           }
+        },
+        {
+          "source": {
+            "block": "779e8f1e-002d-4609-8975-ec0844e9a25d",
+            "port": "cd1ea929-712d-45ee-8b01-e608e6bf8869"
+          },
+          "target": {
+            "block": "d88d6a0e-5cfa-447e-9884-c1a1eea172aa",
+            "port": "inlabel"
+          },
+          "size": 32
+        },
+        {
+          "source": {
+            "block": "df7733a5-acaf-4820-ac6b-4fedf00c537b",
+            "port": "cd1ea929-712d-45ee-8b01-e608e6bf8869"
+          },
+          "target": {
+            "block": "9923cc37-b40a-4b68-8384-ea0a4f73ded1",
+            "port": "inlabel"
+          },
+          "size": 32
         }
       ]
     }
